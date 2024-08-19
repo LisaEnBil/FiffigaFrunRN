@@ -21,6 +21,16 @@ export default function TabLayout() {
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'home' : 'home-outline'} color={color} />
           ),
+          //tabBarAccessibilityLabel: app.navbar.home,
+        }}
+      />
+      <Tabs.Screen
+        name="email"
+        options={{
+          title: 'Email',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'mail' : 'mail-outline'} color={color} />
+          ),
         }}
       />
       <Tabs.Screen
