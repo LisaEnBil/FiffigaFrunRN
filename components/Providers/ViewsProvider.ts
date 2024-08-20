@@ -1,6 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import React, { useEffect, useReducer } from 'react';
-import { UnsubscribedUserContext } from '../../contexts/UnsubscriberUserContext';
+import React from 'react';
 
 export const reducer = (state: any, action: any) => {
   const { type, payload } = action;
@@ -21,7 +20,7 @@ export const reducer = (state: any, action: any) => {
   }
 };
 
-const saveViews = async (views) => {
+const saveViews = async (views: number) => {
   try {
     await AsyncStorage.setItem('views', JSON.stringify(views));
     await AsyncStorage.setItem('lastOpened', JSON.stringify(new Date()));
@@ -30,26 +29,10 @@ const saveViews = async (views) => {
   }
 };
 
-export const UnsubscribedUserProvider = ({ children }) => {
-  const [state, dispatch] = useReducer(reducer, { views: 0 });
-
-  useEffect(() => {
-
-
-    loadViews(dispatch);
-  }, []);
-
-  return (
-    <UnsubscribedUserContext.Provider value= {{ views: state.views, dispatch }
-}>
-  { children }
-  </UnsubscribedUserContext.Provider>
-  );
-};
 
 
 
-export const loadViews = async (dispatch) => {
+export const loadViews = async (dispatch: React.Dispatch<any>) => {
 
   try {
     const lastOpenedJson = await AsyncStorage.getItem('lastOpened');
