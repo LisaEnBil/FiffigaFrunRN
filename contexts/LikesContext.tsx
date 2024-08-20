@@ -11,7 +11,7 @@ interface LikesState {
 export const LikesContext = createContext<LikesState | null>({ likes: {}, dispatch: () => null });
 
 interface LikesProviderProps {
-    children: ReactNode; // Correctly typing the children prop
+    children: ReactNode;
 }
 
 export const LikesProvider: React.FC<LikesProviderProps> = ({ children }) => {
