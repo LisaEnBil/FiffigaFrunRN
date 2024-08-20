@@ -12,6 +12,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "helpers/__test__/helpers.test.js",
+    "components/Providers/UnsubscribedUserProvider.ts",
+    "components/Providers/LikesProvider.ts"
   ]
 }

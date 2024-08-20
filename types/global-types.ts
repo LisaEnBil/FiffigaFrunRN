@@ -6,7 +6,11 @@ export type Item =
         description: string
     }
 
-
-
-
-
+export type LikedItem =
+    {
+        id: number,
+        categories: string[],
+        title: string,
+        description: string,
+        checked: boolean,
+    }
