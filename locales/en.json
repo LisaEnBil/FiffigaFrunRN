@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "home": "Home",
+    "tips": "All tips",
+    "favourites": "Favourites",
+    "email": "Email"
+  },
+  "buttons": {
+    "reset": "Reset",
+    "apply": "Apply filter",
+    "close": "Close",
+    "back": "Back",
+    "sendEmail": "Send email"
+  },
+  "searchbar": {
+    "search": "Search"
+  },
+  "favourites": {
+    "emptyList": "You don't have any favourites.\nLike and they will show up here.",
+    "noSubscription": "You don't have a subscription.\nGet a subscription and you can save your favourites here."
+  },
+  "email": {
+    "text": "If you wish to share your own tips or otherwise wishes to reach us, you can click the button and send us an email."
+  },
+  "home": {
+    "randomised": "Randomised tips: ",
+    "text": "Good to know",
+    "vinegar": {
+      "title": "Vinegar",
+      "description": "Vinegar is an acid that removes bad odors and is good to have on hand."
+    },
+    "bakingSoda": {
+      "title": "Baking soda",
+      "description": "Mix with an acid (vinegar, citric or ascorbic acid) for an effective cleaner or use instead of yeast when baking."
+    },
+    "salt": {
+      "title": "Salt",
+      "description": "The most important spice! Can be used to scrub tough stains. Ferment vegetables with salt and water."
+    },
+    "lemon": {
+      "title": "Lemon",
+      "description": "Lemon gives the homemade cleaner a fresh smell. Lemon water is good for digestion."
+    }
+  },
+  "splash": {
+    "splashText1": "Preparing cleaning agent",
+    "splashText2": "About to start cleaning",
+    "splashText3": "Putting on the cleaning gloves",
+    "splashText4": "Fetching the broom",
+    "splashText5": "Rolling up the sleeves"
+  },
+  "categories": {
+    "food": "food",
+    "jewelry": "jewelry",
+    "plants": "plants",
+    "clothes": "clothes",
+    "sickness": "sickness & injury",
+    "kitchen": "kitchen",
+    "textile": "textile",
+    "animals": "animals",
+    "furniture": "furniture",
+    "hobby": "hobby",
+    "vermin": "vermin",
+    "body": "body & beauty",
+    "cleaning": "cleaning",
+    "bathroom": "bathroom",
+    "outdoors": "outdoors",
+    "christmas": "christmas",
+    "electronics": "electronics",
+    "indoors": "indoors"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "navbar": {
+    "home": "Hem",
+    "tips": "Alla tips",
+    "favourites": "Favoriter",
+    "email": "Email"
+  },
+  "buttons": {
+    "reset": "Återställ",
+    "apply": "Applicera filter",
+    "close": "Stäng",
+    "back": "Tillbaka",
+    "sendEmail": "Skicka email"
+  },
+  "searchbar": {
+    "search": "Sök"
+  },
+  "favourites": {
+    "emptyList": "Du har för tillfället inga favoriter.\nGilla tips genom att klicka på hjärtat så sparas de här.",
+    "noSubscription": "Du har inget abbonnemang.\nSkaffa abbonnemang och spara dina favoriter här."
+  },
+  "email": {
+    "text": "Om du har ett eget tips du vill ska komma med i appen, eller har andra funderingar så är det bara att klicka på knappen för att kontakta oss."
+  },
+  "home": {
+    "randomised": "Randomiserade tips:  ",
+    "text": "Bra att ha hemma",
+    "vinegar": {
+      "title": "Ättika",
+      "description": "Ättika är en syra som är bra att ha hemma. Den tar bort oönskade lukter."
+    },
+    "bakingSoda": {
+      "title": "Bikarbonat",
+      "description": "Blanda med en syra (ättika, citron eller askorbinsyra) för ett effektivt rengöringsmedel eller använd istället för jäst vid bakning."
+    },
+    "salt": {
+      "title": "Salt",
+      "description": "Den viktigaste kryddan! Kan användas för att skrubba svåra fläckar. Fermentera grönsaker med salt och vatten."
+    },
+    "lemon": {
+      "title": "Citron",
+      "description": "Citron ger det hemgjorda rengöringsmedlet en fräsch lukt. Citronvatten är bra för matsmältningen."
+    }
+  },
+  "splash": {
+    "splashText1": "Förbereder rengöringsmedel",
+    "splashText2": "Plockar fram städgrejerna",
+    "splashText3": "Tar på rengöringshandskar",
+    "splashText4": "Hugger tag i sopkvasten",
+    "splashText5": "Rullar upp skjortärmarna"
+  },
+  "categories": {
+    "food": "mat",
+    "jewelry": "smycken",
+    "plants": "växter",
+    "clothes": "kläder",
+    "sickness": "sjukdom & skada",
+    "kitchen": "kök",
+    "textile": "tyger",
+    "animals": "djur",
+    "furniture": "möbler",
+    "hobby": "hobby",
+    "vermin": "ohyra",
+    "body": "kropp & skönhet",
+    "cleaning": "städ & rengöring",
+    "bathroom": "badrum",
+    "outdoors": "utomhus",
+    "christmas": "jul",
+    "electronics": "elektronik",
+    "indoors": "inomhus"
+  }
+}
