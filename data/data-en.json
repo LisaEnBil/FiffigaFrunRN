@@ -1,0 +1,2432 @@
+{
+  "1": {
+    "id": 1,
+    "categories": ["cleaning"],
+    "title": "Asphalt or Tar Stains",
+    "description": "Soften asphalt or tar stains with some glycerin or cooking oil for a few hours. Then wash as usual."
+  },
+  "2": {
+    "id": 2,
+    "categories": ["cleaning", "textile"],
+    "title": "Color Bleeding in Laundry",
+    "description": "Avoid color bleeding in the washing machine, such as when washing a load with new clothes, by putting regular salt in a sock, tying it, and placing it in the machine. The salt absorbs the color that would otherwise stain the other clothes."
+  },
+  "3": {
+    "id": 3,
+    "categories": ["food"],
+    "title": "Preventing Avocado Browning 1",
+    "description": "If you have prepared a salad with avocado, or if you want to save one half of an avocado, avoid browning by leaving the pit in the salad bowl or in the half you want to save until it's served."
+  },
+  "4": {
+    "id": 4,
+    "categories": ["food"],
+    "title": "Preventing Avocado Browning 2",
+    "description": "If you sprinkle some lemon juice on the avocado, it will not brown."
+  },
+  "5": {
+    "id": 5,
+    "categories": ["food"],
+    "title": "Preventing Bananas from Browning",
+    "description": "Bananas stay fresh longer if you wrap them in newspaper and store them in the refrigerator, or better yet, a cool place."
+  },
+  "6": {
+    "id": 6,
+    "categories": ["vermin"],
+    "title": "Fruit Flies 1",
+    "description": "Mix one part apple cider vinegar, one part honey, two parts warm water, and a drop of dish soap in a bowl, jar, or glass. Place it where the flies are."
+  },
+  "7": {
+    "id": 7,
+    "categories": ["vermin"],
+    "title": "Fruit Flies 2",
+    "description": "If you have fruit flies in the kitchen, try generously salting the drain in the sink before going to bed. The salt dissolves the greasy coatings in the drain where the flies lay their eggs."
+  },
+  "8": {
+    "id": 8,
+    "categories": ["cleaning"],
+    "title": "Diaper Disposal Bags?",
+    "description": "If you have small children still using diapers, it's a good idea to always carry a roll of dog waste bags in the diaper bag. The roll takes up little space, and the bags are just the right size to fit both the dirty diaper and the wipes, and after tying the bag, you can throw it in any public trash can without any smell."
+  },
+  "9": {
+    "id": 9,
+    "categories": ["clothes", "outdoors"],
+    "title": "Preserving Garden Gloves",
+    "description": "Keep your best and most comfortable garden gloves intact by wrapping hockey tape around the fingertips of the gloves. This also provides a fantastic non-slip grip while working in the garden!"
+  },
+  "10": {
+    "id": 10,
+    "categories": ["vermin", "plants"],
+    "title": "Aphids 1",
+    "description": "It's good to plant marigolds in front of rose bushes in the flowerbed, as marigolds scare away aphids."
+  },
+  "11": {
+    "id": 11,
+    "categories": ["vermin", "plants"],
+    "title": "Aphids 2",
+    "description": "If you have aphids or other pests on your potted plants, you can boil a handful of parsley in water, strain it, let it cool, and then water the plants with it."
+  },
+  "12": {
+    "id": 12,
+    "categories": ["cleaning"],
+    "title": "Blood Stains",
+    "description": "Moisten with cold water and sprinkle generously with salt. Let sit for a while and then rinse in cold water. Wash with soap if necessary."
+  },
+  "13": {
+    "id": 13,
+    "categories": ["vermin", "plants"],
+    "title": "Flowers in a Basket",
+    "description": "When planting flowers in a basket, you can prevent insects and moisture from taking over by building a small platform of stones at the bottom. This also aerates the soil from below."
+  },
+  "14": {
+    "id": 14,
+    "categories": ["plants"],
+    "title": "Plant Sitter",
+    "description": "If you're going away and have no one to water your plants, you can still manage. Fill a bowl with water and place a washing sponge in it. Then place the plant pot on the sponge, which will absorb as much water as the plant needs for a couple of weeks."
+  },
+  "15": {
+    "id": 15,
+    "categories": ["cleaning"],
+    "title": "Blueberry Stains",
+    "description": "Tough blueberry stains can be removed by soaking the garment in buttermilk for a while and then washing as usual."
+  },
+  "16": {
+    "id": 16,
+    "categories": ["sickness", "body"],
+    "title": "Mouth Ulcer",
+    "description": "If you have a mouth ulcer, you can spray it with a cortisone-containing nasal spray (many are available over-the-counter). The ulcer will disappear in a day or so."
+  },
+  "17": {
+    "id": 17,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Shiny Sink",
+    "description": "Finish cleaning by wiping the sink with skim milk and then water, making the sink shiny and clean!"
+  },
+  "18": {
+    "id": 18,
+    "categories": ["cleaning"],
+    "title": "Drilling Dust",
+    "description": "If you're drilling indoors and don't want dust everywhere, you can fold up the edge of a post-it note and stick it under the spot where you're drilling."
+  },
+  "19": {
+    "id": 19,
+    "categories": ["hobby", "outdoors"],
+    "title": "Good Barbecue Embers",
+    "description": "To reduce smoke and increase ember heat, sprinkle a little salt on the charcoal when grilling."
+  },
+  "20": {
+    "id": 20,
+    "categories": ["cleaning"],
+    "title": "Stained Cups 1",
+    "description": "If cups are stained from tea and coffee, you can scrub them clean with regular table salt mixed with a little water. Then rinse off the salt paste and wash as usual, and the ugly stains are gone!"
+  },
+  "21": {
+    "id": 21,
+    "categories": ["cleaning"],
+    "title": "Stained Cups 2",
+    "description": "To remove coffee stains in a cup, you can first rinse it so that it becomes moist, and then rub some baking soda around with your finger. Rinse and wash as usual."
+  },
+  "22": {
+    "id": 22,
+    "categories": ["sickness", "body"],
+    "title": "Burn Injury",
+    "description": "For minor burn injuries, you can whisk egg white until fluffy and then apply it to the burn."
+  },
+  "23": {
+    "id": 23,
+    "categories": ["sickness", "body"],
+    "title": "Stinging Nettles 1",
+    "description": "If you have burned yourself on stinging nettles, the best relief is to rub the affected area with butter. The more, the better!"
+  },
+  "24": {
+    "id": 24,
+    "categories": ["sickness", "body"],
+    "title": "Stinging Nettles 2",
+    "description": "If you get stung by stinging nettles, it quickly goes away if you rub the affected area with grass!"
+  },
+  "25": {
+    "id": 25,
+    "categories": ["food"],
+    "title": "Bread Crusts",
+    "description": "Saving the ends and crusts of bread and letting them harden can be useful. Then you can chop up the dry bread and use it as breadcrumbs when baking."
+  },
+  "26": {
+    "id": 26,
+    "categories": ["food"],
+    "title": "Bread Crust",
+    "description": "Instead of brushing the risen bread with water and risking it collapsing, you can spray it with a regular flower spray bottle filled with water. For extra crust, you can also open the oven a couple of times and spray the bread during baking."
+  },
+  "27": {
+    "id": 27,
+    "categories": ["hobby", "jewelry"],
+    "title": "Amber",
+    "description": "Amber regains its beautiful shine if you wash it in milk."
+  },
+  "28": {
+    "id": 28,
+    "categories": ["cleaning", "clothes"],
+    "title": "Berry Stains",
+    "description": "Berry stains on clothes can be easily removed by pouring a little boiling water on the stain with the help of a teaspoon and then scraping gently. Repeat until the stain is gone."
+  },
+  "29": {
+    "id": 29,
+    "categories": ["cleaning", "clothes"],
+    "title": "Chocolate Stains",
+    "description": "To remove chocolate stains on clothes, rub the stains with milk and then wash the garment in cold water."
+  },
+  "30": {
+    "id": 30,
+    "categories": ["cleaning", "electronics"],
+    "title": "Dusty TV",
+    "description": "If you dust your TV with a little fabric softener in the water, it won't attract as much dust."
+  },
+  "31": {
+    "id": 31,
+    "categories": ["cleaning"],
+    "title": "Vacuum Cleaner Bags",
+    "description": "For those with a central vacuum cleaner, you can save a lot of money on expensive vacuum cleaner bags, as regular plastic bags work just as well. Just make sure to attach the bag properly!"
+  },
+  "32": {
+    "id": 32,
+    "categories": ["cleaning"],
+    "title": "Vacuuming Radiators",
+    "description": "It becomes easier to vacuum the radiators thoroughly if you use an old toothbrush to brush away all the dirt that is otherwise hard to reach!"
+  },
+  "33": {
+    "id": 33,
+    "categories": ["cleaning"],
+    "title": "Dishwasher Tablets",
+    "description": "If you run out of dishwasher tablets, you can use baking soda and salt. Fill 3/4 of the dishwasher compartment with baking soda and the remaining with salt. Add three drops of dishwashing liquid and run the machine as usual. Avoid using too much dish soap as it foams."
+  },
+  "34": {
+    "id": 34,
+    "categories": ["cleaning"],
+    "title": "Bad Odor in the Home",
+    "description": "If there is a bad smell in the home, even from cigarette smoke or fire smoke, you can place a bowl of water and vinegar in the room. Vinegar absorbs the bad odor. You can also use diluted vinegar spirit."
+  },
+  "35": {
+    "id": 35,
+    "categories": ["cleaning"],
+    "title": "Bad Odor in the Drain",
+    "description": "If there is a bad smell coming from the drain, you can easily get rid of it by first pouring in vinegar and then baking soda. Let it sit for a while and then flush with hot water."
+  },
+  "36": {
+    "id": 36,
+    "categories": ["cleaning"],
+    "title": "Bad Odor in the Trash Can",
+    "description": "You can combat bad odor in the trash can or diaper pail by sprinkling some baking soda at the bottom of the trash can. You can also place a small bowl or jar of vinegar or vinegar spirit in the cabinet."
+  },
+  "37": {
+    "id": 37,
+    "categories": ["cleaning"],
+    "title": "Bad Odor in the Washing Machine",
+    "description": "This also works if the dishwasher smells a bit bad. Pour vinegar into the detergent or dish soap compartment and run an empty cycle on the quick program to eliminate the bad odor."
+  },
+  "38": {
+    "id": 38,
+    "categories": ["cleaning"],
+    "title": "Effective Window Cleaning 1",
+    "description": "Window cleaner designed for cars is much more effective than regular window cleaner and keeps the shine much longer."
+  },
+  "39": {
+    "id": 39,
+    "categories": ["cleaning"],
+    "title": "Effective Window Cleaning 2",
+    "description": "Add a little vinegar to the water when cleaning windows to make them shiny and nice!"
+  },
+  "40": {
+    "id": 40,
+    "categories": ["food"],
+    "title": "Homemade Cream Cheese",
+    "description": "An easy and fun way to make your own cream cheese for the cheese platter is to pour buttermilk or sour cream into a coffee filter placed in a bowl or suitable holder. Let the filter stand in the fridge overnight until all the liquid has drained off. Scrape the contents of the filter into a bowl, salt to taste, and flavor the cheese with your choice of herb spices, herbs, horseradish, garlic, or black pepper! Also delicious at the crayfish party or on a sandwich with a good salad!"
+  },
+  "41": {
+    "id": 41,
+    "categories": ["body"],
+    "title": "Static Hair",
+    "description": "If the hair is static, you can take a few drops of regular hair conditioner on your hands and run it over the hair."
+  },
+  "42": {
+    "id": 42,
+    "categories": ["hobby"],
+    "title": "Simple Bookmark",
+    "description": "A simple and practical bookmark can be made by cutting off the corner of an envelope and threading the corner over the side edge of the book. Feel free to decorate the piece of paper to make it a nice detail!"
+  },
+  "43": {
+    "id": 43,
+    "categories": ["cleaning"],
+    "title": "Stubborn Stains",
+    "description": "A tip to remove all kinds of stains is to mix 1 part hair shampoo with 1 part vinegar and 1 part water. Use the mixture to rub away the stain and then rinse the garment."
+  },
+  "44": {
+    "id": 44,
+    "categories": ["cleaning", "indoors"],
+    "title": "Stains on Wallpaper",
+    "description": "If you get a stain on sensitive wallpaper, you can gently wipe it with baby wipes, such as Natusan Baby Wipes. This also works on tough stains like paint."
+  },
+  "45": {
+    "id": 45,
+    "categories": ["cleaning", "indoors"],
+    "title": "Stains on Furniture",
+    "description": "Stains on fabrics and furniture can be removed by gently rubbing with a damp cloth dipped in baking soda. This method is gentle on all fabrics as it does not corrode."
+  },
+  "46": {
+    "id": 46,
+    "categories": ["cleaning", "furniture"],
+    "title": "Stains on White Furniture",
+    "description": "If you get a stain on a white sofa, table, etc., you can spray a little Ajax window cleaner on the stain. Don't panic if the stain initially darkens; the color changes within a few seconds and then disappears. Wipe with a paper towel afterward. This usually works on slightly older stains as well."
+  },
+  "47": {
+    "id": 47,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains 1",
+    "description": "If you get a grease stain on textiles, you can spray the stain with hairspray to fix it, and then put the garment in the laundry basket and wash it with the next load of laundry as usual."
+  },
+  "48": {
+    "id": 48,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains 2",
+    "description": "If you have a grease stain on clothes, you can try putting a little regular flour on the stain and let it sit for a while to absorb the grease."
+  },
+  "49": {
+    "id": 49,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains 3",
+    "description": "Grease stains on fabric can be quickly removed by rubbing them with a cloth or sponge with unsweetened mineral water."
+  },
+  "50": {
+    "id": 50,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains 4",
+    "description": "Fresh grease stains on textiles can be easily removed by rubbing the stain with regular dish soap and then washing as usual."
+  },
+  "51": {
+    "id": 51,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains on Leather",
+    "description": "Rub the stain with egg white and let it dry in the sun. Then brush off the dried egg white."
+  },
+  "52": {
+    "id": 52,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Residue in the Frying Pan",
+    "description": "Pour coarse salt into a frying pan to cover the entire bottom, and let the frying pan sit on the stove on heat for half an hour. Shake or stir occasionally. The salt absorbs old, burnt food residues and fats that the frying pan has accumulated."
+  },
+  "53": {
+    "id": 53,
+    "categories": ["food"],
+    "title": "Fine Crumble Pie",
+    "description": "You get a finer surface on the crumble pie if you sprinkle a little raw sugar over it before putting it in the oven!"
+  },
+  "54": {
+    "id": 54,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Shiny Frying Pan",
+    "description": "Frying pans tend to become brown at the edge where the stainless steel used to be. This can be easily removed by rubbing the edge of the frying pan with a moistened sugar cube until the steel shines again!"
+  },
+  "55": {
+    "id": 55,
+    "categories": ["body"],
+    "title": "Pimples 1",
+    "description": "If you have a pimple you want to get rid of, you can try mixing a little liquid honey with nutmeg and a little cinnamon into a thick paste. Apply the paste over the pimple and let it work for a while, preferably overnight."
+  },
+  "56": {
+    "id": 56,
+    "categories": ["body"],
+    "title": "Pimples 2",
+    "description": "You can quickly get rid of a pimple by putting a little toothpaste on it and letting it work overnight. However, this should not be done too often as toothpaste dries out the skin and can eventually lead to the skin producing more oil, leading to new pimples, but it can be good for, e.g., a party."
+  },
+  "57": {
+    "id": 57,
+    "categories": ["cleaning", "indoors"],
+    "title": "Grease Stains on Wallpaper",
+    "description": "Grease stains on wallpaper may be removable by gently rubbing the stain with potato flour on a slightly damp cloth."
+  },
+  "58": {
+    "id": 58,
+    "categories": ["bathroom", "hobby"],
+    "title": "Flapping Shower Curtain",
+    "description": "If you have a shower curtain that tends to be sucked in when you shower, it helps to hang curtain weights at the bottom of the curtain."
+  },
+  "59": {
+    "id": 59,
+    "categories": ["food"],
+    "title": "Fluffy Mashed Potatoes",
+    "description": "The result becomes extra fluffy if you mix in a beaten egg white into the mashed potatoes."
+  },
+  "60": {
+    "id": 60,
+    "categories": ["cleaning"],
+    "title": "Stained Vase",
+    "description": "Marks from old flower water in the vase quickly disappear if you pour in a little vinegar and a little rice and shake it for a short while."
+  },
+  "61": {
+    "id": 61,
+    "categories": ["cleaning"],
+    "title": "Stains in the Sink",
+    "description": "If you have stains on bathroom porcelain or enameled sinks, you can take some toothpaste on a piece of paper towel and rub/polish."
+  },
+  "62": {
+    "id": 62,
+    "categories": ["cleaning"],
+    "title": "Stains on Leather",
+    "description": "Stains on leather armchairs or sofas can often be removed by rubbing the stain with whipped egg white and then wiping it off."
+  },
+  "63": {
+    "id": 63,
+    "categories": ["food"],
+    "title": "Fruit Juice",
+    "description": "The juice from canned fruits can be frozen and saved, then thawed and used to moisten cake layers!"
+  },
+  "64": {
+    "id": 64,
+    "categories": ["hobby", "outdoors"],
+    "title": "Frozen Car Lock",
+    "description": "If the car lock is frozen and you don't have any lock spray on hand, you can fill a freezer bag with hot water and shape the bag around the lock for a while to thaw the ice coating."
+  },
+  "65": {
+    "id": 65,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Fresher Dishcloth 1",
+    "description": "If you quickly need to freshen up a smelly dishcloth, you can kill the bacteria by rinsing the cloth and then microwaving it at full power for 1 minute. Be careful when taking out the cloth as it can become quite hot."
+  },
+  "66": {
+    "id": 66,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Fresher Dishcloth 2",
+    "description": "Boiling the dishcloth for a few minutes eliminates the bad smell and kills bacteria."
+  },
+  "67": {
+    "id": 67,
+    "categories": ["body"],
+    "title": "Fresher Skin",
+    "description": "To achieve fresher and clearer skin, put half a raw peeled potato in a glass of water. Let it stand overnight and drink the potato water in the morning. Repeat occasionally!"
+  },
+  "68": {
+    "id": 68,
+    "categories": ["food"],
+    "title": "Rich Gravy",
+    "description": "The gravy becomes both richer and tastier if you add a couple of pieces of dark chocolate!"
+  },
+  "69": {
+    "id": 69,
+    "categories": ["food"],
+    "title": "Fresh Eggs",
+    "description": "If you want to know if an egg is fresh, you can place it in a bowl of water. If the egg floats, there are gases inside the shell, and it is not fit to eat. If it stays at the bottom, it is perfectly fine to eat."
+  },
+  "70": {
+    "id": 70,
+    "categories": ["vermin", "kitchen"],
+    "title": "Ticks",
+    "description": "You can avoid ticks on both humans, dogs, and cats by using rosemary. Boil 1 liter of water. Remove from the heat and add a jar of dried or a few sprigs of fresh rosemary. Let the mixture cool under cover. Pour into a spray bottle and add a tablespoon of white wine vinegar. Store the mixture in the refrigerator; it lasts about two weeks. Spray the mixture on the skin or on the animals' fur and rub in when going outdoors."
+  },
+  "71": {
+    "id": 71,
+    "categories": ["vermin", "kitchen"],
+    "title": "Tick Repellent for Dogs",
+    "description": "Let 4 peeled garlic cloves soak in 1 liter of rapeseed, corn, or sunflower oil for four days. Turn the bottle once a day and then strain out the onion. Dose 1 teaspoon per day for a small dog, 1 tablespoon for a medium-sized one, and 1-2 tablespoons per day for a large dog."
+  },
+  "72": {
+    "id": 72,
+    "categories": ["hobby"],
+    "title": "Marble Windowsills",
+    "description": "To get a shiny marble windowsill, take an old (preferably odd) woolen glove or woolen sock on your hand. Use the glove/sock to rub unfavored shoe polish on the clean and dry windowsill, then turn the glove/sock inside out and polish it to a shine. The wool's friction allows the shoe polish to penetrate properly into the sill."
+  },
+  "73": {
+    "id": 73,
+    "categories": ["sickness"],
+    "title": "Cold Remedy 1",
+    "description": "A good remedy for someone who is about to get a real cold is, on the first day you feel unwell, in the evening, heat 33 cl of beer on the stove, and then swallow a pain reliever like Alvedon or Ibuprofen with the warm beer. Go straight to bed, and in most cases, the cold will be gone by the next day. However, it is important to do this on day one of the cold before it has a chance to break out properly."
+  },
+  "74": {
+    "id": 74,
+    "categories": ["sickness"],
+    "title": "Cold Remedy 2",
+    "description": "A powerful cure for a cold is to heat a part of honey with a part of whiskey, along with the juice of a whole lemon. Drink up and hop straight into bed!"
+  },
+  "75": {
+    "id": 75,
+    "categories": ["sickness"],
+    "title": "Cold Remedy 3",
+    "description": "For colds and sore throats, you can try the following: Finely chop a large garlic clove and mix it with the juice of a lemon in a glass or small bowl. Eat this with a spoon, chewing each bite thoroughly. Then drink plenty of water!"
+  },
+  "76": {
+    "id": 76,
+    "categories": ["food"],
+    "title": "Too Much Salt",
+    "description": "If you have accidentally salted your food too much, you can peel a potato and add it. It will absorb the excess salt."
+  },
+  "77": {
+    "id": 77,
+    "categories": ["food"],
+    "title": "Too Much Garlic",
+    "description": "If you have accidentally added too much garlic to your food, you can neutralize the flavor with parsley. Cut a few sprigs of parsley into the food or place the parsley in a tea infuser to simmer with the dish."
+  },
+  "78": {
+    "id": 78,
+    "categories": ["hobby"],
+    "title": "Too Strong Flash",
+    "description": "If you have a strong flash in the camera and the pictures are too bright, you can tape a small piece of baking paper over the flash. The pictures will then turn out much nicer."
+  },
+  "79": {
+    "id": 79,
+    "categories": ["furniture"],
+    "title": "Old Slipper",
+    "description": "If you have pets, the best way to remove dog/cat hair from the sofa is to wear a slipper on your hand and slide it forward or outward on the sofa. Static electricity is created, and every strand of hair follows the slipper. This tip works best on a fabric sofa but also works if you have a leather sofa."
+  },
+  "80": {
+    "id": 80,
+    "categories": ["food"],
+    "title": "Old Bread",
+    "description": "If the bread is getting old and hard, you can give it a second chance by either letting it stand on a rack over a pot of water with a cloth over it for a short while, or by wrapping the bread in foil and putting it in the oven for a few minutes."
+  },
+  "81": {
+    "id": 81,
+    "categories": ["cleaning"],
+    "title": "Gall Soap for Blood Stains",
+    "description": "Gall soap is indispensable for many stains, including blood. Rinse off the worst with ice-cold water and then soak in hot water with gall soap."
+  },
+  "82": {
+    "id": 82,
+    "categories": ["hobby"],
+    "title": "Rolling Yarn",
+    "description": "A yarn ball rolls easily while crafting. This can be avoided by taking an old plastic ice cream jar or another suitable container, cutting a notch in the rim with a small round hole at the end, and letting the yarn run through it. If knitting with multiple colors, you can cut several notches."
+  },
+  "83": {
+    "id": 83,
+    "categories": ["sickness"],
+    "title": "Wasp Sting 1",
+    "description": "If stung by a wasp, you can relieve the pain by applying some wet soil before it has a chance to swell up."
+  },
+  "84": {
+    "id": 84,
+    "categories": ["sickness"],
+    "title": "Wasp Sting 2",
+    "description": "If stung by a wasp, take half a yellow onion and rub onion juice over the sting for a few minutes. The pain disappears quickly, and the sting is barely visible afterward."
+  },
+  "85": {
+    "id": 85,
+    "categories": ["sickness"],
+    "title": "Wasp Sting 3",
+    "description": "Wasp stings can be relieved by pressing a sugar cube against the sting."
+  },
+  "86": {
+    "id": 86,
+    "categories": ["sickness"],
+    "title": "Wasp Sting 4",
+    "description": "Rub a plantain leaf against the sting and then secure it to the skin with, for example, a plaster or a bit of surgical tape. The plantain leaf also helps with minor inflammations that may occur."
+  },
+  "87": {
+    "id": 87,
+    "categories": ["sickness"],
+    "title": "Wasp Sting 5",
+    "description": "Dip an effervescent tablet quickly in water so that it begins to fizz, and then press it against the sting to alleviate the pain. Make sure the stinger is removed first."
+  },
+  "88": {
+    "id": 88,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Oven Door Glass",
+    "description": "Clean the glass in the oven door by mixing baking soda and dish soap, spreading the mixture on the glass, waiting for 10 minutes, and then scraping off the mixture and polishing the glass."
+  },
+  "89": {
+    "id": 89,
+    "categories": ["jewelry"],
+    "title": "Sparkling Jewelry",
+    "description": "To freshen up silver or gold jewelry, rub them lightly with fresh breadcrumbs. Another tip is to use damp sawdust to make metal and stones sparkle!"
+  },
+  "90": {
+    "id": 90,
+    "categories": ["food", "outdoors"],
+    "title": "Grill Party",
+    "description": "If you have many guests and are serving pork or chicken at the grill party, it works excellently to pre-cook the meat. Brush with glaze or marinade and grill for a nice surface; it will be much faster!"
+  },
+  "91": {
+    "id": 91,
+    "categories": ["cleaning", "outdoors"],
+    "title": "Grill Grate",
+    "description": "Before grilling, rub the grate with a halved onion. It disinfects the grate naturally!"
+  },
+  "92": {
+    "id": 92,
+    "categories": ["cleaning", "clothes"],
+    "title": "Grass Stains",
+    "description": "If grass stains don't come off in the washing machine, dab the stain with a bit of rubbing alcohol, and rub with soap and water. Then wash the garment again in the washing machine."
+  },
+  "93": {
+    "id": 93,
+    "categories": ["cleaning", "indoors"],
+    "title": "Yellow Wall Outlets",
+    "description": "Yellowed protective covers around wall outlets, light switches, and other plastic details can be made white and nice again by unscrewing them and letting them soak in soapy water overnight."
+  },
+  "94": {
+    "id": 94,
+    "categories": ["cleaning", "outdoors"],
+    "title": "Yellowed Garden Furniture",
+    "description": "White plastic furniture that has yellowed and become unsightly becomes white and nice again if you rub them with soap and 24% vinegar using a sponge. Use a soft sponge to avoid scratching the furniture. Let it work for a while and then rinse off."
+  },
+  "95": {
+    "id": 95,
+    "categories": ["cleaning", "indoors"],
+    "title": "Yellowed Sink",
+    "description": "A yellowed sink can be made shiny clean by scrubbing it with baking soda."
+  },
+  "96": {
+    "id": 96,
+    "categories": ["plants", "indoors"],
+    "title": "Fertilizer 1",
+    "description": "Tea leaves used for brewing tea become a simple and inexpensive fertilizer to add to the flowerpot, environmentally friendly as well!"
+  },
+  "97": {
+    "id": 97,
+    "categories": ["plants", "indoors"],
+    "title": "Fertilizer 2",
+    "description": "Mix coffee grounds directly into the plant's soil, as flowers love coffee grounds!"
+  },
+  "98": {
+    "id": 98,
+    "categories": ["cleaning"],
+    "title": "Refreshing Footstool",
+    "description": "An inexpensive way to freshen up your footstool is to sprinkle a layer of baking soda over the entire footstool, let it sit for about 20 minutes, and then vacuum thoroughly!"
+  },
+  "99": {
+    "id": 99,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Cleaning the Stove 1",
+    "description": "A good method to clean a stubborn stove is to mix baking soda and vinegar and pour it around the burners. Let the mixture bubble and sizzle for a while, then wipe clean with a sponge, cloth, and lukewarm water."
+  },
+  "100": {
+    "id": 100,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Cleaning the Stove 2",
+    "description": "To easily remove the brown edges you usually get around the stove's burners, wet a sugar cube, and then rub with it around the burners. The dirt comes off very quickly! For this tip, it is best to use regular sugar cubes, as quick-dissolving sugar melts very fast, and it takes quite a few pieces."
+  },
+  "101": {
+    "id": 101,
+    "categories": ["cleaning"],
+    "title": "Cleaning Wood",
+    "description": "An unpainted wooden surface gets a good cleaning agent from grated raw potatoes and a little water."
+  },
+  "102": {
+    "id": 102,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Cleaning the Oven 1",
+    "description": "Place an oven-safe bowl with water and a little soap at 100 degrees for 30 minutes. When the oven has cooled, simply wipe it with a cloth."
+  },
+  "103": {
+    "id": 103,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Cleaning the Oven 2",
+    "description": "If you don't have soap at home, you can instead place a deep plate with vinegar in the oven, set at 50 degrees. Let it sit for 30-60 minutes and then wash it clean."
+  },
+  "104": {
+    "id": 104,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Cleaning the Oven 3",
+    "description": "A clean oven is achieved by mixing water and dish soap in a spray bottle and spraying the inside of the oven. Then let the oven stand at 100 degrees for at least fifteen minutes, and when it has cooled down, you can easily wipe away all the dirt with some paper towels or a sponge."
+  },
+  "105": {
+    "id": 105,
+    "categories": ["food"],
+    "title": "Chopping Onions 1",
+    "description": "Avoid the sting in the eyes when chopping onions by putting a couple of matches in your mouth with the sulfur outward. Sulfur absorbs the onion smell before it reaches the eyes. For very strong onions, you may need to change the matches after a while. You can also try attaching a small piece of bread to the knife tip."
+  },
+  "106": {
+    "id": 106,
+    "categories": ["food"],
+    "title": "Chopping Onions 2",
+    "description": "By having a teaspoon in your mouth while chopping onions, you avoid irritation and tears in the eyes!"
+  },
+  "107": {
+    "id": 107,
+    "categories": ["body", "hobby"],
+    "title": "Homemade Scrub",
+    "description": "A good homemade scrub cream for the whole body is made by mixing 1 dl granulated sugar with 1 tablespoon olive oil and 1 tablespoon wheat flour. Use it in the shower. If you want a cooling effect that soothes irritation, you can also add some frozen berries, then the scrub cream gets a bit of color and a good, natural scent!"
+  },
+  "108": {
+    "id": 108,
+    "categories": ["body", "hobby"],
+    "title": "Homemade Scrub 2",
+    "description": "Instead of throwing away coffee grounds, you can use them in the shower as a scrub cream. It smells good, and the skin becomes soft and smooth. Store the coffee grounds in a jar in the bathroom without a lid to prevent molding!"
+  },
+  "109": {
+    "id": 109,
+    "categories": ["food"],
+    "title": "Homemade Sushi",
+    "description": "Put some regular mayonnaise in the palm of your hand so that the rice does not stick to your hand when making homemade sushi."
+  },
+  "110": {
+    "id": 110,
+    "categories": ["sickness"],
+    "title": "Heartburn 1",
+    "description": "You can relieve heartburn by chewing slowly on a raw potato slice."
+  },
+  "111": {
+    "id": 111,
+    "categories": ["sickness"],
+    "title": "Heartburn 2",
+    "description": "To get rid of heartburn, you can chew on half a coffee cup of oatmeal with a teaspoon. Rinse with a little water if it gets too dry. Oatmeal neutralizes stomach acid, and it will soon feel better!"
+  },
+  "112": {
+    "id": 112,
+    "categories": ["sickness"],
+    "title": "Heartburn 3",
+    "description": "Heartburn can be relieved by eating a couple of teaspoons of raw lingonberries or lingonberry jam."
+  },
+  "113": {
+    "id": 113,
+    "categories": ["food"],
+    "title": "Hasselback Potatoes",
+    "description": "Hasselback potatoes are both quicker and easier to cut if you place the potato in a wooden ladle so that the edge prevents you from cutting through the potato, or next to the cutting board so that the edge prevents the knife."
+  },
+  "114": {
+    "id": 114,
+    "categories": ["food"],
+    "title": "Jumping Cardamom",
+    "description": "Cardamom seeds easily jump out of the mortar when you grind them. This can be solved by grinding them together with a couple of sugar cubes."
+  },
+  "115": {
+    "id": 115,
+    "categories": ["sickness"],
+    "title": "Cough 1",
+    "description": "An old Spanish home remedy for coughing is to place a yellow onion that you have cut a few times on the nightstand or close to the head during the night. The whole room smells like onions the next day, but something in the onion makes you stop coughing."
+  },
+  "116": {
+    "id": 116,
+    "categories": ["sickness"],
+    "title": "Cough 2",
+    "description": "If you have a cough, you can take a turnip, dig a crater on one side of it. Press small holes with a potato stick or toothpick on the underside and strain syrup through it. This takes about a day. Drink the strained syrup a few times a day."
+  },
+  "117": {
+    "id": 117,
+    "categories": ["food"],
+    "title": "Oatmeal Porridge",
+    "description": "If you want to avoid oatmeal porridge sticking to the saucepan, you can place three one-krona coins on the stove under the saucepan when cooking the porridge. This, of course, only works on traditional stovetops."
+  },
+  "118": {
+    "id": 118,
+    "categories": ["sickness"],
+    "title": "Hiccup 1",
+    "description": "Hiccups are cured fastest by, while holding the nose, drinking at least 10 small sips of water, or as many as you can handle without fainting. In really difficult cases, you can do this 2-3 times in a row, but quickly catch your breath in between. It's enough to take small sips of water."
+  },
+  "119": {
+    "id": 119,
+    "categories": ["sickness"],
+    "title": "Hiccup 2",
+    "description": "If you have hiccups, you can try taking quite a bit of water in your mouth, bend down as far as you can (so that the head is upside down), and quickly swallow the water in small sips. Then wait a few seconds before turning your head up again."
+  },
+  "120": {
+    "id": 120,
+    "categories": ["sickness"],
+    "title": "Hiccup 3",
+    "description": "Taking 1-2 teaspoons of lingonberry jam or raw lingonberries can help with hiccups."
+  },
+  "121": {
+    "id": 121,
+    "categories": ["sickness"],
+    "title": "Headache 1",
+    "description": "Throbbing headaches can be relieved by taking a lime, cutting it in half, and massaging the forehead and temples with the lime halves."
+  },
+  "122": {
+    "id": 122,
+    "categories": ["sickness"],
+    "title": "Headache 2",
+    "description": "Mix 1 teaspoon of vinegar, 1 teaspoon of sugar, and 1 teaspoon of vinegar in a glass and stir for a minute. Drink the mixture, and after five minutes, the pain will be gone!"
+  },
+  "123": {
+    "id": 123,
+    "categories": ["sickness"],
+    "title": "Headache 3",
+    "description": "Faster relief with painkillers for headaches is achieved by swallowing the tablet together with hot coffee, which speeds up the effect of the tablet."
+  },
+  "124": {
+    "id": 124,
+    "categories": ["food"],
+    "title": "Slice Soft Cheese",
+    "description": "If the cheese you are going to slice is so soft that it wrinkles and breaks, you can fold a piece of wax paper over the groove on the cheese slicer before slicing."
+  },
+  "125": {
+    "id": 125,
+    "categories": ["animals"],
+    "title": "Keep Cats Away",
+    "description": "If you want to keep your cat away from the shower, sink, staircase, or flowerbed, you can drop a little Tabasco sauce on the relevant places."
+  },
+  "126": {
+    "id": 126,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Keeping the Oven Clean",
+    "description": "Cover the bottom of the oven with aluminum foil and let it stay there, so all the dirt and grease fall onto the foil instead of the oven bottom. Then you only need to change the foil now and then, and you avoid scrubbing inside the oven, keeping it almost like new!"
+  },
+  "127": {
+    "id": 127,
+    "categories": ["food"],
+    "title": "Preserving Fruit",
+    "description": "If you avoid mixing apples and bananas in the fruit bowl, the fruits will last longer!"
+  },
+  "128": {
+    "id": 128,
+    "categories": ["body"],
+    "title": "Hair & Skin",
+    "description": "Coconut oil is a pure miracle cure for hair and skin. A packet of coconut oil doesn't cost much in the grocery store but lasts a long time. Besides, it doesn't smell like anything special. Take 40-50 g of coconut oil and melt it in a bowl or mug in the microwave, let it cool down as it gets very hot, risking burns! Massage the liquid fat into the hair and cover with plastic wrap. Leave it on for an hour or so and then rinse with warm water. Use the remaining oil as a body lotion after the shower. Both hair and skin become wonderfully soft!"
+  },
+  "129": {
+    "id": 129,
+    "categories": ["hobby", "kitchen"],
+    "title": "Pouring with a Funnel",
+    "description": "When pouring something into a bottle using a funnel, it flows down faster if you place a matchstick between the funnel and the bottle neck so it doesn't seal too tightly. Just be careful not to let the matchstick fall into the bottle."
+  },
+  "130": {
+    "id": 130,
+    "categories": ["clothes"],
+    "title": "Hanging Clothes",
+    "description": "If you are going to hang clothes to dry, for example, on the balcony or where it's windy, you can avoid hangers from falling by using double hangers and turning the hooks in opposite directions around the line or hook."
+  },
+  "131": {
+    "id": 131,
+    "categories": ["cleaning"],
+    "title": "Smelly Diaper Pail",
+    "description": "Put a piece of charcoal in the diaper pail, so the coal absorbs the smell. It must be charcoal and not briquettes."
+  },
+  "132": {
+    "id": 132,
+    "categories": ["clothes", "cleaning"],
+    "title": "Smelly Clothes",
+    "description": "If you have clothes that smell bad, like sweat or cigarette smoke, even after washing, it usually goes away if you use vinegar. Soak the clothes with vinegar, about one deciliter of vinegar and five liters of water per garment, and then wash the clothes directly in the washing machine before the vinegar has had time to dry. This works well even with colored clothes since vinegar does not bleach the garments."
+  },
+  "133": {
+    "id": 133,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Smelly Refrigerator",
+    "description": "If the refrigerator smells bad, you can put coffee beans in a clean nylon stocking and tie it up. Place the stocking in the refrigerator, and the smell will disappear."
+  },
+  "134": {
+    "id": 134,
+    "categories": ["cleaning"],
+    "title": "Smelly Shoes 1",
+    "description": "If the shoes have started to smell bad, you can freeze them for a few hours and then let them thaw and dry with newspaper inside."
+  },
+  "135": {
+    "id": 135,
+    "categories": ["cleaning"],
+    "title": "Smelly Shoes 2",
+    "description": "Put baking soda in the shoes overnight, and then brush it out well."
+  },
+  "136": {
+    "id": 136,
+    "categories": ["cleaning"],
+    "title": "Smelly Shoes 3",
+    "description": "Try letting the shoes stand with coffee beans overnight. The beans absorb the bad odor."
+  },
+  "137": {
+    "id": 137,
+    "categories": ["sickness"],
+    "title": "Nausea",
+    "description": "If you feel nauseous, sucking on an ice cream, for example, a Popsicle, usually helps."
+  },
+  "138": {
+    "id": 138,
+    "categories": ["bathroom", "cleaning"],
+    "title": "Fog on the Bathroom Mirror",
+    "description": "If you want to step out of the shower to a fog-free mirror, polish the mirror with dish soap or shaving cream. This is very practical for, for example, men who want to shave after the shower. The mirror doesn't become completely fog-free, but the steam settles on the surface of the mirror and disappears much faster."
+  },
+  "139": {
+    "id": 139,
+    "categories": ["clothes"],
+    "title": "Jeans with Fit",
+    "description": "To get the nice fit to settle properly in the jeans, do not wash them too often. Instead, put them in the freezer overnight to eliminate bacteria and potential bad smells."
+  },
+  "140": {
+    "id": 140,
+    "categories": ["christmas"],
+    "title": "Christmas Scent at Home 1",
+    "description": "This only works on stoves with plates:\nTurn on a stove plate and let it get really hot. Turn it off and sprinkle some cinnamon on the already hot plate, and voila, the whole house smells like cinnamon!"
+  },
+  "141": {
+    "id": 141,
+    "categories": ["christmas"],
+    "title": "Christmas Scent at Home 2",
+    "description": "To quickly spread the scent of Christmas at home, you can boil a few deciliters of water with some lemon slices, orange slices, and cinnamon, either stick or ground. Let it boil for a while until the desired effect is achieved."
+  },
+  "142": {
+    "id": 142,
+    "categories": ["cleaning"],
+    "title": "Coffee Stains",
+    "description": "Remove fresh stains with cold water. White garments with dried stains should be dipped in boiling water, while colored garments are brushed with egg yolk mixed with lukewarm water."
+  },
+  "143": {
+    "id": 143,
+    "categories": ["cleaning", "kitchen", "bathroom"],
+    "title": "Lime Removal 1",
+    "description": "You can easily and environmentally friendly remove lime deposits from the sink, bathtub, and similar surfaces by rubbing the surface with half a lemon. Wait a few minutes and then wipe it clean with a cloth. It both smells fresh and becomes sparkling clean!"
+  },
+  "144": {
+    "id": 144,
+    "categories": ["cleaning", "bathroom"],
+    "title": "Lime Stains in the Bathtub",
+    "description": "Stains from running water in the bathtub or on tiles can be easily removed by rubbing a half lemon over the surface and then rinsing it off."
+  },
+  "145": {
+    "id": 145,
+    "categories": ["cleaning", "bathroom"],
+    "title": "Toilet Limescale",
+    "description": "To remove limescale in the toilet or other porcelain bathroom fixtures, you can use Coca-Cola. Pour the cola over the deposits and let it sit for 60 minutes before scrubbing away the lime with a brush."
+  },
+  "146": {
+    "id": 146,
+    "categories": ["animals"],
+    "title": "Cats in the Flowerbed",
+    "description": "If you want to keep cats from running in the flower beds, you can take ordinary vinegar and mix it with water in a spray bottle. Spray where the cats usually go and repeat every 2-3 weeks. Cats dislike vinegar."
+  },
+  "147": {
+    "id": 147,
+    "categories": ["animals", "cleaning"],
+    "title": "Cat/Dog Hair",
+    "description": "You can easily remove pet hair from clothes or furniture by going over the surface with a dish glove or a slightly damp cloth."
+  },
+  "148": {
+    "id": 148,
+    "categories": ["animals"],
+    "title": "Cat Scratching",
+    "description": "If you have a problem with the cat scratching furniture and the like, you can moisten a cloth with vinegar and wipe under, on, or behind the exposed areas, so the cat quickly loses interest. However, be aware that vinegar is bleaching, so be careful with textiles and certain painted surfaces!"
+  },
+  "149": {
+    "id": 149,
+    "categories": ["animals"],
+    "title": "Cat on the Couch",
+    "description": "If you want to discourage the cat from being on the couch, bed, or other furniture, you can roll out aluminum foil on these. Cats usually don't like to walk on it."
+  },
+  "150": {
+    "id": 150,
+    "categories": ["food"],
+    "title": "Mess-Free Crumble Pie",
+    "description": "It's less messy to bake crumble pie if you use frozen butter or margarine that you grate coarsely on a grater when working the dough."
+  },
+  "151": {
+    "id": 151,
+    "categories": ["food"],
+    "title": "Sticky Burgers",
+    "description": "If you're having a home burger party, you can place the burgers in regular coffee filters when serving to minimize mess and drips! For children's parties, it can also be fun to decorate the filters beforehand!"
+  },
+  "152": {
+    "id": 152,
+    "categories": ["animals"],
+    "title": "Clipped Claw in the Quick",
+    "description": "If you clip the claws of your dog or cat and accidentally cut into the quick, causing it to bleed, quickly stop the bleeding by dipping the claw in cornstarch!"
+  },
+  "153": {
+    "id": 153,
+    "categories": ["cleaning"],
+    "title": "Stickers 1",
+    "description": "Stickers can be easily removed from most surfaces by blowing hot air from a hairdryer on them until the adhesive on the back melts. Then, they almost come off by themselves."
+  },
+  "154": {
+    "id": 154,
+    "categories": ["cleaning"],
+    "title": "Stickers 2",
+    "description": "Adhesive from hard surfaces, such as price tags or labels, can be removed by first rubbing with olive oil and then washing with dish soap. This also works for old stickers."
+  },
+  "155": {
+    "id": 155,
+    "categories": ["cleaning", "clothes"],
+    "title": "Sticker Residue on Clothes",
+    "description": "Crafty children often get sticker residue on their clothes, which can be challenging to remove. However, if you rub the sticker spots with a bit of cooking oil just before washing, it comes off easily!"
+  },
+  "156": {
+    "id": 156,
+    "categories": ["food"],
+    "title": "Boiled Egg?",
+    "description": "If you usually save boiled eggs that are left over and are not sure if the egg is cooked or raw, you can find out by spinning the egg on a flat surface. If the egg is raw, it spins very slowly and wobbly; if it's boiled, it spins quickly and smoothly!"
+  },
+  "157": {
+    "id": 157,
+    "categories": ["food"],
+    "title": "Crisp Radishes",
+    "description": "Radishes stay much fresher and crisper if you store them in a bowl of water in the refrigerator."
+  },
+  "158": {
+    "id": 158,
+    "categories": ["cleaning"],
+    "title": "Crystal-Clear Windows",
+    "description": "Finish window cleaning with a mixture of vinegar and water to get crystal-clear windows. 1-2 caps of vinegar per liter of water is usually sufficient."
+  },
+  "159": {
+    "id": 159,
+    "categories": ["cleaning"],
+    "title": "Crystal Chandelier",
+    "description": "To avoid a lot of mess on the floor or furniture when cleaning a crystal chandelier, hang an umbrella upside down under the chandelier. When you then spray the crystals with crystal cleaner, any excess spray falls directly into the umbrella!"
+  },
+  "160": {
+    "id": 160,
+    "categories": ["cleaning"],
+    "title": "Chalk on the Wall",
+    "description": "Gently rub the chalk line with regular (white) toothpaste and then wipe off with a wet cloth. Make sure the wallpaper or wall paint can withstand moisture first!"
+  },
+  "161": {
+    "id": 161,
+    "categories": ["cleaning"],
+    "title": "Chrome Details",
+    "description": "You can polish chrome details clean and shiny with a piece of damp aluminum foil!"
+  },
+  "162": {
+    "id": 162,
+    "categories": ["cleaning"],
+    "title": "Plant Fertilizer",
+    "description": "When boiling potatoes, you can save the potato water, let it cool, dilute it with a little cold water, and use it to water potted plants."
+  },
+  "163": {
+    "id": 163,
+    "categories": ["sickness"],
+    "title": "Hangover Remedy 1",
+    "description": "A really good hangover remedy is to mix 1 egg yolk, 2 teaspoons of instant coffee powder, 1 tablespoon of olive oil, and the juice of a lemon. Hold your nose and gulp it down, and after about fifteen minutes, you'll feel alive again!"
+  },
+  "164": {
+    "id": 164,
+    "categories": ["sickness"],
+    "title": "Hangover Remedy 2",
+    "description": "To avoid a hangover after a night out, drink a little whipped cream right before going to bed."
+  },
+  "165": {
+    "id": 165,
+    "categories": ["body"],
+    "title": "Remedy for Dry Hair",
+    "description": "If your hair is dry and frizzy, you can take half a cup of regular mayonnaise and rub it into dry and unwashed hair. Cover your hair with a plastic bag or wrap plastic wrap around it and leave it on for about 15 minutes. Rinse with plenty of water and then wash your hair with your regular shampoo until all residues are gone."
+  },
+  "166": {
+    "id": 166,
+    "categories": ["food"],
+    "title": "Chilled Drinks",
+    "description": "If you want to cool a drink and don't have access to a refrigerator, wrap a wet towel around the can or bottle and then place it in a draft, preferably a cross breeze. After half an hour, the drink will be cold and delicious."
+  },
+  "167": {
+    "id": 167,
+    "categories": ["clothes", "cleaning"],
+    "title": "Resin on Clothes",
+    "description": "Smear the resin stain with a little margarine and then wash as usual."
+  },
+  "168": {
+    "id": 168,
+    "categories": ["cleaning", "body"],
+    "title": "Resin on Hands",
+    "description": "Rub the resin with a little butter, wipe it off, and the resin is gone!"
+  },
+  "169": {
+    "id": 169,
+    "categories": ["hobby", "cleaning"],
+    "title": "Candle Wax Residue",
+    "description": "Candle stubs that have burned all the way down in the candlestick can easily be removed with a corkscrew."
+  },
+  "170": {
+    "id": 170,
+    "categories": ["cleaning"],
+    "title": "Lint-Free Window Polishing",
+    "description": "Wipe and polish the windows with crumpled newspaper after washing them, so they become crystal clear and clean without a lot of small lint pieces or streaks!"
+  },
+  "171": {
+    "id": 171,
+    "categories": ["food"],
+    "title": "Airier Buns",
+    "description": "If you add a couple of teaspoons of baking powder when making wheat dough, the buns will be airier!"
+  },
+  "172": {
+    "id": 172,
+    "categories": ["cleaning"],
+    "title": "Smelly Food Containers",
+    "description": "If you have plastic food containers that have absorbed odors, let them sit for a while with hot water and a tablespoon of coffee grounds. Wash as usual, and the smell is gone!"
+  },
+  "173": {
+    "id": 173,
+    "categories": ["food"],
+    "title": "Easy-to-Peel Eggs",
+    "description": "Boiled eggs are easier to peel if you boil them in salted water and then start peeling the eggs from the bottom, from the widest part!"
+  },
+  "174": {
+    "id": 174,
+    "categories": ["food", "body"],
+    "title": "Onion Smell on Hands",
+    "description": "To get rid of the onion smell from your hands after cutting onions, you can either take the knife you used to cut the onion, hold the blade in your hands while rinsing with cold water, or rub your hands against a steel sink while washing them."
+  },
+  "175": {
+    "id": 175,
+    "categories": ["sickness"],
+    "title": "Stomach Flu",
+    "description": "If you want to avoid getting infected when someone close to you contracts the stomach flu, swallow 5-10 whole white peppercorns with a little water as early as possible."
+  },
+  "176": {
+    "id": 176,
+    "categories": ["sickness"],
+    "title": "Stomach Upset 1",
+    "description": "If you're unlucky enough to have an upset stomach, drinking flat Coca-Cola helps."
+  },
+  "177": {
+    "id": 177,
+    "categories": ["sickness"],
+    "title": "Stomach Upset 2",
+    "description": "Against stomach upset and vomiting, drinking a bit of blueberry soup helps. It calms the stomach, stops vomiting, and the soup contains vitamin C and antioxidants."
+  },
+  "178": {
+    "id": 178,
+    "categories": ["sickness"],
+    "title": "Stomach Upset and Small Children",
+    "description": "If your child has been affected by severe stomach upset, it works to grate an apple and let it stand until it turns brown, then feed it to the child. The brown apple neutralizes stomach acid while providing the child with quick carbohydrates and immediate energy."
+  },
+  "179": {
+    "id": 179,
+    "categories": ["sickness"],
+    "title": "Stomach Pains",
+    "description": "For temporary stomach pains, you can drink warm water with a little sugar. It relieves quickly and safely, and helps with digestion."
+  },
+  "180": {
+    "id": 180,
+    "categories": ["clothes"],
+    "title": "Run in the Stocking",
+    "description": "When wearing stockings, it's always good to have a bottle of clear nail polish in your handbag. If accidents happen, you can just brush a little on the ends of the run, and it won't get any larger!"
+  },
+  "181": {
+    "id": 181,
+    "categories": ["outdoors"],
+    "title": "More Moss",
+    "description": "If you want beautiful moss on stones and similar surfaces in the garden, you can brush yogurt on the stone or cement. This makes the moss spread faster."
+  },
+  "182": {
+    "id": 182,
+    "categories": ["food"],
+    "title": "Milder Onion",
+    "description": "If you have chopped onions for salads and the like, they become milder for both the stomach and breath if you let them soak in water for ten minutes after chopping and before using."
+  },
+  "183": {
+    "id": 183,
+    "categories": ["food", "outdoors"],
+    "title": "Carrot Flies",
+    "description": "When planting carrots, setting every other row with onions keeps carrot flies away!"
+  },
+  "184": {
+    "id": 184,
+    "categories": ["sickness"],
+    "title": "Mosquito Bites 1",
+    "description": "Mosquito bites are best relieved by rubbing half an onion against the bite. You can also try rubbing the bite with a piece of soap to alleviate the itching."
+  },
+  "185": {
+    "id": 185,
+    "categories": ["sickness"],
+    "title": "Mosquito Bites 2",
+    "description": "If you get a mosquito bite and don't have any relief on hand, you can make a cross on the bite with your nail and then rub it with a bit of saliva."
+  },
+  "186": {
+    "id": 186,
+    "categories": ["food"],
+    "title": "Ripening Tomatoes",
+    "description": "If you grow tomatoes yourself and they haven't had time to turn red, you can wrap each one in a piece of toilet paper and place them close together in a glass jar. Let the jar sit in a dark place, like a pantry, and they will ripen and turn red anyway!"
+  },
+  "187": {
+    "id": 187,
+    "categories": ["cleaning"],
+    "title": "Mug Rings on Tables",
+    "description": "If you've accidentally placed a hot cup on a dark wooden table, it's easy to form white rings from the cup. To remove these, take a regular sheet of printer paper, place it on the spot, and iron lightly over it."
+  },
+  "188": {
+    "id": 188,
+    "categories": ["vermin"],
+    "title": "Ants 1",
+    "description": "A trick against indoor ants is to sprinkle ground cinnamon over thresholds and edges. Ants avoid the smell, and it's both easy, cheap, and safe for children and pets!"
+  },
+  "189": {
+    "id": 189,
+    "categories": ["vermin"],
+    "title": "Ants 2",
+    "description": "Pour light syrup along the ant path, near their entrance to the house, perhaps outside the threshold? Ants drink the syrup but cannot get rid of the artificial sweetener in the light syrup, so they die soon, and after a few days, not a single ant is left."
+  },
+  "190": {
+    "id": 190,
+    "categories": ["vermin"],
+    "title": "Ants 3",
+    "description": "Against ants, you can use powdered sugar mixed with baking powder as bait. This won't be so popular in the long run, so the ants eat and then disappear."
+  },
+  "191": {
+    "id": 191,
+    "categories": ["cleaning", "bathroom"],
+    "title": "Moldy Shower Curtain",
+    "description": "If you run along the bottom edge of a shower curtain with a paper or cotton ball soaked in cooking oil, you prevent mold formation, and the curtain stays nice and clean."
+  },
+  "192": {
+    "id": 192,
+    "categories": ["cleaning", "clothes"],
+    "title": "Moldy Clothes",
+    "description": "If you've forgotten damp clothes somewhere so they've started to mold, you can put them in a basin of water and pour in a liter of buttermilk. After a day, you can wash the clothes as usual, and the mold stains are gone."
+  },
+  "193": {
+    "id": 193,
+    "categories": ["hobby", "clothes"],
+    "title": "Pattern Paper",
+    "description": "If you paint your own patterns and run out of regular pattern paper or need to sew smaller items, you can use newspaper instead. It is both stronger and better for the environment. Be careful when using light fabrics due to possible ink transfer."
+  },
+  "194": {
+    "id": 194,
+    "categories": ["vermin", "outdoors"],
+    "title": "Slug Control 1",
+    "description": "Nuts and nutshells that have been ground into a paste and placed in strings can stop slugs. You can also try using chestnuts since slugs can't tolerate them."
+  },
+  "195": {
+    "id": 195,
+    "categories": ["vermin", "outdoors"],
+    "title": "Slug Control 2",
+    "description": "Slugs are not coffee lovers and crawl in the opposite direction if you spread coffee grounds around the edges of the entire garden."
+  },
+  "196": {
+    "id": 196,
+    "categories": ["vermin", "outdoors"],
+    "title": "Slug Control 3",
+    "description": "You can protect potted outdoor plants from slugs by wrapping copper tape around the edge of the pot."
+  },
+  "197": {
+    "id": 197,
+    "categories": ["vermin", "outdoors"],
+    "title": "Slug Control 4",
+    "description": "Snails are attracted to strong scents and particularly love beer. If you bury a bowl of beer so that only a little of the rim sticks up, snails crawl in and drown after a while."
+  },
+  "198": {
+    "id": 198,
+    "categories": ["sickness", "body"],
+    "title": "Chapped Lips",
+    "description": "Apply honey to chapped and broken lips! If you want to remove the roughness, after 5 minutes, gently rub your lips with a soft toothbrush."
+  },
+  "199": {
+    "id": 199,
+    "categories": ["plants"],
+    "title": "Carnations",
+    "description": "If you place carnations in sugar water instead of plain water, they will last much longer."
+  },
+  "200": {
+    "id": 200,
+    "categories": ["clothes"],
+    "title": "Lint",
+    "description": "Lint on fabric in clothes and furniture can be removed by shaving the textiles with a regular disposable razor. Ensure that the razor is sharp and that the fabric is properly stretched, and be careful not to take off too much!"
+  },
+  "201": {
+    "id": 201,
+    "categories": ["hobby"],
+    "title": "New Paintbrushes",
+    "description": "New brushes often release bristles into the paint. Comb the brush first with a fine-toothed comb to avoid this."
+  },
+  "202": {
+    "id": 202,
+    "categories": ["furniture"],
+    "title": "New Leather Sofa",
+    "description": "With saddle soap from the equestrian store, the leather sofa becomes almost new! Dampen a sponge with a small amount of water, it shouldn't drip but you should be able to work up a lather, scrub the sofa with saddle soap, and then wash it off with water. Polish the sofa with a clean towel afterward."
+  },
+  "203": {
+    "id": 203,
+    "categories": ["food"],
+    "title": "Healthier Meatballs",
+    "description": "Meatballs become perfectly round, gain a nice color, and become healthier if, instead of frying them, you boil them with a bouillon cube and a little soy in the water!"
+  },
+  "204": {
+    "id": 204,
+    "categories": ["cleaning"],
+    "title": "Freshly Washed Scent",
+    "description": "If you suddenly have guests and haven't had time to scrub, you can moisten a towel or another piece of fabric in a little water with fabric softener. Then hang it up on the radiator to spread a freshly washed scent throughout the house or apartment!"
+  },
+  "205": {
+    "id": 205,
+    "categories": ["food"],
+    "title": "Nut Allergy",
+    "description": "For those with a nut allergy, you can try roasting oatmeal in the oven with a little salt as an alternative to nuts for snacks."
+  },
+  "206": {
+    "id": 206,
+    "categories": ["outdoors"],
+    "title": "Weed-Free",
+    "description": "If you want to avoid weeds in the flowerbed for the next 3 years in an environmentally friendly way, you can lay out old newspapers as a cover in the flowerbed. On top of the newspapers, add a thick layer of mulch. The newspapers will disappear on their own, and you also retain moisture in the flowerbed during a warm summer!"
+  },
+  "207": {
+    "id": 207,
+    "categories": ["cleaning", "body"],
+    "title": "Oily Hands 1",
+    "description": "If you have repaired your bike or something else and got dirty and oily hands, you can get clean and nice fingers quickly and efficiently by washing your hands in a bit of cooking oil first because oil dissolves oil. Finish with regular hand soap."
+  },
+  "208": {
+    "id": 208,
+    "categories": ["cleaning", "body"],
+    "title": "Oily Hands 2",
+    "description": "If you have gotten oil on your hands after, for example, a garage visit, you can scrub your hands with regular laundry detergent for clothes, and then wash your hands with soap as usual."
+  },
+  "209": {
+    "id": 209,
+    "categories": ["food"],
+    "title": "Unripe Avocado 1",
+    "description": "If the avocado is hard and unripe, you can make it ripen much faster by placing it together with tomatoes."
+  },
+  "210": {
+    "id": 210,
+    "categories": ["food"],
+    "title": "Unripe Avocado 2",
+    "description": "Avocado ripens faster if you wrap it in newspaper!"
+  },
+  "211": {
+    "id": 211,
+    "categories": ["food"],
+    "title": "Unripe Avocado 3",
+    "description": "Avocado becomes ripe faster if you place it in a paper bag together with an apple."
+  },
+  "212": {
+    "id": 212,
+    "categories": ["sickness"],
+    "title": "Sore Throat 1",
+    "description": "If you have a sore throat, you can dissolve about 1 tablespoon of salt in half a glass of lukewarm water and gargle. Cold bacteria don't thrive in this environment."
+  },
+  "213": {
+    "id": 213,
+    "categories": ["sickness"],
+    "title": "Sore Throat 2",
+    "description": "If you have a sore throat, a cold, or a fever, you can chew and swallow a small piece of peeled fresh ginger a few times a day for faster recovery."
+  },
+  "214": {
+    "id": 214,
+    "categories": ["sickness"],
+    "title": "Sore Throat 3",
+    "description": "If you have a sore throat, you can chop 1-2 cm of fresh ginger and 2-3 garlic cloves coarsely. Put in a saucepan with 2 large cups of water and add liquid honey and lemon juice. Boil for 10 minutes and then drink. Repeat a few times until your throat feels better."
+  },
+  "215": {
+    "id": 215,
+    "categories": ["sickness"],
+    "title": "Earache 1",
+    "description": "If you usually get earaches when you have a cold, it helps to put a piece of onion in your ears for a while."
+  },
+  "216": {
+    "id": 216,
+    "categories": ["sickness"],
+    "title": "Earache 2",
+    "description": "If you have earache, and the beginning of ear inflammation, you can take regular household salt in a small piece of cotton fabric. Tie it up so that it becomes a small bag, or wrap thread around and tie so that no salt can leak out. Insert the bag into the inner ear and hold it in place until the pain disappears!"
+  },
+  "217": {
+    "id": 217,
+    "categories": ["sickness"],
+    "title": "Earache 3",
+    "description": "If you have earache, you can try cutting a raw onion in half and holding it against the aching ear for at least 5 minutes. The onion both alleviates the pain and has an antibiotic effect!"
+  },
+  "218": {
+    "id": 218,
+    "categories": ["sickness"],
+    "title": "Earache 4",
+    "description": "For earache or ear inflammation, you can put a little olive oil in a teaspoon together with chopped onion and heat the oil by heating it under the spoon. Then drop a few drops of the oil into the ear, after it has cooled, and put in a cotton ball, so it heals faster."
+  },
+  "219": {
+    "id": 219,
+    "categories": ["sickness"],
+    "title": "Earache 5",
+    "description": "Ear inflammation usually disappears in a few hours if you drop 3-5 drops of onion juice in the ear."
+  },
+  "220": {
+    "id": 220,
+    "categories": ["food"],
+    "title": "Moldy Cheese",
+    "description": "If you have a problem with cheese molding quickly, you can try storing it in a plastic container with a tight-fitting lid together with a couple of sugar cubes; then it will last longer."
+  },
+  "221": {
+    "id": 221,
+    "categories": ["cleaning", "kitchen"],
+    "title": "On Top of Kitchen Cabinets",
+    "description": "It becomes quite greasy on top of kitchen cabinets if they don't go all the way up to the ceiling. If you roll out plastic wrap on top of the cabinets, it becomes easier to do a thorough cleaning of the kitchen. Then just remove the plastic wrap, wipe off excess dust and grease, and then lay out new plastic."
+  },
+  "222": {
+    "id": 222,
+    "categories": ["food"],
+    "title": "Pasta Water Boiling Over",
+    "description": "When boiling spaghetti or potatoes, it's easy for the water to boil over. But by adding a small splash of oil to the water while boiling, you can significantly reduce the bubbles and thus the risk of boiling over."
+  },
+  "223": {
+    "id": 223,
+    "categories": ["food"],
+    "title": "Pie or Puff Pastry",
+    "description": "If you have a pasta machine, you can also use it to quickly and easily roll out pie or puff pastry."
+  },
+  "224": {
+    "id": 224,
+    "categories": ["food"],
+    "title": "Sprouting Potatoes",
+    "description": "If you have potatoes at home, they begin to sprout after a while, but if you put an apple in the potato bag, you can prevent this."
+  },
+  "225": {
+    "id": 225,
+    "categories": ["clothes"],
+    "title": "Crease",
+    "description": "To get really sharp creases when ironing trousers, you can place a piece of foil between the fabric and the iron."
+  },
+  "226": {
+    "id": 226,
+    "categories": ["cleaning"],
+    "title": "Price Tags 1",
+    "description": "Sticky price tags can sometimes be difficult to remove, but if you put a little margarine on the tag and let it work for an hour, it comes off neatly and easily afterward."
+  },
+  "227": {
+    "id": 227,
+    "categories": ["cleaning"],
+    "title": "Price Tags 2",
+    "description": "When buying new beautiful glasses, there are usually price tags on the bottom or under the base. If you then drop a few drops of gasoline (of the same brand as acetone) on the tag and wait a while, it's then easy to remove them."
+  },
+  "228": {
+    "id": 228,
+    "categories": ["cleaning"],
+    "title": "Polishing Copper",
+    "description": "Copper and brass items can be kept shiny and nice by polishing them with a mixture of vinegar and salt."
+  },
+  "229": {
+    "id": 229,
+    "categories": ["cleaning"],
+    "title": "Polishing Silver 1",
+    "description": "To clean silver without toxic silver polishes, take aluminum foil and place it at the bottom of a bowl with as flat a bottom as possible, pour in two tablespoons of table salt, and regular hot water. When you then place the silver and it touches the foil, the dirt disappears without the need for rubbing and brushing."
+  },
+  "230": {
+    "id": 230,
+    "categories": ["cleaning"],
+    "title": "Polishing Silver 2",
+    "description": "Silver that has turned dark can be polished with ketchup or toothpaste; no special strong polishes are needed."
+  },
+  "231": {
+    "id": 231,
+    "categories": ["cleaning"],
+    "title": "Polishing Silver 3",
+    "description": "Boil the silver in water with a splash of vinegar, and it will be shiny again without strong cleaning agents!"
+  },
+  "232": {
+    "id": 232,
+    "categories": ["cleaning", "clothes"],
+    "title": "Fur Details",
+    "description": "Details or entire garments of fake fur can be cleaned by spraying regular dry shampoo on them and then brushing it out."
+  },
+  "233": {
+    "id": 233,
+    "categories": ["outdoors"],
+    "title": "Rhubarb",
+    "description": "To accelerate rhubarb plants, you can provide them with both warmth and light while the plant is protected by placing a glass sheet on a few stones over the ground on top of the plant."
+  },
+  "234": {
+    "id": 234,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Cutlery Drawers",
+    "description": "When vacuuming in the kitchen, make it a habit to also vacuum the cutlery drawers by threading a clean nylon stocking over the vacuum cleaner nozzle. The dirt from the drawer sticks to the stocking, and the dirt from the vacuum cleaner does not spread to cutlery and utensils."
+  },
+  "235": {
+    "id": 235,
+    "categories": ["cleaning", "kitchen", "bathroom"],
+    "title": "Clean Grout 1",
+    "description": "Dirty grout can be cleaned by wetting it with vinegar, letting it sit for 10 minutes, and then scrubbing it with a nail brush."
+  },
+  "236": {
+    "id": 236,
+    "categories": ["cleaning", "kitchen", "bathroom"],
+    "title": "Clean Grout 2",
+    "description": "If you have mold in the joints between the tiles in the bathroom or shower room, you can spray white wine vinegar with a plant sprayer, and it will easily disappear and not come back for a long time."
+  },
+  "237": {
+    "id": 237,
+    "categories": ["cleaning", "kitchen", "bathroom"],
+    "title": "Clean Grout 3",
+    "description": "To clean grout in the shower, mix a paste of vinegar, baking soda, and potato starch. Shower the joints with hot water, smear the paste into the joints, and let it sit for a few hours (preferably overnight). Then wash and scrub with, for example, an old toothbrush, and the joints will be like new again!"
+  },
+  "238": {
+    "id": 238,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Pots",
+    "description": "If you pour vinegar and water into pots or other stainless steel vessels and let them stand for a while before washing, they become shiny and clean."
+  },
+  "239": {
+    "id": 239,
+    "categories": ["cleaning"],
+    "title": "Clean Blinds",
+    "description": "Blinds can be quickly dusted if you put on a pair of old knitted gloves and run your fingers between the blinds. If you need to wet clean the blinds, you can simply wet the gloves and do the same!"
+  },
+  "240": {
+    "id": 240,
+    "categories": ["cleaning"],
+    "title": "Clean Vents",
+    "description": "Vents are easy to reach if you wrap a dishcloth around a regular table knife and dip it in water and soap. This also works for cleaning other tight spaces."
+  },
+  "241": {
+    "id": 241,
+    "categories": ["cleaning", "jewelry"],
+    "title": "Clean Jewelry",
+    "description": "Clean your jewelry and other precious metals by lining the inside of a bowl with aluminum foil. Fill the lined bowl with warm water and add a little baking soda. Let the jewelry soak in the bowl for a while, and they will regain their shine and luster."
+  },
+  "242": {
+    "id": 242,
+    "categories": ["cleaning", "bathroom"],
+    "title": "Clean Bathtub 1",
+    "description": "If you want the bathtub to be clean and spotless, you can remove stains with a half-cut lemon. If you dip the lemon in salt or warm vinegar first, the cleaning becomes even more effective."
+  },
+  "243": {
+    "id": 243,
+    "categories": ["cleaning", "bathroom"],
+    "title": "Clean Bathtub 2",
+    "description": "If the bathtub has yellowed, you can rub it with green soap. Let it sit for a few hours and rinse with water, and the bathtub will be sparkling white!"
+  },
+  "244": {
+    "id": 244,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Grill Grate 1",
+    "description": "If you live in a house with a garden, after grilling, you can place the grate in the grass overnight. The moisture and morning dew dissolve the dirt, so the grate is easy to wipe off the next day!"
+  },
+  "245": {
+    "id": 245,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Grill Grate 2",
+    "description": "Wash the grill grate with Coca-Cola to dissolve dirt more easily than with detergent and water."
+  },
+  "246": {
+    "id": 246,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Grill Grate 3",
+    "description": "The grill grate is easily cleaned with a crumpled piece of aluminum foil in hot water!"
+  },
+  "247": {
+    "id": 247,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Grill Grate/Baking Sheet",
+    "description": "Rub the grate or sheet with brown soap and add foil. Let it work overnight and then rinse off."
+  },
+  "248": {
+    "id": 248,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Clean Coffee Maker",
+    "description": "If the coffee starts to taste bad, it may be time to clean the coffee maker. Mix 1 part vinegar with 4 parts water and run it through the brewer, without coffee, of course, to make it clean and fine. Run an extra cycle afterward with just water before brewing the coffee."
+  },
+  "249": {
+    "id": 249,
+    "categories": ["cleaning", "hobby"],
+    "title": "Clean Whiteboard",
+    "description": "You can clean a whiteboard with regular coffee (brewed, not powder) instead of strong cleaning agents. It becomes just as clean, and also, the coffee leaves a protective layer on the board, keeping it clean for a longer time!"
+  },
+  "250": {
+    "id": 250,
+    "categories": ["cleaning", "hobby"],
+    "title": "Scratches in Wooden Floor",
+    "description": "Scratches or minor injuries in wooden floors can be quickly hidden by rubbing an unsalted peanut over the damage."
+  },
+  "251": {
+    "id": 251,
+    "categories": ["food"],
+    "title": "Leftover Oatmeal",
+    "description": "If there's leftover oatmeal after breakfast, you can mix in an egg, a little sugar, and a couple of tablespoons of flour to make batter for healthy and delicious breakfast pancakes!"
+  },
+  "252": {
+    "id": 252,
+    "categories": ["food"],
+    "title": "Melting Ice Cream Cones",
+    "description": "When making homemade ice cream cones, if you place a piece of marshmallow at the bottom of the cone, you prevent the ice cream from leaking out of the bottom when it melts, and children get a little surprise when they finish eating!"
+  },
+  "253": {
+    "id": 253,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Stainless Steel Appliances 1",
+    "description": "Fingerprints are easily left on stainless steel appliances. You can remove them easily by rubbing them with regular paper towels dipped in a little mineral water."
+  },
+  "254": {
+    "id": 254,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Stainless Steel Appliances 2",
+    "description": "If you polish stainless steel fans or refrigerators with cooking oil, they become shiny and not greasy!"
+  },
+  "255": {
+    "id": 255,
+    "categories": ["plants"],
+    "title": "Long-Lasting Roses 1",
+    "description": "To make roses last longer, place them as cool as possible at night. The best way is to put them in the bathtub covered with cold water overnight. In that case, put a weight on the stems so they don't float up."
+  },
+  "256": {
+    "id": 256,
+    "categories": ["plants"],
+    "title": "Long-Lasting Roses 2",
+    "description": "If the roses in the vase start to nod their heads, you can wrap a little foil around the flower's neck to support it upward, cut a new slice in the stem, and place it in boiling water for a while. After a while, the flower stands up again, and it stays fresh for a long time! However, be sure to protect the flower itself from steam with tissue paper or similar."
+  },
+  "257": {
+    "id": 257,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Rust Stains 1",
+    "description": "If you have rust stains on the sink or around the faucet, you can rub the stains with a half onion, and they will disappear."
+  },
+  "258": {
+    "id": 258,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Rust Stains 2",
+    "description": "Rust stains can be removed with concentrated white vinegar or citric acid. Otherwise, you can wet the stain, pour on lemon juice, iron with a hot iron, and then wash."
+  },
+  "259": {
+    "id": 259,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Rusty Metal Items",
+    "description": "You can put these in cola overnight, and the rust will disappear."
+  },
+  "260": {
+    "id": 260,
+    "categories": ["food"],
+    "title": "Rolls",
+    "description": "It becomes both more environmentally friendly and cheaper if you use uncooked spaghetti instead of toothpicks when making rolls and bacon-wrapped burgers."
+  },
+  "261": {
+    "id": 261,
+    "categories": ["vermin", "outdoors", "animals"],
+    "title": "Repelling Animals",
+    "description": "If you have problems with deer and other animals eating plants during the winter, you can water them with water mixed with garlic during the summer. This way, the shoots of the plants won't be so tasty for the animals."
+  },
+  "262": {
+    "id": 262,
+    "categories": ["vermin", "animals"],
+    "title": "Rats",
+    "description": "If you have mice or rats in the basement or attic, you can sprinkle garlic powder; the rodents don't like it."
+  },
+  "263": {
+    "id": 263,
+    "categories": ["cleaning", "clothes"],
+    "title": "Red Wine Stains",
+    "description": "Both dry and wet red wine stains can be boiled away. Dab the stain in a pot of boiling water, and you'll see the stain dissolve almost immediately! Do not use salt as it penetrates the fibers and sets the stain instead."
+  },
+  "264": {
+    "id": 264,
+    "categories": ["food"],
+    "title": "Chewy Buns",
+    "description": "If you thaw bread in the microwave, it becomes chewy and hard if allowed to cool at room temperature. Quickly cool the bread or buns in the freezer instead, and they'll be much better."
+  },
+  "265": {
+    "id": 265,
+    "categories": ["food"],
+    "title": "Last Piece of Cheese",
+    "description": "When the cheese starts to run out and becomes boring and hard at the edges, you can grate it or break it into small pieces and store it in the freezer. This way, there's always pre-grated cheese at home for casseroles and other cooking, you don't have to eat cheese with boring edges, and you don't have to waste food!"
+  },
+  "266": {
+    "id": 266,
+    "categories": ["sickness"],
+    "title": "Self-Cuts",
+    "description": "Self-inflicted cuts can be challenging to get rid of, but try applying super glue to the cut next time, and it will heal faster. Be careful not to inadvertently glue any other body parts together!"
+  },
+  "267": {
+    "id": 267,
+    "categories": ["body"],
+    "title": "Baldness",
+    "description": "An old trick to remedy incipient hair loss is to make a decoction of birch leaves that you dab on the scalp morning and evening. In spring and early summer when the FIRST birch leaves come out, go out and collect a quantity of leaves. You decide how much to collect depending on how strong a decoction you want and how much you want to make, but a good amount is about 1 liter of birch leaves to 1 liter of water. Boil the water and add the leaves. Let it simmer for 2-3 minutes, strain out the leaves. Let it cool and pour into bottles, preferably with a spray nozzle for easier application!"
+  },
+  "268": {
+    "id": 268,
+    "categories": ["food"],
+    "title": "Slicing Mushrooms",
+    "description": "Slicing fresh mushrooms is quick and easy with a regular egg slicer, and the slices also become evenly thick and nice!"
+  },
+  "269": {
+    "id": 269,
+    "categories": ["sickness"],
+    "title": "Shoe Chafing",
+    "description": "If you get chafing from your shoes, you can put them in the oven at 70 degrees Celsius for about 7 minutes. Put them on your feet immediately afterward so the shoes mold to your feet!"
+  },
+  "270": {
+    "id": 270,
+    "categories": ["body"],
+    "title": "Rough Elbows",
+    "description": "Rough elbows become soft and nice if you split a lemon and sit with one elbow in each half for 15 minutes. Moisturize afterward with oil or a rich cream."
+  },
+  "271": {
+    "id": 271,
+    "categories": ["clothes"],
+    "title": "Wrinkled Clothes",
+    "description": "If the clothes are very wrinkled, you can moisten them with water in a spray bottle, put them in a bag in the refrigerator for a while, and then iron them with a steam iron. This makes it easy to get the garments smooth and nice!"
+  },
+  "272": {
+    "id": 272,
+    "categories": ["food"],
+    "title": "Wrinkled Bell Pepper",
+    "description": "When the bell pepper starts to wrinkle a bit, you can put it in a bowl of cold water in the refrigerator, and it will soon become fresh again!"
+  },
+  "273": {
+    "id": 273,
+    "categories": ["food"],
+    "title": "Save Beer",
+    "description": "If you want to save a half-empty beer bottle or sparkling wine without it going flat, try storing it upside down. This way, the carbonation rises and is preserved longer."
+  },
+  "274": {
+    "id": 274,
+    "categories": ["food"],
+    "title": "Curdled Sauce",
+    "description": "If the sauce curdles because it accidentally became too fatty, a few drops of cold water can work wonders."
+  },
+  "275": {
+    "id": 275,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Cutting Board",
+    "description": "Clean the cutting board with hand sanitizer now and then to eliminate bacteria that would otherwise accumulate. Wash thoroughly with water and let it dry afterward."
+  },
+  "276": {
+    "id": 276,
+    "categories": ["sickness"],
+    "title": "Mucous Cough",
+    "description": "Try drinking carbonated water for a mucous cough instead of cough medicine. Carbonated water is also mucus-relieving and tastes much better!"
+  },
+  "277": {
+    "id": 277,
+    "categories": ["hobby"],
+    "title": "Dull Scissors",
+    "description": "A quick trick for dull scissors if you don't have a sharpener is to cut a few times with the scissors in fine steel wool of the Svinto type; the scissors become immediately sharp again!"
+  },
+  "278": {
+    "id": 278,
+    "categories": ["textile"],
+    "title": "Smooth Linen",
+    "description": "If you don't have a mangle, you should iron the linen while it's still slightly damp after washing. If the linen is dry, you can moisten it with water in a spray bottle and put it in a plastic bag a few hours before ironing."
+  },
+  "279": {
+    "id": 279,
+    "categories": ["vermin"],
+    "title": "Silverfish",
+    "description": "You can keep silverfish at bay by applying aromatic oils along edges, corners, or gaps."
+  },
+  "280": {
+    "id": 280,
+    "categories": ["food"],
+    "title": "Syrup Residue",
+    "description": "You can get the last bit out of the syrup bottle more easily by rinsing the outside with hot water for a while, or alternatively, warming the bottle in the microwave for a few seconds. The syrup becomes more fluid."
+  },
+  "281": {
+    "id": 281,
+    "categories": ["textile"],
+    "title": "Wrinkled Curtains",
+    "description": "If you have wrinkled curtains or tablecloths at home, you can simply hang them as usual or lay them on the table and then spray them with a regular water sprayer with lukewarm water. Let them air dry, and then they will be straight and nice again!"
+  },
+  "282": {
+    "id": 282,
+    "categories": ["food"],
+    "title": "Wilting Herbs",
+    "description": "If you have dill or parsley in a bunch that is wilting, you can give it a last chance by standing it in warm water, about 45-50 degrees, for a while, and it will be like new. However, it must be used the same day because it starts wilting again, and after that, it is ruined."
+  },
+  "283": {
+    "id": 283,
+    "categories": ["furniture", "hobby"],
+    "title": "Dirty Piano",
+    "description": "Dirt on piano keys is gently removed with toothpaste."
+  },
+  "284": {
+    "id": 284,
+    "categories": ["indoors", "cleaning"],
+    "title": "Sweaty Mattress",
+    "description": "When sleeping, one sweats a little all the time, so the mattress should be cleaned regularly. You can absorb the moisture in the mattress with baking soda. Sprinkle baking soda on the mattress and let it sit for 15-30 minutes so that all moisture is absorbed. Vacuum or brush off the mattress and do the same on the other side."
+  },
+  "285": {
+    "id": 285,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Sink",
+    "description": "A dirty sink can be easily cleaned and made shiny by washing it with baking soda and a little water. Let the baking soda bubble for a short while before rinsing, and deposits will dissolve!"
+  },
+  "286": {
+    "id": 286,
+    "categories": ["cleaning"],
+    "title": "Dirty Coffee Pot",
+    "description": "The coffee pot in the coffee maker can be difficult to clean when the coffee has burned on. A little powder detergent and water left in the pot for a while easily remedy this problem, and the pot becomes like new again!"
+  },
+  "287": {
+    "id": 287,
+    "categories": ["cleaning"],
+    "title": "Dirty China Plate",
+    "description": "A dirty china plate can be cleaned by rubbing it with half of a cabbage head."
+  },
+  "288": {
+    "id": 288,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Microwave 1",
+    "description": "If you place a small bowl of water and lemon slices in the microwave and run it at 700 watts for a minute, it will smell good afterward, and it will be easy to wipe off thanks to the steam from the water."
+  },
+  "289": {
+    "id": 289,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Microwave 2",
+    "description": "Put half a lemon in the microwave and run at full power for about 1 minute. Wait a while and then wipe it out."
+  },
+  "290": {
+    "id": 290,
+    "categories": ["cleaning", "clothes"],
+    "title": "Dirty Shirt Collar",
+    "description": "If the shirt collar is really dirty, you can iron a mixture of baking soda and vinegar on the collar and then wash as usual."
+  },
+  "291": {
+    "id": 291,
+    "categories": ["cleaning"],
+    "title": "Dirty Bowl",
+    "description": "If you have a bowl with dried-on dirt to wash, it becomes easier if you fill it with water and microwave it at full power for two minutes. The steam makes the dirt and grease dissolve, but be aware that the bowl is very hot when you take it out!"
+  },
+  "292": {
+    "id": 292,
+    "categories": ["cleaning"],
+    "title": "Dirty Teapot",
+    "description": "A teapot with deposits becomes shiny clean if you boil light milk and pour it into the teapot, and then let it stand until it cools."
+  },
+  "293": {
+    "id": 293,
+    "categories": ["sickness"],
+    "title": "Small Wounds",
+    "description": "If you put plantain leaves on small open wounds, the healing time is shortened!"
+  },
+  "294": {
+    "id": 294,
+    "categories": ["food"],
+    "title": "Puff Pastry",
+    "description": "If you want to avoid puff pastry sticking to the rolling pin when rolling it out, you can put the rolling pin in the freezer for a while before using it."
+  },
+  "295": {
+    "id": 295,
+    "categories": ["hobby"],
+    "title": "Narrow Candle",
+    "description": "If the candle is too narrow for the candlestick, you can put it in a toffee mold and then place it in the candlestick."
+  },
+  "296": {
+    "id": 296,
+    "categories": ["cleaning"],
+    "title": "Soot Stains",
+    "description": "Soot stains can be removed with alkaline cleaner with pH 9-12."
+  },
+  "297": {
+    "id": 297,
+    "categories": ["cleaning"],
+    "title": "Sooty Stove Door",
+    "description": "A sooty door on the wood-burning stove becomes easily clean and clear again if you polish it with a little damp household paper dipped in soot from the stove!"
+  },
+  "298": {
+    "id": 298,
+    "categories": ["outdoors"],
+    "title": "Snow Shoveling",
+    "description": "Shoveling snow can be heavy, especially if the snow is wet. If you lubricate the shovel with ski wax or the end of a candle, it will slide more easily!"
+  },
+  "299": {
+    "id": 299,
+    "categories": ["textile"],
+    "title": "Stretching Sheets",
+    "description": "You can stretch sheets without help by clamping one end of the sheet in the drawer of a sturdy dresser or alternatively in a door frame."
+  },
+  "300": {
+    "id": 300,
+    "categories": ["food"],
+    "title": "Quick Crumble Pie",
+    "description": "Take the opportunity to make a large batch of crumble pie dough next time, and freeze in tennis ball-sized portions with plastic wrap around. Then it's just a matter of grating it over the fruit or berries next time you make a pie."
+  },
+  "301": {
+    "id": 301,
+    "categories": ["food"],
+    "title": "Quick Pizza",
+    "description": "If you usually make homemade pizza, it can be a good idea to make a double batch and freeze one pizza crust. This way, you only need to make dough every other time."
+  },
+  "302": {
+    "id": 302,
+    "categories": ["food"],
+    "title": "Sponge Cake",
+    "description": "It's easier to flip if you place the mold on a damp towel immediately when taking it out of the oven."
+  },
+  "303": {
+    "id": 303,
+    "categories": ["vermin", "outdoors"],
+    "title": "Voles 1",
+    "description": "If you have problems with voles in the garden, try stamping down the snow around trees and bushes in the garden. Packed snow makes it harder for voles to move around, as they tend to dig tunnels under the snow when it gets warmer. You can also wrap the trunks in plastic or mesh."
+  },
+  "304": {
+    "id": 304,
+    "categories": ["vermin", "outdoors"],
+    "title": "Voles 2",
+    "description": "If you have problems with voles in the garden, try soaking a cloth in vinegar and stuffing it into the voles' holes."
+  },
+  "305": {
+    "id": 305,
+    "categories": ["cleaning", "clothes"],
+    "title": "Dirty Cap/Hat",
+    "description": "A dirty cap or hat easily loses its shape if washed in the washing machine. Instead, put them in the dishwasher and wash them there! Dishwasher detergent dissolves grease and dirt, and the machine keeps the shape as nice as before!"
+  },
+  "306": {
+    "id": 306,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Thermos 1",
+    "description": "Place a wad of steel wool and some hot water in a dirty thermos and shake it around. Pour out and rinse, and the thermos is clean again."
+  },
+  "307": {
+    "id": 307,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Thermos 2",
+    "description": "Fill the thermos with water and add a dishwasher tablet. Let it stand overnight and rinse thoroughly."
+  },
+  "308": {
+    "id": 308,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Dirty Thermos 3",
+    "description": "For heavily soiled thermoses, you can try the following: Pour boiling water over a little baking soda in the thermos. Be careful to pour gently because the baking soda starts bubbling a bit and can overflow. Let it stand overnight and rinse thoroughly in the morning, and the thermos will be sparkling clean!"
+  },
+  "309": {
+    "id": 309,
+    "categories": ["cleaning"],
+    "title": "Spilled on the Tablecloth",
+    "description": "If you have spilled something on the tablecloth, pour a fair amount of potato flour on the spilled area and let it dry. Then vacuum up the flour, and the stain is gone!"
+  },
+  "310": {
+    "id": 310,
+    "categories": ["cleaning"],
+    "title": "Spilled Red Wine",
+    "description": "Salt is fine, but if you have spilled red wine, it is more effective to either pour white wine over the stain or sprinkle potato flour over the wine and let it dry, and it will disappear. However, the stain should not be dried for these tips to work."
+  },
+  "311": {
+    "id": 311,
+    "categories": ["cleaning", "clothes", "textile"],
+    "title": "Candle Wax",
+    "description": "If you have candle wax on tablecloths or clothes, you can remove it by placing a coffee filter or a piece of paper towel on it and ironing it with the iron. This may need to be done several times with new paper each time until the entire stain is gone."
+  },
+  "312": {
+    "id": 312,
+    "categories": ["hobby"],
+    "title": "Candles",
+    "description": "Candles should be placed in the freezer a few hours before use. Then, they burn both slower and more evenly."
+  },
+  "313": {
+    "id": 313,
+    "categories": ["sickness", "body"],
+    "title": "Splinters",
+    "description": "A splinter in the finger can be difficult to remove, but if you put the finger in a thimble or another suitable small container filled with oil, you can squeeze out the splinter fairly soon."
+  },
+  "314": {
+    "id": 314,
+    "categories": ["cleaning", "clothes", "textile"],
+    "title": "Iron Stains",
+    "description": "Brown stains from an iron should be immediately rubbed with a clean cloth dipped in vinegar."
+  },
+  "315": {
+    "id": 315,
+    "categories": ["sickness", "body"],
+    "title": "Sunburn 1",
+    "description": "If you have sunburn and don't have any after-sun lotion, you can dab the burned area with vinegar to alleviate the burning sensation."
+  },
+  "316": {
+    "id": 316,
+    "categories": ["sickness", "body"],
+    "title": "Sunburn 2",
+    "description": "If you have sunburn, you can alleviate the burning sensation by making a compress of buttermilk and applying it to the burned area."
+  },
+  "317": {
+    "id": 317,
+    "categories": ["food"],
+    "title": "Save Champagne",
+    "description": "If you have a partially consumed bottle of champagne or sparkling wine without a screw cap, you can insert a teaspoon of silver or stainless steel into the bottle neck to retain the bubbles."
+  },
+  "318": {
+    "id": 318,
+    "categories": ["kitchen", "bathroom"],
+    "title": "Clogged Pipes",
+    "description": "To get rid of clogs in pipes, take a quarter cup of baking soda and 50 ml of vinegar. Mix it with boiling water and pour it down the drain."
+  },
+  "319": {
+    "id": 319,
+    "categories": ["cleaning", "clothes", "textile"],
+    "title": "Scorched Stains",
+    "description": "Scorched stains on clothes and textiles may be removed by mixing a paste of salt and water and letting it sit on the stain for up to 5 hours."
+  },
+  "320": {
+    "id": 320,
+    "categories": ["cleaning", "clothes"],
+    "title": "Sweat Stains 1",
+    "description": "Sweat stains under the arms of clothes should disappear if you wet the area with a mixture of baking soda and vinegar, and then wash as usual."
+  },
+  "321": {
+    "id": 321,
+    "categories": ["cleaning", "clothes"],
+    "title": "Sweat Stains 2",
+    "description": "Sweat stains can be dipped in boiling water or washed with diluted vinegar or spirit vinegar. This also removes the odor that may persist."
+  },
+  "322": {
+    "id": 322,
+    "categories": ["body", "clothes"],
+    "title": "Armpit Sweat",
+    "description": "If you suffer from armpit sweat but still want to wear that special top or shirt, you can hide the moisture by attaching panty liners to the inside of the garment at the armpits."
+  },
+  "323": {
+    "id": 323,
+    "categories": ["sickness", "body"],
+    "title": "Severe Nosebleed",
+    "description": "A reader has heard that one can alleviate or even stop a severe nosebleed by cooling the wrists with, for example, ice-cold water. We have not had the opportunity to test this tip yet."
+  },
+  "324": {
+    "id": 324,
+    "categories": ["body"],
+    "title": "Difficulty Sleeping",
+    "description": "If you have trouble falling asleep, it may help to place a pillow of the right size between your thighs/legs."
+  },
+  "325": {
+    "id": 325,
+    "categories": ["cleaning", "clothes", "textile"],
+    "title": "Jam and Berry Stains",
+    "description": "A quick and environmentally friendly way to remove stains from berries and jam is to dip the stain in boiling milk for at least 10 minutes. Repeat as needed. This works for everything from blueberries to strawberries!"
+  },
+  "326": {
+    "id": 326,
+    "categories": ["cleaning", "outdoors"],
+    "title": "Remove Car Stripes",
+    "description": "If you want to remove a stripe from the car without damaging the paint, first cover all plastic details with masking tape. Then rub the stripe with a piece of steel wool moistened with nail polish remover or acetone. After that, it's easy to scrape it off with a soft plastic spatula. Wash afterward with water and soap. This method is much easier than struggling with a heat gun."
+  },
+  "327": {
+    "id": 327,
+    "categories": ["sickness", "body"],
+    "title": "Toothache",
+    "description": "If you have a toothache, you can numb the gum and alleviate the aching tooth by placing a whole clove against the gum near the affected tooth."
+  },
+  "328": {
+    "id": 328,
+    "categories": ["cleaning", "furniture"],
+    "title": "Teak Furniture",
+    "description": "If you have moisture stains on your teak furniture, take a damp cloth, dip it in some ash, and then rub the stains with it."
+  },
+  "329": {
+    "id": 329,
+    "categories": ["cleaning", "clothes", "textile"],
+    "title": "Tea Stains",
+    "description": "Tea stains that haven't come off in the wash will disappear on their own if you hang the garment in the sun."
+  },
+  "330": {
+    "id": 330,
+    "categories": ["food"],
+    "title": "Dry Buns",
+    "description": "If the buns start to feel dry and dull, brush them with a little milk or water and place them in a warm oven for a short while, and they'll feel freshly baked again!"
+  },
+  "331": {
+    "id": 331,
+    "categories": ["clothes"],
+    "title": "Dry Rubber Boots",
+    "description": "When using rubber boots, your feet can easily get damp. In that case, insert a panty liner as an insole, and your feet will stay dry as it absorbs the moisture. The liner also stays in place in the boot because there is glue on the back. After a few uses, discard the old one and insert a new one."
+  },
+  "332": {
+    "id": 332,
+    "categories": ["body"],
+    "title": "Dry Hands/Feet",
+    "description": "Mix a dab of honey with 1 teaspoon of almond oil. Apply to hands and feet and put on a pair of thin cotton gloves and socks. Let it dry, preferably before bedtime, and sleep with it. Rinse, and your hands and feet will be soft and smooth. Feet may need to be repeated for a couple of nights if they are very dry."
+  },
+  "333": {
+    "id": 333,
+    "categories": ["body"],
+    "title": "Dry Hands 2",
+    "description": "Rub your hands for a while with half a teaspoon of regular salt and a few drops of water. Rinse, and your hands will be smooth and soft again! Be cautious if there are any cuts on your hands as the salt may sting a little."
+  },
+  "334": {
+    "id": 334,
+    "categories": ["food"],
+    "title": "Dry Lemon Half",
+    "description": "If you only need the juice from half a lemon or a wedge when cooking or baking, instead of cutting the lemon, poke a few holes in the peel with a toothpick and squeeze out the juice. This way, it keeps much longer without shriveling."
+  },
+  "335": {
+    "id": 335,
+    "categories": ["body"],
+    "title": "Dry Shampoo for Brunettes",
+    "description": "Mix one part cocoa, one part baking soda, one part baby powder, and one part cinnamon. Put the mixture in, for example, a sugar shaker and use it as dry shampoo if you're a brunette!"
+  },
+  "336": {
+    "id": 336,
+    "categories": ["animals"],
+    "title": "Matted Fur",
+    "description": "Tangles in a dog's or cat's fur are easier to untangle with a knitting needle or a darning needle. Hold the tangle near the scalp and insert the needle or pin several times and pull outward to untangle it before brushing. However, make sure the dog or cat stands still to avoid accidents!"
+  },
+  "337": {
+    "id": 337,
+    "categories": ["body"],
+    "title": "Broken Eyeshadow",
+    "description": "There are ways to save an eyeshadow that you've dropped on the floor and shattered! Drop a little pure alcohol, such as vodka, into the eyeshadow and press it down with your fingers to form a nice cake again. Let it dry overnight, and the next day, the eyeshadow is almost as good as new!"
+  },
+  "338": {
+    "id": 338,
+    "categories": ["clothes"],
+    "title": "Broken Pantyhose",
+    "description": "Broken pantyhose can be reused by cutting the legs into approximately 6-7 cm long pieces and rolling them up. They then become excellent hair ties!"
+  },
+  "339": {
+    "id": 339,
+    "categories": ["food"],
+    "title": "Stiff Champagne Cork",
+    "description": "If the champagne or sparkling wine cork is difficult to open, it is much easier if you use a lightly dampened dishcloth to grip it!"
+  },
+  "340": {
+    "id": 340,
+    "categories": ["cleaning"],
+    "title": "Ink Stains",
+    "description": "Difficult stains on floors or walls, such as ink, can be removed with a little Vademecum mouthwash on a cotton swab. This also works if you have accidentally used the wrong type of pen on a whiteboard."
+  },
+  "341": {
+    "id": 341,
+    "categories": ["cleaning"],
+    "title": "Chewing Gum",
+    "description": "Chewing gum is easier to remove from clothes if you freeze the garment first so that the gum solidifies."
+  },
+  "342": {
+    "id": 342,
+    "categories": ["cleaning", "body"],
+    "title": "Chewing Gum in Hair",
+    "description": "If you have gum in your hair, smear the entire piece of gum with peanut butter, and then gently pull it out of the hair. Then comb out any remaining residue. It sounds a bit strange but actually works, even if it gets a little messy!"
+  },
+  "343": {
+    "id": 343,
+    "categories": ["cleaning", "clothes"],
+    "title": "Wash the Beret",
+    "description": "To keep a beret in shape after washing, let it dry after putting it on a paper plate of suitable size."
+  },
+  "344": {
+    "id": 344,
+    "categories": ["textile"],
+    "title": "Fitted Sheet",
+    "description": "If you want to keep the fitted sheet in place, you can secure it with old suspenders on the underside of the mattress!"
+  },
+  "345": {
+    "id": 345,
+    "categories": ["body"],
+    "title": "Invigorating Bath",
+    "description": "Pouring a cup of apple cider vinegar into the bathwater makes the whole body lively, and you feel like a new person. A simple tip to feel better, especially during the dark months!"
+  },
+  "346": {
+    "id": 346,
+    "categories": ["sickness", "body"],
+    "title": "Urinary Tract Infection 1",
+    "description": "For a mild urinary tract infection, it may help to drink freshly squeezed lemon juice or cranberry juice. The lemon juice can be mixed with a little water and possibly a little sugar or sweetener and ice cubes to make it taste really good!"
+  },
+  "347": {
+    "id": 347,
+    "categories": ["sickness", "body"],
+    "title": "Urinary Tract Infection 2",
+    "description": "For a stubborn urinary tract infection, you can try drinking hot water with crushed garlic cloves. It tastes awful, but it helps!"
+  },
+  "348": {
+    "id": 348,
+    "categories": ["sickness", "body"],
+    "title": "Rashes and Irritation",
+    "description": "Having an Aloe Vera plant at home by the window is good for many things! For rashes and irritation, insect bites, dry skin, self-cracks, and maybe the dog's sensitive paw pads, you can find relief by applying the gel found in the plant. Just break off a small piece of the plant and squeeze out the liquid in a channel in the middle. Aloe Vera plant grows quite quickly again, but to avoid mutilating the whole plant, it's good to save the piece in a small plastic bag or a tight-sealing container so you can use the same piece several times."
+  },
+  "349": {
+    "id": 349,
+    "categories": ["food"],
+    "title": "Beautiful Pasta",
+    "description": "You get a beautiful yellow color on the pasta without it taking on the flavor by boiling it with a little mild curry in the water. If you use a lot of curry when boiling egg noodles, they sometimes get a cool reddish hue, which can be fun for various arrangements!"
+  },
+  "350": {
+    "id": 350,
+    "categories": ["sickness", "body"],
+    "title": "Stye in the Eye",
+    "description": "Brew some tea, black or green doesn't matter, and let it cool. Pour it into a glass or similar and rinse the eye with the cold liquid by blinking properly in it. Repeat the treatment if the stye does not disappear after the first time. This can be done both morning and evening until the stye is gone!"
+  },
+  "351": {
+    "id": 351,
+    "categories": ["food"],
+    "title": "Water boiling over",
+    "description": "To prevent the water in the pan from boiling over, you can put a piece of wooden or metal cutlery across the pan instead of a lid!"
+  },
+  "352": {
+    "id": 352,
+    "categories": ["clothes"],
+    "title": "Warmer Shoes",
+    "description": "If you feel cold in your shoes and have access to straw, you can have warm and comfortable feet by making an insole out of it to put inside your shoes."
+  },
+  "353": {
+    "id": 353,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Burnt Pot 1",
+    "description": "Easily remove burnt residues in a pot by boiling water with dishwasher powder."
+  },
+  "354": {
+    "id": 354,
+    "categories": ["cleaning", "kitchen"],
+    "title": "Burnt Pot 2",
+    "description": "Pour 2-3 cm of Coca Cola into the pot and let it boil thoroughly on the stove. Then scrub a bit with a dish brush, and everything dissolves in no time!"
+  },
+  "355": {
+    "id": 355,
+    "categories": ["food"],
+    "title": "Burnt Food",
+    "description": "If you accidentally burn your food, the burnt taste becomes less noticeable if you add a teaspoon of brandy."
+  },
+  "356": {
+    "id": 356,
+    "categories": ["food"],
+    "title": "Burnt Milk",
+    "description": "If you have accidentally burnt milk at the bottom of the pot, it's easier to remove by washing it with granulated sugar. You won't need to scrub as much as with dish soap."
+  },
+  "357": {
+    "id": 357,
+    "categories": ["food"],
+    "title": "Wine Residue",
+    "description": "Save the red wine leftover from Saturday night by freezing it into wine ice cubes. When cooking sauce and want to add a little extra, it's convenient to have small ice cubes on hand. This also works with leftover cream or after making broth. The practical format makes it easy to measure! If you have a lot of liquid, it's easiest to use plastic ice cube bags available in grocery stores."
+  },
+  "358": {
+    "id": 358,
+    "categories": ["cleaning"],
+    "title": "Winter Cleaning for Rugs",
+    "description": "An effective way to clean rugs when there's snow outside is to first cool the rug outdoors for a while, and then place it in the snow with the pile facing down. Brush off the snow with a brush, and the rug is clean and fresh again."
+  },
+  "359": {
+    "id": 359,
+    "categories": ["body"],
+    "title": "Whiter Teeth",
+    "description": "You can get whiter teeth at a low cost by brushing them with baking soda once a month. Be careful not to do this too often, as it can wear down enamel and gums!"
+  },
+  "360": {
+    "id": 360,
+    "categories": ["cleaning"],
+    "title": "Garlic Press",
+    "description": "It's easier to remove garlic from a garlic press when you're done if you press the garlic with the tough skin still on!"
+  },
+  "361": {
+    "id": 361,
+    "categories": ["outdoors"],
+    "title": "Spring Planting",
+    "description": "A good tip for spring planting is to start saving empty milk cartons early in winter. You can then cut the cartons and use the bottom part as a pot to start growing plants. Since they are square, they are easy to line up next to each other on a tray or table, and they are also easy to tear off when the plants are ready to be planted. It's also environmentally friendly because milk cartons are recycled, and economical because you don't have to buy plastic pots! An alternative to milk cartons can also be cut-up soda cans."
+  },
+  "362": {
+    "id": 362,
+    "categories": ["cleaning"],
+    "title": "Fragrant Vacuum Cleaner",
+    "description": "To avoid bad smells from the vacuum cleaner, you can suck in a cotton ball sprayed with a good perfume or cleaning agent, or a small pile of laundry detergent, into the vacuum cleaner."
+  },
+  "363": {
+    "id": 363,
+    "categories": ["cleaning"],
+    "title": "Fragrant Car",
+    "description": "If you don't want air fresheners hanging from the rearview mirror, you can instead place a cloth soaked in fabric softener under the seat. It spreads a mild, clean scent in the car."
+  },
+  "364": {
+    "id": 364,
+    "categories": ["body"],
+    "title": "Sharpening Eyeliner",
+    "description": "An eyeliner pencil becomes easier to sharpen if you put the pencil in the freezer for a while before sharpening."
+  },
+  "365": {
+    "id": 365,
+    "categories": ["food"],
+    "title": "Eggshells in the Bowl",
+    "description": "When cracking eggs into a bowl, it's easy for a piece of shell to go in. If you use the shell half to fish out the pieces, they won't slip away like they do when you try to grab them with your fingers."
+  },
+  "366": {
+    "id": 366,
+    "categories": ["food"],
+    "title": "Preventing Eggs from Cracking",
+    "description": "If you add a teaspoon of silver to the boiling egg water, it attracts the bubbles, and the risk of the eggs cracking decreases."
+  },
+  "367": {
+    "id": 367,
+    "categories": ["food"],
+    "title": "Egg Whites",
+    "description": "When whisking egg whites, it's easier, and the foam becomes firmer if you add a small pinch of salt."
+  },
+  "368": {
+    "id": 368,
+    "categories": ["food"],
+    "title": "Leftover Egg Whites",
+    "description": "You can let this dry on a plate. When it has solidified, you can break it into pieces or turn it into powder. The homemade egg powder can then be whisked after being added to water, one leveled teaspoon is about the same as an egg white."
+  },
+  "369": {
+    "id": 369,
+    "categories": ["hobby"],
+    "title": "Highlighter Stains",
+    "description": "Stains from most highlighters can be easily removed with vinegar spirit."
+  },
+  "370": {
+    "id": 370,
+    "categories": ["kitchen"],
+    "title": "Stuck Lid",
+    "description": "If it's hard to loosen a screw lid on a jar, you can insert the tip of a smaller knife between the jar and the lid from underneath and wiggle/screw a little on the knife until it clicks. Then it's easy to unscrew the lid."
+  },
+  "371": {
+    "id": 371,
+    "categories": ["bathroom", "cleaning"],
+    "title": "Calcium on Shower Walls",
+    "description": "Glass shower walls with lime deposits can be difficult to clean. Use a little window cleaner or cleaning spray directly on the glass and then rub everywhere with a crumpled parchment paper; it comes off easily. Just rinse with the shower afterward, and the walls are clean and shiny."
+  },
+  "372": {
+    "id": 372,
+    "categories": ["kitchen", "bathroom", "cleaning"],
+    "title": "Homemade Drain Cleaner",
+    "description": "When water drains slowly in the sink or basin, you can make your drain cleaner by pouring baking soda into the drain and then a little vinegar. Let it bubble for a while and then rinse with lukewarm water. Repeat as needed."
+  },
+  "373": {
+    "id": 373,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Shiny Sink and Basin",
+    "description": "Cut a lemon in half and pour dish soap on the cut surface. Then rub the basin and sink with the lemon half with dish soap and rinse afterwards for a shiny sink."
+  },
+  "374": {
+    "id": 374,
+    "categories": ["food", "cleaning"],
+    "title": "Spilled Egg",
+    "description": "If you spill raw egg, it can be difficult to clean up. Pour coarse salt over the egg before first possibly sweeping together and then wiping with a regular dishcloth so you get everything at once."
+  },
+  "375": {
+    "id": 375,
+    "categories": ["hobby", "cleaning", "body"],
+    "title": "Paint Stains on Hands",
+    "description": "If you've painted or crafted and got water-based paint on your hands, it can be difficult to remove everything with regular soap. Wash your hands in shaving foam instead, and most stains will come off in a snap."
+  },
+  "376": {
+    "id": 376,
+    "categories": ["hobby", "cleaning", "body"],
+    "title": "Paint Stains on Hands 2",
+    "description": "If you've painted with oil-based paints and have paint stains on your hands that are difficult to remove with just soap, take some rapeseed oil or similar cooking oil and use it as soap to dissolve the paint. Then wash your hands with dish soap to remove the oil. Afterwards, moisturize your hands as they can become dry from the dish soap."
+  },
+  "377": {
+    "id": 377,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Burnt Bottom of the Pot",
+    "description": "If you have a pot that has become discolored on the bottom, it may be possible to remove it by cutting a potato in half and dipping the cut surface in regular table salt. Rinse the bottom of the pot and then rub with the potato until the brown disappears."
+  },
+  "378": {
+    "id": 378,
+    "categories": ["hobby", "cleaning"],
+    "title": "Dirty Iron",
+    "description": "If you accidentally get burnt spots on the soleplate of the iron, you can remove them by pouring a little table salt on a parchment paper and then ironing the salt on medium heat with circular movements. This is when the burnt spots stick to the salt. If the iron is very dirty, you may need to repeat this with clean salt."
+  },
+  "379": {
+    "id": 379,
+    "categories": ["jewelry", "cleaning"],
+    "title": "Dirty Silver Jewelry",
+    "description": "Spray shaving foam in a bowl, place the jewelry in it, and cover it thoroughly with the foam. Scrub a little with a clean toothbrush and dry with a terrycloth towel for shiny clean silver jewelry."
+  },
+  "380": {
+    "id": 380,
+    "categories": ["kitchen", "cleaning"],
+    "title": "Dull Cutlery",
+    "description": "Put the cutlery in a container or similar, and cover it with hot water. Squeeze half a lemon into the water and let it sit for 10-15 minutes. Polish with a kitchen towel, and they will be shiny and nice again."
+  },
+  "381": {
+    "id": 381,
+    "categories": ["clothes", "cleaning"],
+    "title": "Dirty Shoe Soles",
+    "description": "White shoe soles that have become dull can become white and nice again by taking a small bowl of table salt, squeezing a little lemon over it, and mixing it into a paste. Use a toothbrush to rub the mixture on the soles and then wipe clean."
+  },
+  "382": {
+    "id": 382,
+    "categories": ["hobby", "electronics"],
+    "title": "Mobile/tablet Holder",
+    "description": "If you quickly need a splash- and child-proof mobile holder for children in the back seat (or if several are watching the same movie), lift off the front seat headrest, place a large ziplock bag with the opening to the side so that the top edge is over the holes where the headrest should go back. Make a couple of small holes in the bag where the headrest pegs should go through and put the headrest back in place with the bag in between. Put on any movie, close the bag's zipper on the side, and enjoy a peaceful car ride."
+  },
+  "383": {
+    "id": 383,
+    "categories": ["kitchen", "food"],
+    "title": "Parchment Paper that Slides",
+    "description": "When covering a baking pan with parchment paper, it is sometimes difficult to get it to stay in place. Pour a little water in the bottom of the pan before placing the paper, and then press it firmly into the bottom to keep it in place."
+  },
+  "384": {
+    "id": 384,
+    "categories": ["kitchen", "food"],
+    "title": "Parchment Paper that Slides 2",
+    "description": "When covering a dish that is not suitable for parchment paper, it is sometimes difficult to get it to stay in place. Crumple the paper into a small ball. Then straighten out the parchment paper again and place it in the dish."
+  },
+  "385": {
+    "id": 385,
+    "categories": ["kitchen", "food"],
+    "title": "Vacuum Pack Food/Fruit",
+    "description": "If you don't have a vacuum sealer in the kitchen, you can still vacuum pack non-liquid food (such as fruit pieces and the like) by placing them in a ziplock bag and inserting a straw into one side of the opening. Close up to the straw, suck out the air with the straw, and quickly pull the tube out of the bag while closing the last small part."
+  },
+  "386": {
+    "id": 386,
+    "categories": ["hobby"],
+    "title": "Too Little Wrapping Paper",
+    "description": "Are you wrapping a gift and have too little wrapping paper for it to cover the entire present? Try placing the gift diagonally instead and wrap it, then the paper covers more of the surface."
+  },
+  "387": {
+    "id": 387,
+    "categories": ["food"],
+    "title": "Cooling Summer Snacks for Kids",
+    "description": "On hot summer days or to relieve, for example, teething, you can make cooling snacks by squeezing small coins of fruit puree (homemade or from pouches) onto a tray and freezing for a while. Release with a spatula or cheese slicer, place in a bowl, and serve. Healthy and delicious!"
+  },
+  "388": {
+    "id": 388,
+    "categories": ["bathroom", "cleaning"],
+    "title": "Good Scent in the Bathroom",
+    "description": "A clever air freshener for the bathroom can be made with the help of a sanitary pad and essential oil. Dab fragrant oil on the pad and then attach it with the adhesive on the underside somewhere it doesn't show, for example, behind the toilet or under the sink."
+  },
+  "389": {
+    "id": 389,
+    "categories": ["clothes"],
+    "title": "Too Small Shoes",
+    "description": "New shoes that are a bit tight can be stretched by placing a ziplock bag in each shoe, filling the bag with water, closing it, and placing the shoes with the bags in the freezer. Water expands when it freezes and can help stretch out the shoes."
+  },
+  "390": {
+    "id": 390,
+    "categories": ["indoors", "textile"],
+    "title": "Perfect Folds on the Curtain",
+    "description": "For even folds on a curtain with eyelets, you can place an empty toilet paper roll between every other eyelet (where the fabric hangs in front of the rod). This way, the curtain will have precise even folds."
+  },
+  "391": {
+    "id": 391,
+    "categories": ["sickness"],
+    "title": "Band-Aid That Fits",
+    "description": "For a perfect fit on a band-aid around a finger, you can cut a slit from the middle of each short side (where the adhesive is) to the middle of the band-aid. Then place each \"tab\" so that the band-aid fits comfortably around the finger."
+  },
+  "392": {
+    "id": 392,
+    "categories": ["clothes", "cleaning"],
+    "title": "Sweaty Cap Lining",
+    "description": "To keep the cap's lining fresh even during hot summer days or while exercising, you can attach a panty liner on the inside just above the brim."
+  },
+  "393": {
+    "id": 393,
+    "categories": ["jewelry"],
+    "title": "Traveling with Jewelry",
+    "description": "Chains and bracelets can easily tangle in the suitcase or toiletry bag. You can avoid this by cutting a straw to a suitable length, threading one end of the chain through the straw, and then fastening it on the outside."
+  },
+  "394": {
+    "id": 394,
+    "categories": ["hobby", "indoors", "outdoors"],
+    "title": "Lighting Lanterns",
+    "description": "If you need to light lanterns where it's hard to reach with a regular lighter and lack a long lighter, you can use uncooked spaghetti. Ignite the end of the spaghetti and use it to light the lanterns."
+  },
+  "395": {
+    "id": 395,
+    "categories": ["food"],
+    "title": "Dividing Cherry Tomatoes",
+    "description": "If you need to divide many cherry tomatoes quickly, you can do it in one go by placing them between two lids (like those for food containers), holding the top lid, and cutting between the lids."
+  },
+  "396": {
+    "id": 396,
+    "categories": ["cleaning"],
+    "title": "Awkward Cardboard for Recycling",
+    "description": "After renovating or assembling furniture, the cardboard can be awkward to handle afterward. In the summertime, you can spray a little water on them with the hose, then they are easy to fold or roll up to transport away."
+  },
+  "397": {
+    "id": 397,
+    "categories": ["body & beauty"],
+    "title": "Scalp peeling",
+    "description": "Combine roomtemperature coconutfat and granulated sugar. While showering massage it thorougly into the scalp for approximately five minutes. The peeling removes dead skincells and stimulates the blood circulation. Schampoo hair and scalp and make sure all residue from the peeling is washed away. Your scalp will fresh as ever. The peeling works great for the body too."
+  },
+  "398": {
+    "id": 398,
+    "categories": ["food"],
+    "title": "Fast pizzadough",
+    "description": "If you want homemade pizza but doesn't have the time to wait for the dough to proof you can instead do the following: Take 140 gram all purpose flower, 0.5 ts salt and 0.75 ts baking poweder. Pour about 130 grams of natural yoghurt and 2 tbs of oil into the flour mixture and mix into a dough. if the dough feels to dry just add some yoghurt, if the dough feels to wet compensate with more flower. The dough should feel pliable. Let it rest for 10 minutes and then it's ready to be used."
+  },
+  "399": {
+    "id": 399,
+    "categories": ["jewelry"],
+    "title": "Nickel allergy",
+    "description": "If you have nice earrings you can't use because of allergy take a transparent nailpolish and apply it to the parts that have contact with the ear. When the nailpolish has dried you can use the earrings as usual."
+  },
+  "400": {
+    "id": 400,
+    "categories": ["animals"],
+    "title": "Difficult trimming claws on rabbits and guineapigs",
+    "description": "If it's difficult trimming the claws on your beloved pets you can create a rabbit/guineapig burrito. Place the animal on a bathtowel on the floor, bathtowel should be bigger widthwise than the animal. Wrap the animal into the towel as a burrito, take out one paw at a time and trim the claws."
+  },
+  "401": {
+    "id": 401,
+    "categories": ["food"],
+    "title": "Lemonjuice",
+    "description": "Instead of slicing a whole lemon for a small amount of lemonjuice, you can create a small hole in the lemon and just squeeze out as much juice as needed."
+  },
+  "402": {
+    "id": 402,
+    "categories": ["food"],
+    "title": "Citrus juice and zest",
+    "description": "To make sure you always have citrus juice at home you can squeeze the citrus fruits and poor it into ice cube trays and place in the freezer. Before cutting lemons to squeeze you can remove the zest, place in a container and freeze that too."
+  },
+  "403": {
+    "id": 403,
+    "categories": ["food", "outdoors"],
+    "title": "Non-stick grill grate",
+    "description": "To prevent food from sticking to the grill grate when barbecuing, you can cut a potato in half and rub the cut side over the grate before starting to grill."
+  },
+  "404": {
+    "id": 404,
+    "categories": ["outdoors", "vermin"],
+    "title": "Mosquito-free",
+    "description": "To deter mosquitoes and wasps from the patio, you can line a deep bowl or small dish with aluminium foil, then add coffee grounds and set them alight to create smoke. This works with both fresh coffee grounds and used coffee grounds."
+  },
+  "405": {
+    "id": 405,
+    "categories": ["clothes", "cleaning"],
+    "title": "Fresh clothes",
+    "description": "Instead of taking your clothes to the dry cleaners, you can spray them with vodka. Spray especially where there is a lot of perspiration and allow them to air out, and your clothes will be fresh again."
+  }
+}
