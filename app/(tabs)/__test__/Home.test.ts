@@ -1,4 +1,4 @@
-import { getRandomInt } from '../../../helpers/helpers';
+import { getRandomInt } from '@/helpers/helpers';
 
 describe('getRandomInt function', () => {
   test('returns a random integer within the specified range', () => {

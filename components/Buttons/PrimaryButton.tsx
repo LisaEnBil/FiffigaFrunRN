@@ -11,12 +11,12 @@ export const PrimaryButton = ({
   iconSize,
 }: {
   onPressFunction: any,
-  buttonStyle: any,
-  textStyle: any,
-  text: string,
-  icon: any,
-  iconColor: string,
-  iconSize: number,
+  buttonStyle?: any,
+  textStyle?: any,
+  text?: string,
+  icon?: any,
+  iconColor?: string,
+  iconSize?: number,
 }) => {
   return (
     <TouchableOpacity

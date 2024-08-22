@@ -6,6 +6,9 @@ export type Item =
         description: string
     }
 
+export type CategoryItem =
+    { category: string; checked: boolean; }
+
 export type LikedItem =
     {
         id: number,

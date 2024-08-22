@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { Animated, Dimensions, Text, View } from 'react-native';
-import { CategoryIcons } from '../../components/Modal/CategoryIcons';
-import { RefreshButton } from '../../components/RefreshButton';
-import { app } from '../../helpers/translations';
+import { CategoryIcons } from '@/components/Modal/CategoryIcons';
+import { RefreshButton } from '@/components/RefreshButton';
+import { app } from '@/helpers/translations';
 import { Slide } from './Slide';
 import { carouselStyles } from './styles/carousel-item.styles';
 import { Item } from '@/types/global-types';

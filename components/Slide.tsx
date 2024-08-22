@@ -1,9 +1,9 @@
 import React from 'react';
 import { Animated, Dimensions, Pressable, Text, View } from 'react-native';
-import { Like } from '../../components/Like/Like';
 import { useNavigation } from 'expo-router';
 import { slideStyles } from './styles/slide.styles';
 import { Item } from '@/types/global-types';
+import { Like } from './Like/Like';
 
 const width = Dimensions.get('screen').width;
 const cardWidth = (90 / 100) * width;

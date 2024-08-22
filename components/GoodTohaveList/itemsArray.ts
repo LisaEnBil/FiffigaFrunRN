@@ -1,4 +1,4 @@
-import { app } from '../../../helpers/translations';
+import { app } from '@/helpers/translations';
 
 export const itemsArr = [
   {

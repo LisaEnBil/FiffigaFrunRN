@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import { Animated, Dimensions, Pressable, View } from 'react-native';
-import { goodTohaveStyles } from './styles/get-good-to-have.styles';
-import { itemsArr } from '../app/Screens/Home/GoodToHaveList/itemsArray';
+
 import { Item } from '@/types/global-types';
-import { AnimatedArrow } from './AnimatedArrow';
+import { goodTohaveStyles } from './get-good-to-have.styles';
+import { AnimatedArrow } from '../AnimatedArrow';
+import { itemsArr } from './itemsArray';
 
 const width = Dimensions.get('screen').width;
 const listItemWidth = (90 / 100) * width;
