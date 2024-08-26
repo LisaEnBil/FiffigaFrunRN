@@ -29,23 +29,23 @@ const saveViews = async (views: number) => {
   }
 };
 
-
-
-
 export const loadViews = async (dispatch: React.Dispatch<any>) => {
-
   try {
     const lastOpenedJson = await AsyncStorage.getItem('lastOpened');
     const lastOpened = lastOpenedJson !== null ? new Date(JSON.parse(lastOpenedJson)) : null;
     const today = new Date();
 
     let views = 0;
-    if (lastOpened === null || lastOpened.getMonth() !== today.getMonth()) {
+    if (lastOpened === null ||
+      lastOpened.getMonth() !== today.getMonth() ||
+      lastOpened.getFullYear() !== today.getFullYear()) {
+      // It's the first time opening the app or it's a new month
       await AsyncStorage.setItem('views', JSON.stringify(views));
       await AsyncStorage.setItem('lastOpened', JSON.stringify(today));
     } else {
+      // It's not a new month, so we load the existing views
       const viewsJson = await AsyncStorage.getItem('views');
-      views = viewsJson !== null ? JSON.parse(viewsJson) : 0;
+      views = viewsJson !== null ? parseInt(viewsJson, 10) : 0;
     }
 
     dispatch({

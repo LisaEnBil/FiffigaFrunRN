@@ -1,6 +1,6 @@
 import { fireEvent, render } from '@testing-library/react-native';
 import React from 'react';
-import { SearchBar } from '../SearchBar';
+import { SearchBar } from '@/components/Modal/SearchBar';
 
 describe('SearchBar component', () => {
   test('updates userInput and modifiedData state when typing in TextInput', () => {
@@ -10,10 +10,10 @@ describe('SearchBar component', () => {
     const handleClose = jest.fn();
     const { getByPlaceholderText } = render(
       <SearchBar
-        initialData={initialData}
-        handleUserInput={handleUserInput}
-        handleSetData={handleSetData}
-        handleClose={handleClose}
+        initialData={ initialData }
+        handleUserInput = { handleUserInput }
+        handleSetData = { handleSetData }
+        handleClose = { handleClose }
       />
     );
     const input = getByPlaceholderText('Sök');
@@ -30,10 +30,10 @@ describe('SearchBar component', () => {
     const handleClose = jest.fn();
     const { getByPlaceholderText } = render(
       <SearchBar
-        initialData={initialData}
-        handleUserInput={handleUserInput}
-        handleSetData={handleSetData}
-        handleClose={handleClose}
+        initialData={ initialData }
+        handleUserInput = { handleUserInput }
+        handleSetData = { handleSetData }
+        handleClose = { handleClose }
       />
     );
     const input = getByPlaceholderText('Sök');
@@ -53,10 +53,10 @@ describe('SearchBar component', () => {
     const handleClose = jest.fn();
     const { getByPlaceholderText } = render(
       <SearchBar
-        initialData={initialData}
-        handleUserInput={handleUserInput}
-        handleSetData={handleSetData}
-        handleClose={handleClose}
+        initialData={ initialData }
+        handleUserInput = { handleUserInput }
+        handleSetData = { handleSetData }
+        handleClose = { handleClose }
       />
     );
     const input = getByPlaceholderText('Sök');

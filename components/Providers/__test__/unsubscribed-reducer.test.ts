@@ -1,4 +1,4 @@
-import { reducer } from "../UnsubscribedUserProvider";
+import { reducer } from "@/components/Providers/ViewsProvider";
 
 jest.mock('@react-native-async-storage/async-storage', () => ({
   saveViews: jest.fn(),
