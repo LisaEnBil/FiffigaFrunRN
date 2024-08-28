@@ -17,7 +17,6 @@
   "dependencies": {
     "@expo-google-fonts/comfortaa": "^0.2.3",
     "@expo/vector-icons": "^14.0.2",
-    "@react-native-async-storage/async-storage": "1.23.1",
     "@react-navigation/native": "^6.0.2",
     "expo": "~51.0.28",
     "expo-checkbox": "^3.0.0",
@@ -43,7 +42,8 @@
     "react-native-screens": "3.31.1",
     "react-native-svg": "14.1.0",
     "react-native-web": "~0.19.10",
-    "expo-dev-client": "~4.0.25"
+    "expo-dev-client": "~4.0.25",
+    "@react-native-async-storage/async-storage": "1.23.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

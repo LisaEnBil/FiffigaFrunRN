@@ -7,13 +7,10 @@ import { StatusBar } from 'expo-status-bar';
 import { useEffect, useRef, useState } from 'react';
 import {
   Animated,
-  Platform,
-  SafeAreaView,
-  StyleSheet,
   Text,
   View,
 } from 'react-native';
-import { appTitle } from '../../helpers/translations';
+import { appTitle } from '../helpers/translations';
 import { splashStyle } from '@/app/(tabs)/styles/splash.styles';
 
 

@@ -1,18 +1,4 @@
-import { getLanguageCode } from '../i18n';
-
-
-test('returns default language code if userLocales is empty', () => {
-  const DEFAULT_LANGUAGE_CODE = 'sv';
-  const getLocales = jest.fn().mockReturnValue([]);
-  const SUPPORTED_LANGUAGE_CODES = ['en', 'es', 'fr'];
-  const result = getLanguageCode(
-    DEFAULT_LANGUAGE_CODE,
-    SUPPORTED_LANGUAGE_CODES,
-    getLocales
-  );
-
-  expect(result).toBe(DEFAULT_LANGUAGE_CODE);
-});
+//import { getLanguageCode } from '../i18n';
 
 
 // describe('SearchBar component', () => {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Animated, Dimensions, Pressable, Text, View } from 'react-native';
-import { useNavigation } from 'expo-router';
+import { Link, useNavigation } from 'expo-router';
 import { slideStyles } from './styles/slide.styles';
 import { Item } from '@/types/global-types';
 import { Like } from './Like/Like';
@@ -44,26 +44,25 @@ export const Slide: React.FC<SlideProps> = ({ slide, scrollX, index }) => {
   };
 
   return (
-    <Pressable
-      onPress={() =>
-        navigation.navigate('ItemContent', {
-          item: slide,
-        })
-      }>
-      <Animated.View
-        key={index}
-        style={[slideStyles.container, animationStyle]}>
-        <View style={slideStyles.header}>
-          <Text style={slideStyles.title}>{slide.title}</Text>
-          <Like item={slide} size={30} />
-        </View>
+    <View>
+      <Link href={{ pathname: '/', params: { name: 'Bacon' } }}>
 
-        <Text style={slideStyles.description}>
-          {slide.description.length > 300
-            ? slide.description.slice(0, 250) + '...'
-            : slide.description}
-        </Text>
-      </Animated.View>
-    </Pressable>
+        <Animated.View
+          key={index}
+          style={[slideStyles.container, animationStyle]}>
+          <View style={slideStyles.header}>
+            <Text style={slideStyles.title}>{slide.title}</Text>
+            <Like item={slide} size={30} />
+          </View>
+
+          <Text style={slideStyles.description}>
+            {slide.description.length > 300
+              ? slide.description.slice(0, 250) + '...'
+              : slide.description}
+          </Text>
+        </Animated.View>
+      </Link>
+
+    </View>
   );
 };

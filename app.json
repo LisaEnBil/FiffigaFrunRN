@@ -4,13 +4,13 @@
     "slug": "ff-rn",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/spraybottle.png",
+    "icon": "./assets/images/app-icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "type": "module",
     "splash": {
       "image": "./assets/images/spraybottle.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FEF9B0"
     },
     "ios": {
       "supportsTablet": true,

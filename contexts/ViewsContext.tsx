@@ -2,8 +2,8 @@ import { loadViews, reducer } from '@/components/Providers/ViewsProvider';
 import { createContext, ReactNode, useEffect, useReducer } from 'react';
 
 
-interface ViewsState {
-    views: Record<string, number>;
+export interface ViewsState {
+    views: number;
     dispatch: React.Dispatch<any>;
 }
 
@@ -13,7 +13,7 @@ interface ViewsProviderProps {
 
 
 
-export const ViewsContext = createContext<ViewsState | null>({ views: {}, dispatch: () => null });
+export const ViewsContext = createContext<ViewsState>({ views: 0, dispatch: () => null });
 
 
 

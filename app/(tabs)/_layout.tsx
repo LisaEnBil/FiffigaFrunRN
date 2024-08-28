@@ -1,4 +1,4 @@
-import { Stack, Tabs } from 'expo-router';
+import { Tabs } from 'expo-router';
 import React from 'react';
 
 import { TabBarIcon } from '@/components/navigation/TabBarIcon';
@@ -51,11 +51,7 @@ export default function TabLayout() {
           ),
         }}
       />
-      <Stack.Screen name="item-content"
-        options={{
-          title: 'ItemContent',
 
-        }} />
     </Tabs>
   );
 }

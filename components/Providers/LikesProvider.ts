@@ -1,6 +1,6 @@
 import { LikedItem } from '@/types/global-types';
-import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { createContext, useEffect, useReducer } from 'react';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 interface LikesState {
   likes: Record<string, LikedItem>;
