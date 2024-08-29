@@ -7,11 +7,6 @@
     "icon": "./assets/images/app-icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
-    "type": "module",
-    "splash": {
-      "image": "./assets/images/spraybottle.png",
-      "backgroundColor": "#FEF9B0"
-    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.lisaenbil.ffrn"

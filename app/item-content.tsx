@@ -38,8 +38,7 @@ export default function ItemContent({ item }: { item: Item }) {
     <>
       <Stack.Screen options={{ title: item.title }} />
       <ThemedView style={itemContentStyles.container}>
-        <ThemedText type="title">This screen doesn't exist.</ThemedText>
-        <Link href="/" >
+        <Link href="/home" >
           <ThemedText type="link">Go to home screen!</ThemedText>
         </Link>
         <View style={itemContentStyles.container}>
