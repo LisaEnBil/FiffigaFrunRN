@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { BackButton } from '../components/Buttons/BackButton';
 import { Like } from '../components/Like/Like';
-import { itemContentStyles } from './(tabs)/styles/item-content.styles';
+import { itemContentStyles } from './stuff/styles/item-content.styles';
 import { useContext, useEffect } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
@@ -38,9 +38,9 @@ export default function ItemContent({ item }: { item: Item }) {
     <>
       <Stack.Screen options={{ title: item.title }} />
       <ThemedView style={itemContentStyles.container}>
-        <Link href="/home" >
-          <ThemedText type="link">Go to home screen!</ThemedText>
-        </Link>
+        {/* <Link href="/(tabs)/home" >
+          <ThemedText type="link">Get back home bitch!</ThemedText>
+        </Link> */}
         <View style={itemContentStyles.container}>
           {views >= 6 &&
             <View>
