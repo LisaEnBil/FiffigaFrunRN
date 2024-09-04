@@ -4,28 +4,27 @@ import { getRandomCategoryTips } from '../../helpers/helpers';
 import { Item } from '@/types/global-types';
 import { GetGoodToHaveList } from '@/components/GoodTohaveList/GetGoodToHaveList';
 
-export const Home = ({ }) => {
+export default function Home({ }) {
   const randomFoodtips: any[] = getRandomCategoryTips('food');
   const randomCleaningtips: any[] = getRandomCategoryTips('cleaning');
   const randomAnimaltips: any[] = getRandomCategoryTips('animals');
 
   return (
-    <View><Text>hej</Text></View>
-    // <ScrollView style={{ backgroundColor: '#2d4e53' }}>
-    //   <CarouselItem
-    //     tips={randomFoodtips}
-    //     category={'food'}
-    //   />
-    //   <GetGoodToHaveList />
-    //   <CarouselItem
-    //     tips={randomCleaningtips}
-    //     category={'cleaning'}
-    //   />
-    //   <CarouselItem
-    //     tips={randomAnimaltips}
-    //     category={'animals'}
-    //   />
-    // </ScrollView>
+    <ScrollView style={{ backgroundColor: '#2d4e53' }}>
+      <CarouselItem
+        tips={randomFoodtips}
+        category={'food'}
+      />
+      <GetGoodToHaveList />
+      <CarouselItem
+        tips={randomCleaningtips}
+        category={'cleaning'}
+      />
+      <CarouselItem
+        tips={randomAnimaltips}
+        category={'animals'}
+      />
+    </ScrollView>
   );
 };
 

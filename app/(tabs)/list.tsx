@@ -13,7 +13,7 @@ import { listViewStyles } from './styles/list-view.styles';
 
 
 
-export const ListView = ({ navigation, route }: { navigation: any, route: any }) => {
+export default function ListView({ navigation, route }: { navigation: any, route: any }) {
   const [data, setData] = useState<Item[]>([]);
   const [initialData, setInitialData] = useState<Item[]>([]);
   const [categoryList, setCategoryList] = useState<CategoryItem[]>([]);

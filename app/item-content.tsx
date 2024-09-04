@@ -8,13 +8,13 @@ import {
 } from 'react-native';
 import { BackButton } from '../components/Buttons/BackButton';
 import { Like } from '../components/Like/Like';
-import { itemContentStyles } from './stuff/styles/item-content.styles';
 import { useContext, useEffect } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
 import { Link, Stack } from 'expo-router';
 import { ThemedView } from '@/components/ThemedView';
 import { ThemedText } from '@/components/ThemedText';
+import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 
 export default function ItemContent({ item }: { item: Item }) {
 

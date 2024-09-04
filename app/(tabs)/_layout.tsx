@@ -11,10 +11,10 @@ export default function TabLayout() {
     <Tabs
       screenOptions={{
         tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
-        headerShown: true,
+        headerShown: false,
       }}>
       <Tabs.Screen
-        name="home"
+        name="index"
         options={{
           title: 'Home',
           tabBarIcon: ({ color, focused }) => (
@@ -22,7 +22,12 @@ export default function TabLayout() {
           ),
         }}
       />
-      <Tabs.Screen
+
+    </Tabs>
+  );
+}
+
+{/* <Tabs.Screen
         name="list"
         options={{
           title: 'All tips',
@@ -48,10 +53,9 @@ export default function TabLayout() {
             <TabBarIcon name={focused ? 'mail' : 'mail-outline'} color={color} />
           ),
         }}
-      />
-    </Tabs>
-  );
-}
+      /> */}
+
+
 
 // export default function TabLayout() {
 //   const colorScheme = useColorScheme();
