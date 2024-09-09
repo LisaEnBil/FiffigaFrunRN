@@ -3,6 +3,7 @@ import React from 'react';
 import { TabBarIcon } from '@/components/navigation/TabBarIcon';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { HeaderButton } from '@/components/Buttons/HeaderButton';
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
@@ -22,13 +23,8 @@ export default function TabLayout() {
           ),
         }}
       />
-
-    </Tabs>
-  );
-}
-
-{/* <Tabs.Screen
-        name="list"
+      <Tabs.Screen
+        name="list-view"
         options={{
           title: 'All tips',
           tabBarIcon: ({ color, focused }) => (
@@ -36,6 +32,30 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="liked-items"
+        options={{
+          title: 'Favorites',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'heart' : 'heart-outline'} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="email"
+        options={{
+          title: 'Email',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'mail' : 'mail-outline'} color={color} />
+          ),
+        }}
+      />
+
+    </Tabs>
+  );
+}
+
+{/* 
       <Tabs.Screen
         name="liked-items"
         options={{
