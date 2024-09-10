@@ -6,7 +6,7 @@ import { TextBox } from '../../components/TextBox';
 import { app } from '../../helpers/translations';
 import { emailStyles } from './styles/email.styles';
 
-export const Email = () => {
+export default function Email() {
   const [isAvailable, setIsAvailable] = useState(false);
   const [status, setStatus] = useState('');
 
@@ -36,14 +36,16 @@ export const Email = () => {
   };
 
   return (
-    <View>
-      <TextBox text={app.email.text} />
-      <View style={emailStyles.buttonWrapper}>
-        <PrimaryButton
-          onPressFunction={sendIfAvailable}
-          text={app.buttons.sendEmail}
-        />
+    <SafeAreaView style={emailStyles.safeAreaStyle}>
+      <View>
+        <TextBox text={app.email.text} />
+        <View style={emailStyles.buttonWrapper}>
+          <PrimaryButton
+            onPressFunction={sendIfAvailable}
+            text={app.buttons.sendEmail}
+          />
+        </View>
       </View>
-    </View>
+    </SafeAreaView>
   );
 };

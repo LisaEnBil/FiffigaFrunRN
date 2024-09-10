@@ -10,7 +10,7 @@ import { useGetLikedItems } from '../../hooks/useGetLikedItems';
 import { likedItemsStyles } from './styles/liked-items.styles';
 
 
-export const LikedItems = () => {
+export default function LikedItems() {
   const data = useGetLikedItems();
   const [userIsSubscribed, setUserIsSubscribed] = useState(false);
 
