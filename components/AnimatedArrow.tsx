@@ -3,6 +3,7 @@ import { useRef } from 'react';
 import { Animated, Text, TouchableWithoutFeedback, View } from 'react-native';
 import { app } from '../helpers/translations';
 import { arrowStyles } from './styles/animated-arrow.styles';
+import { TabBarIcon } from './navigation/TabBarIcon';
 
 
 interface AnimatedArrowProps { handleIsRotated: (value: boolean) => void, isRotated: boolean }

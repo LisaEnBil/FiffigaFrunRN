@@ -1,4 +1,4 @@
-import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { CarouselItem } from '../../components/CarouselItem';
 import { getRandomCategoryTips } from '../../helpers/helpers';
 import { Item } from '@/types/global-types';
@@ -10,21 +10,23 @@ export default function Home({ }) {
   const randomAnimaltips: any[] = getRandomCategoryTips('animals');
 
   return (
-    <ScrollView style={{ backgroundColor: '#2d4e53' }}>
-      <CarouselItem
-        tips={randomFoodtips}
-        category={'food'}
-      />
-      <GetGoodToHaveList />
-      <CarouselItem
-        tips={randomCleaningtips}
-        category={'cleaning'}
-      />
-      <CarouselItem
-        tips={randomAnimaltips}
-        category={'animals'}
-      />
-    </ScrollView>
+    <SafeAreaView style={{ backgroundColor: '#2d4e53', flex: 1 }}>
+      <ScrollView>
+        <CarouselItem
+          tips={randomFoodtips}
+          category={'food'}
+        />
+        <GetGoodToHaveList />
+        <CarouselItem
+          tips={randomCleaningtips}
+          category={'cleaning'}
+        />
+        <CarouselItem
+          tips={randomAnimaltips}
+          category={'animals'}
+        />
+      </ScrollView>
+    </SafeAreaView>
   );
 };
 
