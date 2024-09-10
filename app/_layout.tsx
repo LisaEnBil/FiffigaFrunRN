@@ -20,6 +20,9 @@ export default function RootLayout() {
   const [appIsReady, setAppIsReady] = useState(false);
   const [loaded] = useFonts({
     SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
+    Comfortaa_700Bold,
+    Comfortaa_400Regular,
+    Comfortaa_300Light,
   });
 
   // useEffect(() => {
