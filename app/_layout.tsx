@@ -32,8 +32,17 @@ export default function RootLayout() {
   // }, [loaded]);
 
   useEffect(() => {
-    if (loaded) {
-      SplashScreen.hideAsync();
+    if (Platform.OS === 'ios') {
+      if (!process.env.EXPO_PUBLIC_RC_IOS) {
+        Alert.alert(
+          'Error configuring RC',
+          'RevenueCat API key for iOS not provided'
+        );
+      }
+      process.env.EXPO_PUBLIC_RC_IOS && Purchases.configure({ apiKey: process.env.EXPO_PUBLIC_RC_IOS });
+    }
+
+  }, []);
 
   useLayoutEffect(() => {
     async function prepare() {

@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react';
 import { Alert, View } from 'react-native';
 import RevenueCatUI, { PAYWALL_RESULT } from 'react-native-purchases-ui';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import Svg, { G, Path } from 'react-native-svg';
 import { List } from '../../components/List/List';
 import { TextBox } from '../../components/TextBox';
 import { app } from '../../helpers/translations';
 import { useGetLikedItems } from '../../hooks/useGetLikedItems';
 import { likedItemsStyles } from './styles/liked-items.styles';
+import { emailStyles } from './styles/email.styles';
 
 
 export default function LikedItems() {
@@ -45,7 +46,7 @@ export default function LikedItems() {
   }, []);
 
   return (
-    <SafeAreaProvider >
+    <SafeAreaView style={emailStyles.safeAreaStyle}>
       {userIsSubscribed ? (
         <View style={likedItemsStyles.list}>
           {data.length != 0 ? (
@@ -62,7 +63,7 @@ export default function LikedItems() {
           <TextBox text={app.favourites.noSubscription} />
         </View>
       )}
-    </SafeAreaProvider>
+    </SafeAreaView>
   );
 };
 
