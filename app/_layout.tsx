@@ -2,30 +2,57 @@ import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native
 import { useFonts } from 'expo-font';
 import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
-import { useEffect } from 'react';
+import { useEffect, useLayoutEffect, useState } from 'react';
 import 'react-native-reanimated';
 
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { Comfortaa_300Light, Comfortaa_400Regular, Comfortaa_700Bold } from '@expo-google-fonts/comfortaa';
+import { Splash } from './splash';
+import { getRandomInt } from '@/helpers/helpers';
+import { arr } from '@/locales/splash-text';
+import { Alert, Platform } from 'react-native';
+import Purchases from 'react-native-purchases';
 
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
+  const [appIsReady, setAppIsReady] = useState(false);
   const [loaded] = useFonts({
     SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
   });
 
+  // useEffect(() => {
+  //   if (loaded) {
+  //     SplashScreen.hideAsync();
+  //   }
+  // }, [loaded]);
+
   useEffect(() => {
     if (loaded) {
       SplashScreen.hideAsync();
+
+  useLayoutEffect(() => {
+    async function prepare() {
+      try {
+        await new Promise((resolve) => setTimeout(resolve, 2500));
+      } catch (e) {
+        console.warn(e);
+      } finally {
+        setAppIsReady(true);
+        SplashScreen.hideAsync()
+      }
     }
-  }, [loaded]);
+    prepare();
+  }, []);
 
   if (!loaded) {
     return null;
   }
+  const randomInt = getRandomInt(1, arr.length);
+  const item = arr.find((item) => item.id === randomInt);
 
-  return (
+  return appIsReady ? (
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
       <Stack >
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
@@ -34,7 +61,10 @@ export default function RootLayout() {
 
       </Stack>
     </ThemeProvider>
-  );
+
+  ) : (
+    <Splash appIsReady={appIsReady} text={item?.text} />
+  )
 }
 
 // import { useFonts } from 'expo-font';
