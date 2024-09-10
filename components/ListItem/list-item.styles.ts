@@ -14,6 +14,8 @@ export const listItemStyles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 3,
     elevation: 5,
+    marginBottom: 10,
+    width: cardWidth,
   },
   likeContainer: {
     alignItems: 'flex-end',

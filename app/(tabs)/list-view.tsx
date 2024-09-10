@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import {
+  Dimensions,
   SafeAreaView,
   TouchableWithoutFeedback,
   View,
@@ -10,26 +11,18 @@ import { FilterModal } from '../../components/Modal/FilterModal';
 import { app, tips } from '../../helpers/translations';
 import { CategoryItem, Item, LikedItem } from '@/types/global-types';
 import { listViewStyles } from './styles/list-view.styles';
+import { useNavigation, useRouter } from 'expo-router';
+
+const width = Dimensions.get('screen').width;
 
 
 
-export default function ListView({ navigation, route }: { navigation: any, route: any }) {
+export default function ListView() {
   const [data, setData] = useState<Item[]>([]);
   const [initialData, setInitialData] = useState<Item[]>([]);
   const [categoryList, setCategoryList] = useState<CategoryItem[]>([]);
   const [showModal, setShowModal] = useState(false);
   const [query, setQuery] = useState('');
-
-  useEffect(() => {
-    navigation.setOptions({
-      headerRight: () => (
-        <HeaderButton
-          handleToggleFilterModal={handleToggleFilterModal}
-          toggleFilterModal={showModal}
-        />
-      ),
-    });
-  }, [navigation, showModal]);
 
   useEffect(() => {
     const getData = async () => {
@@ -78,25 +71,32 @@ export default function ListView({ navigation, route }: { navigation: any, route
     setQuery(input);
   };
   return (
-
-    <View style={listViewStyles.container}>
-      <List data={data} />
-      {showModal && (
-        <View style={listViewStyles.modalWrapper}>
-          <FilterModal
-            initialData={initialData}
-            handleSetData={handleSetData}
-            handleCloseModal={handleToggleFilterModal}
-            categoryList={categoryList}
-            handleUserInput={handleUserInput}
-            query={query}
-          />
-          <TouchableWithoutFeedback onPress={() => setShowModal(false)}>
-            <View style={listViewStyles.modalWrapperFooter} />
-          </TouchableWithoutFeedback>
-        </View>
-      )}
-    </View>
+    <SafeAreaView style={{
+      flex: 1, backgroundColor: '#97B1A6',
+      alignItems: 'center',
+    }}>
+      <View style={{ width: width, alignItems: "flex-end" }}>
+        <HeaderButton handleToggleFilterModal={handleToggleFilterModal} toggleFilterModal={showModal} />
+      </View>
+      <View style={listViewStyles.container}>
+        <List data={data} />
+        {showModal && (
+          <View style={listViewStyles.modalWrapper}>
+            <FilterModal
+              initialData={initialData}
+              handleSetData={handleSetData}
+              handleCloseModal={handleToggleFilterModal}
+              categoryList={categoryList}
+              handleUserInput={handleUserInput}
+              query={query}
+            />
+            <TouchableWithoutFeedback onPress={() => setShowModal(false)}>
+              <View style={listViewStyles.modalWrapperFooter} />
+            </TouchableWithoutFeedback>
+          </View>
+        )}
+      </View>
+    </SafeAreaView>
 
   );
 };

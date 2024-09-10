@@ -1,6 +1,5 @@
 import {
   Platform,
-  SafeAreaView,
   StatusBar,
   StyleSheet,
   Text,
@@ -11,19 +10,22 @@ import { Like } from '../components/Like/Like';
 import { useContext, useEffect } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
-import { Link, Stack } from 'expo-router';
+import { Stack, useNavigation, useRouter } from 'expo-router';
 import { ThemedView } from '@/components/ThemedView';
-import { ThemedText } from '@/components/ThemedText';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 
-export default function ItemContent({ item }: { item: Item }) {
+export default function ItemContent({ id, title, categories, description }: { id: number, title: string, categories: string[], description: string }) {
+  const router = useRouter();
+  const navigation = useNavigation();
 
   const { views, dispatch } = useContext<ViewsState>(ViewsContext);
+
+  const item = { "id": id, "categories": categories, "title": title, "description": description }
 
   useEffect(() => {
     const addView = async () => {
 
-      await dispatch({
+      dispatch({
         type: 'add',
         payload: {
           views: views,
@@ -34,24 +36,23 @@ export default function ItemContent({ item }: { item: Item }) {
 
   }, []);
 
+  console.log("title", title)
+
   return (
     <>
-      <Stack.Screen options={{ title: item.title }} />
+      <Stack.Screen options={{ title: title }} />
       <ThemedView style={itemContentStyles.container}>
-        {/* <Link href="/(tabs)/home" >
-          <ThemedText type="link">Get back home bitch!</ThemedText>
-        </Link> */}
         <View style={itemContentStyles.container}>
           {views >= 6 &&
             <View>
-              <Text style={itemContentStyles.title}>{item.title}</Text>
+              <Text style={itemContentStyles.title}>{title}</Text>
             </View>
 
           }
           <LikesContainer item={item} />
           <View style={itemContentStyles.content}>
-            <Text style={itemContentStyles.title}>{item.title}</Text>
-            <Text style={itemContentStyles.text}>{item.description}</Text>
+            <Text style={itemContentStyles.title}>{title}</Text>
+            <Text style={itemContentStyles.text}>{description}</Text>
           </View>
         </View>
       </ThemedView>

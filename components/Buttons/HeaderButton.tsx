@@ -1,6 +1,9 @@
-import { SafeAreaView } from 'react-native';
+import { Dimensions, SafeAreaView } from 'react-native';
 import { PrimaryButton } from './PrimaryButton';
 import React from 'react';
+
+const width = Dimensions.get('screen').width;
+const cardWidth = (2.5 / 100) * width;
 
 interface HeaderButtonProps {
   handleToggleFilterModal: (value: boolean) => void;
@@ -20,19 +23,18 @@ export const HeaderButton: React.FC<HeaderButtonProps> = ({
     }
   };
   return (
-    <SafeAreaView>
-      <PrimaryButton
-        onPressFunction={handleModal}
-        buttonStyle={{
-          height: 45,
-          width: 45,
-          justifyContent: 'center',
-          alignItems: 'center',
-          marginRight: '10%',
-        }}
-        icon={'search'}
-        iconSize={20}
-      />
-    </SafeAreaView>
+    <PrimaryButton
+      onPressFunction={handleModal}
+      buttonStyle={{
+        height: 45,
+        width: 45,
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginRight: cardWidth,
+      }}
+      icon={'search'}
+      iconSize={20}
+    />
+
   );
 };

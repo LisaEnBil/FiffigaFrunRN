@@ -6,9 +6,9 @@ import { useNavigation } from 'expo-router';
 export const BackButton = () => {
   const navigation = useNavigation();
 
-  const handleNavigateBack = () => {
+  const handleNavigateBack = () =>
     navigation.goBack();
-  };
+  ;
 
   return (
     <PrimaryButton
