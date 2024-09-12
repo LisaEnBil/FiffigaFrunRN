@@ -1,4 +1,4 @@
-import { Button, SectionList, Text, TouchableHighlight, View } from 'react-native';
+import { Button, SectionList, Text, TouchableHighlight, TouchableOpacity, View } from 'react-native';
 import BigList from 'react-native-big-list';
 import { ListItem } from '../ListItem/ListItem';
 import { listStyles } from './list.styles';
@@ -16,7 +16,6 @@ export const List: React.FC<ListProps> = ({ data }) => {
     return item.title.charAt(0).toUpperCase();
   };
 
-  const navigation = useNavigation()
 
   const getSections = data.reduce((acc: { title: string, data: Item[] }[], item) => {
     const key = extractHeaderKey(item);
@@ -31,18 +30,21 @@ export const List: React.FC<ListProps> = ({ data }) => {
     return acc;
   }, []);
 
+
+
   return (
     <SectionList
       sections={getSections}
-      keyExtractor={(item, index) => item.id.toString()}
+      keyExtractor={(item, index) =>
+        item.id.toString()
+      }
       renderItem={({ item }) => (
-        <Link href={{ pathname: '/item-content', params: { itemId: item.id, itemTitle: item.title, itemDesc: item.description, itemCat: item.categories } }} >
-          <ListItem
-            item={item}
-            index={item.id}
-            key={item.id}
-          />
-        </Link>
+        <ListItem
+          item={item}
+          key={item.id}
+        />
+
+
       )}
       renderSectionHeader={({ section: { title } }) => (
         <View style={listStyles.sectionHeader}>
@@ -116,49 +118,3 @@ export const List: React.FC<ListProps> = ({ data }) => {
 
 //   );
 // };
-
-
-const Section = (section: number, dataSectionHeaders: string[]) => {
-  return (
-    <View style={listStyles.sectionHeader}>
-      <Text style={listStyles.sectionHeaderText}>
-        {dataSectionHeaders[section]}
-      </Text>
-    </View>
-  );
-}
-
-
-//   <BigList
-//   sections={sections}
-//   renderItem={renderItem}
-//   renderHeader={renderHeader}
-//   renderFooter={renderFooter}
-//   renderSectionHeader={renderSectionHeader}
-//   renderSectionFooter={renderSectionFooter}
-//   itemHeight={50}
-//   headerHeight={90}
-//   footerHeight={100}
-//   sectionHeaderHeight={90} // Required to show section header
-//   sectionFooterHeight={100} // Required to show section footer
-// />
-// <BigList
-//   sections={dataSections}
-//   renderItem={renderItem}
-//   contentContainerStyle={listStyles.contentContainer}
-//   indicatorStyle="white"
-//   itemHeight={100}
-//   renderHeader={() => <></>}
-//   renderFooter={() => <></>}
-//   renderSectionHeader={(section) => {
-//     return (
-//       <View style={listStyles.sectionHeader}>
-//         <Text style={listStyles.sectionHeaderText}>
-//           {dataSectionHeaders[section]}
-//         </Text>
-//       </View>
-//     );
-//   }}
-//   sectionHeaderHeight={40}
-//   sectionFooterHeight={100}
-// />

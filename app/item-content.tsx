@@ -10,17 +10,21 @@ import { Like } from '../components/Like/Like';
 import { useContext, useEffect } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
-import { Stack, useNavigation, useRouter } from 'expo-router';
+import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
 import { ThemedView } from '@/components/ThemedView';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 
-export default function ItemContent({ id, title, categories, description }: { id: number, title: string, categories: string[], description: string }) {
+export default function ItemContent() {
   const router = useRouter();
   const navigation = useNavigation();
 
   const { views, dispatch } = useContext<ViewsState>(ViewsContext);
+  const params = useLocalSearchParams();
+  const { id, title, description, categories } = params;
 
-  const item = { "id": id, "categories": categories, "title": title, "description": description }
+
+  console.log("title", title)
+
 
   useEffect(() => {
     const addView = async () => {
@@ -36,11 +40,11 @@ export default function ItemContent({ id, title, categories, description }: { id
 
   }, []);
 
-  console.log("title", title)
+
 
   return (
     <>
-      <Stack.Screen options={{ title: title }} />
+      <Stack.Screen options={{ title: title[0] }} />
       <ThemedView style={itemContentStyles.container}>
         <View style={itemContentStyles.container}>
           {views >= 6 &&
@@ -49,7 +53,7 @@ export default function ItemContent({ id, title, categories, description }: { id
             </View>
 
           }
-          <LikesContainer item={item} />
+          {/* <LikesContainer item={params} /> */}
           <View style={itemContentStyles.content}>
             <Text style={itemContentStyles.title}>{title}</Text>
             <Text style={itemContentStyles.text}>{description}</Text>
@@ -57,24 +61,6 @@ export default function ItemContent({ id, title, categories, description }: { id
         </View>
       </ThemedView>
     </>
-
-
-    // <SafeAreaView style={[SafeArea.Android, { flex: 1 }]}>
-    //   <BackButton />
-    //   <View style={itemContentStyles.container}>
-    //     {views >= 6 &&
-    //       <View>
-    //         <Text style={itemContentStyles.title}>{item.title}</Text>
-    //       </View>
-
-    //     }
-    //     <LikesContainer item={item} />
-    //     <View style={itemContentStyles.content}>
-    //       <Text style={itemContentStyles.title}>{item.title}</Text>
-    //       <Text style={itemContentStyles.text}>{item.description}</Text>
-    //     </View>
-    //   </View>
-    // </SafeAreaView>
   );
 };
 
