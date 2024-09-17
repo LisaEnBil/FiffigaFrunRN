@@ -14,8 +14,8 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
     "helpers/__test__/helpers.test.js",
-    "components/Providers/ViewsProvider.ts",
-    "components/Providers/LikesProvider.ts",
+    "components/Providers/ViewsProvider.tsx",
+    "components/Providers/LikesProvider.tsx",
     "components/Modal/__test__/search-bar.test.js"
   ]
 }
