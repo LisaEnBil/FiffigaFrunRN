@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import { BackButton } from '../components/Buttons/BackButton';
 import { Like } from '../components/Like/Like';
-import { useContext, useEffect } from 'react';
+import { useCallback, useContext, useEffect, useState } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
 import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
@@ -22,23 +22,34 @@ export default function ItemContent() {
   const params = useLocalSearchParams();
   const { id, title, description, categories } = params;
 
+  const [item, setItem] = useState<Item>({} as Item);
 
-  console.log("title", title)
-
+  const createItem = useCallback(() => {
+    const i: Item = {
+      id: id as unknown as number,
+      categories: categories as string[],
+      title: title as string,
+      description: description as string
+    };
+    setItem(i);
+  }, [id, categories, title, description]);
 
   useEffect(() => {
-    const addView = async () => {
+    createItem();
+  }, [createItem]);
 
-      dispatch({
-        type: 'add',
-        payload: {
-          views: views,
-        },
-      });
-    }
+  const addView = useCallback(() => {
+    dispatch({
+      type: 'add',
+      payload: {
+        views: views,
+      },
+    });
+  }, [dispatch, views]);
+
+  useEffect(() => {
     addView();
-
-  }, []);
+  }, [addView]);
 
 
 
@@ -53,7 +64,7 @@ export default function ItemContent() {
             </View>
 
           }
-          {/* <LikesContainer item={params} /> */}
+          <LikesContainer item={item} />
           <View style={itemContentStyles.content}>
             <Text style={itemContentStyles.title}>{title}</Text>
             <Text style={itemContentStyles.text}>{description}</Text>
