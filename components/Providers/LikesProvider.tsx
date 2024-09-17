@@ -1,6 +1,11 @@
 import { LikedItem } from '@/types/global-types';
-import React, { createContext, useEffect, useReducer } from 'react';
+import React, { createContext, ReactNode, useEffect, useReducer } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+
+
+interface LikesProviderProps {
+  children: ReactNode;
+}
 
 interface LikesState {
   likes: Record<string, LikedItem>;
@@ -33,4 +38,37 @@ export const reducer = (state: any, action: any) => {
     default:
       return state;
   }
+};
+
+
+
+export const LikesProvider: React.FC<LikesProviderProps> = ({ children }) => {
+  //const [state, dispatch] = useReducer(reducer, { likes: {} });
+
+  const [state, dispatch] = useReducer(reducer, initialState);
+
+  console.log("state", state)
+
+  useEffect(() => {
+    const loadLikes = async () => {
+      const json = await AsyncStorage.getItem('likes');
+
+      const likes = json === null ? {} : JSON.parse(json);
+
+      dispatch({
+        type: 'initialize',
+        payload: {
+          likes: likes,
+        },
+      });
+    };
+
+    loadLikes();
+  }, []);
+
+  return (
+    <LikesContext.Provider value={{ likes: state.likes, dispatch }}>
+      {children}
+    </LikesContext.Provider>
+  );
 };

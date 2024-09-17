@@ -1,5 +1,10 @@
+import { ViewsContext } from '@/contexts/ViewsContext';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import React from 'react';
+import React, { ReactNode, useEffect, useReducer } from 'react';
+
+interface ViewsProviderProps {
+  children: ReactNode;
+}
 
 export const reducer = (state: any, action: any) => {
   const { type, payload } = action;
@@ -55,4 +60,22 @@ export const loadViews = async (dispatch: React.Dispatch<any>) => {
   } catch (error) {
     console.error('Failed to load views or date from AsyncStorage', error);
   }
+};
+
+
+export const UnsubscribedUserProvider: React.FC<ViewsProviderProps> = ({ children }) => {
+  const [state, dispatch] = useReducer(reducer, { views: 0 });
+
+  useEffect(() => {
+
+
+    loadViews(dispatch);
+  }, []);
+
+  return (
+    <ViewsContext.Provider value={{ views: state.views, dispatch }
+    }>
+      {children}
+    </ViewsContext.Provider>
+  );
 };
