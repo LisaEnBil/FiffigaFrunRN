@@ -34,10 +34,6 @@ export default function ItemContent() {
     setItem(i);
   }, [id, categories, title, description]);
 
-  useEffect(() => {
-    createItem();
-  }, [createItem]);
-
   const addView = useCallback(() => {
     dispatch({
       type: 'add',
@@ -45,13 +41,12 @@ export default function ItemContent() {
         views: views,
       },
     });
-  }, [dispatch, views]);
+  }, [dispatch]);
 
   useEffect(() => {
+    createItem();
     addView();
-  }, [addView]);
-
-
+  }, [createItem, addView]);
 
   return (
     <>
@@ -60,7 +55,7 @@ export default function ItemContent() {
         <View style={itemContentStyles.container}>
           {views >= 6 &&
             <View>
-              <Text style={itemContentStyles.title}>{title}</Text>
+              <Text style={itemContentStyles.title}>Placeholder for Max views</Text>
             </View>
 
           }

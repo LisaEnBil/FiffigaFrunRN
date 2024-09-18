@@ -63,7 +63,7 @@ export const loadViews = async (dispatch: React.Dispatch<any>) => {
 };
 
 
-export const UnsubscribedUserProvider: React.FC<ViewsProviderProps> = ({ children }) => {
+export const ViewsProvider: React.FC<ViewsProviderProps> = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, { views: 0 });
 
   useEffect(() => {
