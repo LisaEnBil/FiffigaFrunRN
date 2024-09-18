@@ -1,223 +1,314 @@
 {
   "1": {
     "id": 1,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Asfalt- eller tjärfläckar",
     "description": "Mjuka upp asfalts- eller tjärfläckar med lite glycerin eller matolja i några timmar. Tvätta sedan som vanligt."
   },
   "2": {
     "id": 2,
-    "categories": ["cleaning", "textile"],
+    "categories": [
+      "cleaning",
+      "textile"
+    ],
     "title": "Avfärgningar i tvätten",
     "description": "Undvik avfärgningar i tvättmaskinen, när man till exempel tvättar en maskin som innehåller nya kläder, genom att stoppa vanligt salt i en strumpa, knyt åt och lägg med i maskinen. Saltet suger åt sig färgen som annars skulle missfärga de andra kläderna."
   },
   "3": {
     "id": 3,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Avokado som mörknar 1",
     "description": "Om man har förberett en sallad som innehåller avokado, eller om man vill spara den ena avokadohalvan, så undviker man att avokadon mörknar genom att låta kärnan ligga i salladsskålen eller i den halvan man ska spara tills det ska serveras."
   },
   "4": {
     "id": 4,
-    "categories": ["food"],
-    "title": "Avokado som mörknar 5",
+    "categories": [
+      "food"
+    ],
+    "title": "Avokado som mörknar 2",
     "description": "Om man droppar på lite pressad citron på avokadon så mörknar den inte."
   },
   "5": {
     "id": 5,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Bananer som mörknar",
     "description": "Bananer håller sig fina längre om man lindar in dem i tidningspapper och förvarar dem i kylen, eller ännu hellre, svalen."
   },
   "6": {
     "id": 6,
-    "categories": ["vermin", "plants"],
+    "categories": [
+      "vermin",
+      "plants"
+    ],
     "title": "Bananflugor 1",
     "description": "Blanda en del äppelcidervinäger, en del honung, två delar varmt vatten och en droppe diskmedel och häll i en skål, burk eller glas. Ställ i närheten där flugorna finns."
   },
   "7": {
     "id": 7,
-    "categories": ["vermin", "plants"],
+    "categories": [
+      "vermin",
+      "plants"
+    ],
     "title": "Bananflugor 9",
     "description": "Har man fått bananflugor i köket kan man prova att salta rikligt i avloppet i diskhon innan man går och lägger sig på kvällen. Saltet löser upp de feta beläggningarna i avloppet som flugorna lägger sina ägg i."
   },
   "8": {
     "id": 8,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Barnbajspåsar?",
     "description": "Om man har småbarn som fortfarande använder blöja kan det vara bra att alltid ha en rulle med hundbajspåsar med sig i skötväskan. Rullen tar liten plats och påsarna är precis lagom stora för att få plats med både bajsblöjan och tvättlapparna, och sedan man har knutit igen påsen kan man slänga den i vilken allmän papperskorg som helst utan att det luktar."
   },
   "9": {
     "id": 9,
-    "categories": ["clothes", "outdoors"],
+    "categories": [
+      "clothes",
+      "outdoors"
+    ],
     "title": "Bevara trädgårdshandskar",
     "description": "Sina bästa och skönaste trädgårdshnadskar kan man hålla hela genom att linda hockeytape runt handskarnas fingertoppar. Man får dessutom ett fantastiskt bra och halkfritt grepp när man arbetar i trädgården!"
   },
   "10": {
     "id": 10,
-    "categories": ["vermin", "plants"],
+    "categories": [
+      "vermin",
+      "plants"
+    ],
     "title": "Bladlöss 1",
     "description": "Det är bra att sätta tagetesplantor framför rosenbuskarna i rabatten, eftersom tagetes skrämmer bort bladlöss."
   },
   "11": {
     "id": 11,
-    "categories": ["vermin", "plants"],
+    "categories": [
+      "vermin",
+      "plants"
+    ],
     "title": "Bladlöss 13",
     "description": "Om man har fått bladlöss eller annan ohyra på krukväxterna, kan man koka en näve persilja med vatten, sila, låta svalna och sedan vattna blommorna med detta."
   },
   "12": {
     "id": 12,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Blodfläckar",
     "description": "Fukta med kallt vatten och strö på rikligt med salt. Låt ligga en stund och skölj sedan i kallt vatten. Eftertvätta med såpa vid behov."
   },
   "13": {
     "id": 13,
-    "categories": ["vermin", "plants"],
+    "categories": [
+      "vermin",
+      "plants"
+    ],
     "title": "Blommor i korg",
     "description": "Om man planterar blommor i korg kan man undvika att småkryp och fukt tar över blomkorgen genom att bygga upp en liten platå av stenar i botten. På så sätt luftas också jorden underifrån."
   },
   "14": {
     "id": 14,
-    "categories": ["plants"],
+    "categories": [
+      "plants"
+    ],
     "title": "Blomvakt",
     "description": "Om man ska resa bort och inte har någon som vattnar blommorna kan man klara sig ändå. Fyll en skål med vatten och lägg i en tvättsvamp. På den ställer man sedan blomkrukan, som suger åt sig så mycket vätska som växten vill ha ett par veckor framåt."
   },
   "15": {
     "id": 15,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Blåbärsfläckar",
     "description": "Svåra blåbärsfläckar kan man få bort genom att låta plagget ligga i filmjölk en stund för att sedan tvätta som vanligt."
   },
   "16": {
     "id": 16,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Blåsa i munnen",
     "description": "Om man har en blåsa i munnen kan man spraya den med nässpray som innehåller cortison (finns många receptfria sådana). Blåsan försvinner då på någon dag."
   },
   "17": {
     "id": 17,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Blänkande diskbänk",
     "description": "Avsluta disken med att torka diskbänken med först lättmjölk och sedan vatten, så blir bänken glänsande och fin!"
   },
   "18": {
     "id": 18,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Borrspån",
     "description": "Om man ska borra inomhus och inte vill ha en massa borrspån överallt, kan man vika upp en kant på en post-it-lapp och klistra den under hålet man ska borra."
   },
   "19": {
     "id": 19,
-    "categories": ["hobby", "outdoors"],
+    "categories": [
+      "hobby",
+      "outdoors"
+    ],
     "title": "Bra grillglöd",
     "description": "För att minska röken och samtidigt få mer glöd kan man strö lite salt på grillkolen när man grillar."
   },
   "20": {
     "id": 20,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Bruna koppar 1",
     "description": "Om kopparna har blivit fula av te- och kaffeavlagringar kan man gnida dem rena med hjälp av vanligt koksalt som man har geggat ihop med lite vatten. Sedan sköljer man bort saltpastan och diskar som vanligt, och de fula fläckarna är borta!"
   },
   "21": {
     "id": 21,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Bruna koppar 2",
     "description": "För att få bort kaffefläckar i en mugg kan man först skölja ur den så att den blir fuktig, och sedan gnugga runt lite bakpulver med fingret. Skölj och diska sedan som vanligt."
   },
   "22": {
     "id": 22,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Brännskador",
     "description": "Vid lättare brännskador kan man vispa äggvita fluffigt för att sedan stryka på brännsåret."
   },
   "23": {
     "id": 23,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Brännässlor 1",
     "description": "Om man har bränt sig på brännässlor är bästa lindringen att smörja in det drabbade området med smör. Ju mer desto bättre!"
   },
   "24": {
     "id": 24,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Brännässlor 2",
     "description": "Bränner man sig på brännässlor så går det snabbt över om man gnuggar det drabbade området med gräs!"
   },
   "25": {
     "id": 25,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Brödkanter",
     "description": "Ändarna och kanterna från brödet kan vara bra att spara och låta stelna. Sedan kan man hacka upp det torra brödet och använda som ströbröd när man bakar."
   },
   "26": {
     "id": 26,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Brödskorpa",
     "description": "Istället för att pensla det jästa brödet med vatten och riskera att det sjunker ihop, så kan man spraya det med en vanlig blomsprayflaska fylld med vatten. För extra skorpa kan man även öppna ugnen ett par gånger och spraya brödet under gräddningen."
   },
   "27": {
     "id": 27,
-    "categories": ["hobby", "jewelry"],
+    "categories": [
+      "hobby",
+      "jewelry"
+    ],
     "title": "Bärnsten",
     "description": "Bärnsten får tillbaka sin vackra glans om man tvättar den i mjölk."
   },
   "28": {
     "id": 28,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Bärfläckar",
     "description": "Bärfläckar på kläder får man enkelt bort genom att, med hjälp av en tesked, hälla lite kokande vatten på fläcken och sedan skrapa försiktigt. Upprepa tills fläcken är borta."
   },
   "29": {
     "id": 29,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Chokladfläckar",
     "description": "Chokladfläckar på kläderna kan man få bort genom att gnida in fläckarna i mjölk och sedan tvätta plagget i kallt vatten."
   },
   "30": {
     "id": 30,
-    "categories": ["cleaning", "elektronics"],
+    "categories": [
+      "cleaning",
+      "elektronics"
+    ],
     "title": "Dammig TV",
     "description": "Om man dammar sin TV med lite sköljmedel i vattnet så drar den inte åt sig lika mycket damm."
   },
   "31": {
     "id": 31,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dammsugarpåsar",
     "description": "För den som har centraldammsugare kan man spara in mycket pengar på dyra dammsugarpåsar, då det går lika bra att använda vanliga matplastkassar. Se bara till att fästa kassen ordentligt!"
   },
   "32": {
     "id": 32,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dammsuga elementen",
     "description": "Det blir enklare att dammsuga elementen ordentligt om man använder en gammal tandborste till att borsta fram all smuts som annars är svår att komma åt!"
   },
   "33": {
     "id": 33,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Diskmaskinstabletter",
     "description": "Om du har slut på diskmaskinstabletter kan du använda bikarbonat och salt. Fyll upp 3/4 av facket i diskmaskinen med bikarbonat och resterande med salt. Häll på tre droppar diskmedel och kör maskinen som vanligt. Undvik att ha för mycket diskmedel då det löddrar. "
   },
   "34": {
     "id": 34,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dålig lukt i hemmet",
     "description": "Om det luktar illa i hemmet, även av cigarettrök eller brandrök, så kan man ställa en skål med vatten och ättika i rummet. Ättikan drar nämligen åt sig den dåliga lukten. Man kan även använda ättiksprit som är utspädd ättika."
   },
   "35": {
     "id": 35,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dålig lukt i avloppet",
     "description": "Kommer det dålig lukt från avloppet kan man enkelt få bort den genom att först hälla i ättika och sedan bikarbonat. Låt det stå en stund och skölj sedan med varmt vatten."
   },
   "36": {
     "id": 36,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dålig lukt i sopskåpet",
     "description": "Man kan råda bot på dålig lukt i sopskåpet eller blöjhinken genom att strö ut lite bikarbonat i botten på sophinken. Man kan även ställa in en liten skål eller burk med ättika eller ättiksprit i skåpet."
   },
   "37": {
     "id": 37,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Dålig lukt i tvättmaskin",
     "description": "Detta fungerar även om diskmaskinen luktar lite illa. Häll ättika i facket för tvättmedel eller diskmedel och kör en tom maskin på snabbprogrammet så bör den dåliga lukten försvinna."
   },
@@ -235,2191 +326,3077 @@
   },
   "41": {
     "id": 41,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Elektriskt hår",
     "description": "Om håret är statiskt kan man ta ett par droppar vanligt hårbalsam på händerna och stryka över håret."
   },
   "42": {
     "id": 42,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Enkelt bokmärke",
     "description": "Ett enkelt och praktiskt bokmärke får man genom att klippa av hörnet på ett kuvert, och trä hörnet över sidkanten i boken. Dekorera gärna pappersbiten så blir den även en fin detalj!"
   },
   "43": {
     "id": 43,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Envisa fläckar",
     "description": "Ett tips för att få bort alla möjliga sorters fläckar är att blanda ihop 1 del hårschampoo med 1 del vinäger och 1 del vatten. Använd blandingen till att gnugga bort fläcken och skölj sedan plagget."
   },
   "44": {
     "id": 44,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fläckar på tapet",
     "description": "Får man en fläck på en känslig tapet så kan man torka försiktigt med barnvåtservetter, exempelvis Natusan Baby Wipes. Detta fungerar även på svåra fläckar som till exempel målarfärg."
   },
   "45": {
     "id": 45,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fläckar på möbler",
     "description": "Fläckar på tyger och möbler kan man få bort genom att gnugga försiktigt med en fuktig tygbit som är doppad i bakpulver. Denna metod är skonsam mot alla tyger då det inte fräter."
   },
   "46": {
     "id": 46,
-    "categories": ["cleaning", "furniture"],
+    "categories": [
+      "cleaning",
+      "furniture"
+    ],
     "title": "Fläckar på vita möbler",
     "description": "Om man får en fläck på en vit soffa, matta osv. kan man spraya på lite ajax fönsterputs på fläcken. Få inte panik om fläcken först blir mörkare, färgen ändras inom några sekunder och försvinner sedan. Torka sedan med lite hushållspapper. Detta brukar även fungera på lite äldre fläckar."
   },
   "47": {
     "id": 47,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar 1",
     "description": "Om man får en fettfläck på textilier kan man spraya fläcken med hårspray, så fixeras den och man kan lägga plagget i tvättkorgen och tvätta det med nästa textil som vanligt."
   },
   "48": {
     "id": 48,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar 2",
     "description": "Om man har fått en fettfläck på kläderna så kan man prova att lägga lite vanligt mjöl på fläcken och låta det ligga ett tag så suger mjölet upp fettet."
   },
   "49": {
     "id": 49,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar 3",
     "description": "Fettfläckar på textil kan man få bort snabbt genom att gnugga dem med en trasa eller svamp med ej smaksatt mineralvatten."
   },
   "50": {
     "id": 50,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar 4",
     "description": "Färska fettfläckar på textilier tar man lätt bort genom att gnugga fläcken med vanligt handdiskmedel, och sedan tvätta som vanligt."
   },
   "51": {
     "id": 51,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar på skinn",
     "description": "Gnid in fläcken med äggvita och låt torka i solen. Borsta sedan av den torkade vitan."
   },
   "52": {
     "id": 52,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Fettrester i stekpannan",
     "description": "Häll grovsalt i en stekpanna så det täcker hela botten, och låt stekpannan stå på värme på spisen i en halvtimme. Skaka eller rör om då och då. Saltet suger åt sig gamla fastbrända matrester och fetter som stekpannan har samlat på sig."
   },
   "53": {
     "id": 53,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Fin smulpaj",
     "description": "Finare yta på smulpajen får man om man strör lite råsocker över den innan man sätter den i ugnen!"
   },
   "54": {
     "id": 54,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Fin stekpanna",
     "description": "Stekpannor brukar med tiden bli bruna i kanten där det rostfria brukade vara. Detta kan man enkelt få bort genom att gnida kanten på stekpannan med en fuktad sockerbit tills stålet skiner igen!"
   },
   "55": {
     "id": 55,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Finnar 1",
     "description": "Om man har en finne man vill bli av med kan man prova att röra ihop lite flytande honung med muskotnöt och lite kanel till en tjock massa. Applicera massan över finnen och låt verka en stund, gärna över natten."
   },
   "56": {
     "id": 56,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Finnar 2",
     "description": "En finne kan man bli av med snabbt genom att lägga lite tandkräm på den och låta verka över natten. Detta ska dock inte göras för ofta eftersom tandkrämen torkar ut huden och på sikt kan leda till att huden producerar mer fett som leder till nya finnar, men det kan vara bra inför tex. en fest."
   },
   "57": {
     "id": 57,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Fettfläckar på tapeten",
     "description": "Fettfläckar på tapeten kan gå att få bort om man provar att gnugga försiktigt på fläcken med potatismjöl på en något fuktad trasa."
   },
   "58": {
     "id": 58,
-    "categories": ["bathroom", "hobby"],
+    "categories": [
+      "bathroom",
+      "hobby"
+    ],
     "title": "Fladdrande duschdraperi",
     "description": "Om man har ett duschdraperi som gärna sugs in när man duschar så hjälper det att hänga duktyngder i botten av draperiet."
   },
   "59": {
     "id": 59,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Fluffigt potatismos",
     "description": "Resultatet blir extra fluffigt om man blandar ner en uppvispad äggvita i potatismoset."
   },
   "60": {
     "id": 60,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Fläckig vas",
     "description": "Märken från gammalt blomvatten i vasen går bort snabbt om man häller i lite ättika och lite risgryn och skakar den en liten stund."
   },
   "61": {
     "id": 61,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Fläckar i handfat",
     "description": "Om man har fått fläckar på badrumsporslinet eller i emaljerade handfat kan man ta lite tandkäm på en bit hushållspapper och gnugga/polera."
   },
   "62": {
     "id": 62,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Fläckar på läder",
     "description": "Fläckar på läderfåtöljer eller soffor kan man ofta få bort genom att gnida fläcken med vispad äggvita och sedan torka av."
   },
   "63": {
     "id": 63,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Fruktspad",
     "description": "Spadet från fruktkonservburkar kan man frysa in och spara, och sedan ta fram och tina, och använda till att safta tårtbottnar!"
   },
   "64": {
     "id": 64,
-    "categories": ["hobby", "outdoors"],
+    "categories": [
+      "hobby",
+      "outdoors"
+    ],
     "title": "Fruset billås",
     "description": "Om billåset har frusit och man inte har någon låsspray till hands, kan man fylla en fryspåse med varmt vatten och forma påsen runt låset en stund,så tinar isbeläggningen."
   },
   "65": {
     "id": 65,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Fräschare disktrasa 1",
     "description": "Om man snabbt behöver fräscha upp en luktande disktrasa kan man döda bakterierna genom att skölja ur trasan och sedan köra den i micron på full effekt i 1 minut. Var försiktig när ni tar ut trasan eftersom den kan bli ganska varm."
   },
   "66": {
     "id": 66,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Fräschare disktrasa 2",
     "description": "Om man kokar disktrasan i några minuter försvinner den dåliga lukten och bakterierna dör."
   },
   "67": {
     "id": 67,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Fräschare hud",
     "description": "Fräschare och klarare hud får man genom att lägga en halv rå skalad potatis i ett glas med vatten. Låt detta stå över natten och drick potatisvattnet på morgonen. Upprepa då och då!"
   },
   "68": {
     "id": 68,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Fyllig brunsås",
     "description": "Brunsåsen blir både fylligare och godare om man lägger i ett par rutor mörk choklad!"
   },
   "69": {
     "id": 69,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Färska ägg",
     "description": "Om man vill veta om ett ägg är färskt eller inte kan man lägga det i en skål med vatten. Om ägget flyter finns det gaser innanför skalet och är inte i skick att ätas. Om det däremot håller sig på botten går det utmärkt att äta."
   },
   "70": {
     "id": 70,
-    "categories": ["vermin", "kitchen"],
+    "categories": [
+      "vermin",
+      "kitchen"
+    ],
     "title": "Fästingar",
     "description": "Man kan undvika fästingar på både människor, hundar och katter genom att använda rosmarin. Koka upp 1 liter vatten. Ta bort från plattan och häll i en burk torkad eller några kvistar färsk rosmarin och låt blandningen svalna under lock. Häll upp i en sprutflaska och tillsätt en matsked vitvinsvinäger. Förvara blandningen i kylskåp, den håller cirka två veckor, och spraya blandningen på huden eller på djurens päls och gno in när man ska röra sig utomhus."
   },
   "71": {
     "id": 71,
-    "categories": ["vermin", "kitchen"],
+    "categories": [
+      "vermin",
+      "kitchen"
+    ],
     "title": "Fästingmedel till hund",
     "description": "Låt 4 skalade vitlöksklyftor dra i 1 liter raps- majs- eller solrosolja i fyra dygn. Vänd flaskan en gång per dag och sila sedan bort löken. Dosera 1 tsk om dagen till liten hund, 1 msk till mellanstor, och 1-2 msk om dagen till en stor hund."
   },
   "72": {
     "id": 72,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Fönsterbrädor av marmor",
     "description": "För att få en skinande fönsterbräda i marmor, ska man ta en gammal (förslagsvis udda) yllevante eller yllestrumpa på handen. Använd vanten/sockan till att gnida in ofärgad skokräm på den rena och torra fönsterbrädan och vänd sedan vanten/sockan ut-och-in och polera den glänsande. Det är ullens friktion som gör att skokrämen tränger in ordentligt i brädan."
   },
   "73": {
     "id": 73,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Förkylning 1",
     "description": "En bra kur för den som håller på att drabbas av en riktig förkylning, är att första dagen man känner sig dålig, på kvällen, värma 33 cl öl på spisen, och sedan svälja en Alvedon eller Ipren eller liknande med den varma ölen. Gå direkt till sängs, och i de flesta fall går förkylningen över till nästa dag. Det är dock viktigt att detta görs dag ett av förkylningen innan den hinner blossa ut ordentligt."
   },
   "74": {
     "id": 74,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Förkylning 2",
     "description": "En dunderkur mot förkylning får man om man värmer en del honung med en del whisky, tillsammans saften av en hel citron. Drick upp och hoppa direkt i säng!"
   },
   "75": {
     "id": 75,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Förkylning 3",
     "description": "Mot förkylning och halsont kan man pröva följande: Finhacka en stor vitlöcksklyfta och blanda detta med saften från en citron i ett glas eller liten skål. Ät detta med sked, och tugga varje tugga ordentligt. Drick sedan rikligt med vatten!"
   },
   "76": {
     "id": 76,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "För mycket salt",
     "description": "Om man har råkat salta lite för mycket i maten man kokar kan man skala en potatis och lägga i. Den suger nämligen upp överflödigt salt."
   },
   "77": {
     "id": 77,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "För mycket vitlök",
     "description": "Har man råkat ha i för mycket vitlök i maten man lagar kan man neutralisera smaken med persilja. Klipp några persiljekvistar i maten eller lägg persiljan i en tekula som får koka med grytan."
   },
   "78": {
     "id": 78,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "För stark blixt",
     "description": "Om man har stark blixt i kameran och bilderna blir för ljusa kan man tejpa en liten bit bakplåtspapper över blixten. Bilderna blir då mycket finare."
   },
   "79": {
     "id": 79,
-    "categories": ["furniture"],
+    "categories": [
+      "furniture"
+    ],
     "title": "Gammal foppatoffla",
     "description": "Om man har djur så är det bästa sättet att få bort hund/katthår från soffan, att trä en foppa-toffel på handen och dra framåt, eller utåt i soffan. Det bildas då statisk elektricitet och varenda hårstrå följer med toffeln. Detta tips fungerar allra bäst i en tygsoffa, men det går även om man har en soffa i skinn."
   },
   "80": {
     "id": 80,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Gammalt bröd",
     "description": "Börjar brödet bli gammalt och hårt, kan man ge det en ny chans genom att antingen låta det stå på ett galler över en kastrull med vatten med en bakduk över en liten stund, eller genom att packa in brödet i folie och stoppa in det i ugnen i några minuter."
   },
   "81": {
     "id": 81,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Galltvål mot blodfläckar",
     "description": "Galltvål är oumbärligt för många fläckar, bl.a. blod. Skölj bort det värsta med iskallt vatten och blötlägg sedan i varmt vatten med galltvål."
   },
   "82": {
     "id": 82,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Garn som rullar",
     "description": "Ett garnnystan rullar lätt omkring medan man handarbetar. Detta kan man undvika genom att ta en gammal glassburk i plast eller annat passande och skära en skåra i kanten med ett litet runt hål i änden, och låta garnet löpa genom det. Stickar man med flera färger kan man skära flera skåror."
   },
   "83": {
     "id": 83,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Getingstick 1",
     "description": "Har man blivit stucken av en geting kan man lindra smärtan genom att lägga på lite våt jord innan det har hunnit svullna upp."
   },
   "84": {
     "id": 84,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Getingstick 2",
     "description": "Har man blivit stucken av en geting kan man ta en halv gul lök och gnida löksaften över sticket i några minuter. Smärtan försvinner snabbt, och sticket syns knappt sedan."
   },
   "85": {
     "id": 85,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Getingstick 3",
     "description": "Getingstick kan lindras genom att trycka en sockerbit mot sticket."
   },
   "86": {
     "id": 86,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Getingstick 4",
     "description": "Gnugga ett grodblad mot sticket och fäst det sedan mot huden med hjälp av till exempel ett plåster eller lite kirurgtejp. Grodbladet hjälper även mot lättare inflammationer som kan uppstå."
   },
   "87": {
     "id": 87,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Getingstick 5",
     "description": "Doppa en treotablett snabbt i vatten så att den börjar brusa, och tryck den sedan mot sticket för att lindra smärtan. Se till så att taggen är borta först."
   },
   "88": {
     "id": 88,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Glaset på ugnsluckan",
     "description": "Glaset i ugnsluckan får man rent genom att blanda ihop bikarbonat och diskmedel, stryka blandningen på glaset, vänta i 10 minuter, och sedan skrapa bort blandningen och putsa upp glaset."
   },
   "89": {
     "id": 89,
-    "categories": ["jewelry"],
+    "categories": [
+      "jewelry"
+    ],
     "title": "Glittriga smycken",
     "description": "För att fräscha upp smycken i silver eller guld kan man gnida dem lite med färskt brödinkråm. Ett annat tips är att använda fuktigt sågspån för att få metall och stenar att gnistra!"
   },
   "90": {
     "id": 90,
-    "categories": ["food", "outdoors"],
+    "categories": [
+      "food",
+      "outdoors"
+    ],
     "title": "Grillfest",
     "description": "Om man har många gäster och ska servera fläskkött eller kyckling på grillfesten så går det utmärkt att förkoka köttet. Pensla med glace eller marinad och grilla fram en fin yta så går det mycket snabbare!"
   },
   "91": {
     "id": 91,
-    "categories": ["cleaning", "outdoors"],
+    "categories": [
+      "cleaning",
+      "outdoors"
+    ],
     "title": "Grillgallret",
     "description": "Innan man grillar kan man gnida in gallret med en delad lök. Det desinfekterar gallret på naturlig väg!"
   },
   "92": {
     "id": 92,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Gräsfläckar",
     "description": "Om gräsfläckarna inte gick bort i tvättmaskinen kan man badda fläcken med lite T-sprit, och gnugga med tvål och vatten. Tvätta sedan plagget igen i tvättmaskinen."
   },
   "93": {
     "id": 93,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Gula vägguttag",
     "description": "Gulnade skydd runt vägguttagen, lysknappar och andra plastdetaljer kan man få vita och fina igen om man skruvar bort dem och låter dem ligga i såpavatten över natten."
   },
   "94": {
     "id": 94,
-    "categories": ["cleaning", "outdoors"],
+    "categories": [
+      "cleaning",
+      "outdoors"
+    ],
     "title": "Gulnade trädgårdsmöbler",
     "description": "Vita plastmöbler som gulnat och blivit fula blir vita och fina igen om man gnider in dem med såpa och 24% ättikssyra med hjälp av en svamp. Använd en mjuk svamp så att inte möblerna repas. Låt verka en stund och skölj sedan av."
   },
   "95": {
     "id": 95,
-    "categories": ["cleaning", "indoors"],
+    "categories": [
+      "cleaning",
+      "indoors"
+    ],
     "title": "Gulnat handfat",
     "description": "Ett handfat som gulnat kan man få skinande rent genom att skrubba det med bakpulver."
   },
   "96": {
     "id": 96,
-    "categories": ["plants", "indoors"],
+    "categories": [
+      "plants",
+      "indoors"
+    ],
     "title": "Gödningsmedel 1",
     "description": "Tebladen som man kokat te med blir ett enkelt och billigt gödningmedel att lägga i blomkrukan, miljövänligt dessutom!"
   },
   "97": {
     "id": 97,
-    "categories": ["plants", "indoors"],
+    "categories": [
+      "plants",
+      "indoors"
+    ],
     "title": "Gödningsmedel 2",
     "description": "Blanda ut kaffesump direkt i växternas jord, eftersom blommor älskar kaffesump!"
   },
   "98": {
     "id": 98,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Göra rent mattan",
     "description": "En billig variant att fräscha upp sina mattor är att strö ut ett lager bikarbonat över hela mattan, låta verka i ca 20 minuter, och sedan dammsuga noggrant!"
   },
   "99": {
     "id": 99,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Göra rent spisen 1",
     "description": "En bra metod för att få rent en ingrodd spis är att blanda bakpulver och ättika och hälla runt plattorna. Låt blandningen stå och bubbla och fräsa ett tag och torka sedan rent med svamp, trasa och ljummet vatten."
   },
   "100": {
     "id": 100,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Göra rent spisen 2",
     "description": "För att enkelt få bort de bruna kanterna man brukar få runt spisens plattor, så ska man blöta en sockerbit i vatten, och sedan gnugga med den runt plattorna. Smutsen lossnar jättesnabbt! Till detta tips passar det bäst med vanligt bitsocker, eftersom snabbitsocker smälter väldigt snabbt, och då går det åt ganska många bitar."
   },
   "101": {
     "id": 101,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Göra rent trä",
     "description": "En omålad träyta får ett bra rengöringsmedel av råriven potatis och lite vatten."
   },
   "102": {
     "id": 102,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Göra rent ugnen 1",
     "description": "Sätt in en ugnssäker skål med vatten och lite såpa på 100 grader i 30 minuter. När ugnen svalnat är det bara att torka av ugnen med en trasa."
   },
   "103": {
     "id": 103,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Göra rent ugnen 2",
     "description": "Har man ingen såpa hemma kan man istället ställa en djup tallrik med ättika i ugnen, fast på 50 grader. Låt stå i 30-60 minuter och tvätta sedan rent."
   },
   "104": {
     "id": 104,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Göra rent ugnen 3",
     "description": "En ren ugn får man om man blandar vatten och tvättsåpa i en sprayflaska och sprayar insidan av ugnen. Låt sedan ugnen stå på 100 grader i minst en kvart, och när den sedan har svalnat kan man enkelt torka bort all smuts med lite hushållspapper eller en svamp."
   },
   "105": {
     "id": 105,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hacka lök 1",
     "description": "Man undviker att det svider i ögonen när man hackar lök genom att stoppa ett par tändstickor i munnen med svavlet utåt. Svavlet suger åt sig löklukten innan det har nått ögonen. Vid mycket stark lök kan man behöva byta stickorna efter en stund. Man kan även prova att sätta fast en liten brödbit på knivspetsen."
   },
   "106": {
     "id": 106,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hacka lök 2",
     "description": "Genom att ha en tesked i munnen när man hackar lök undviker man svid och tårar i ögonen!"
   },
   "107": {
     "id": 107,
-    "categories": ["body", "hobby"],
+    "categories": [
+      "body",
+      "hobby"
+    ],
     "title": "Hemmagjord peeling",
     "description": "En bra hemmagjord peelingkräm för hela kroppen får man genom att blanda 1 dl strösocker med 1 msk olivolja och 1 msk vetemjöl. Använd i duschen. Vill man ha en kylande effekt som bland annat lindrar irritation kan man även hälla i lite frusna bär, då får peelingkrämen även lite färg och en god, naturlig doft!"
   },
   "108": {
     "id": 108,
-    "categories": ["body", "hobby"],
+    "categories": [
+      "body",
+      "hobby"
+    ],
     "title": "Hemmagjord peeling 2",
     "description": "Istället för att slänga kaffesumpen kan man använda den i duschen som peelingcreme. Det doftar gott och huden blir mjuk och len. Förvara kaffesumpen i en burk i badrummet utan lock, så den inte möglar!"
   },
   "109": {
     "id": 109,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hemmagjord sushi",
     "description": "Lägg lite vanlig majonnäs i handflatan så klibbar inte riset fast i handen när man gör hemmagjord sushi."
   },
   "110": {
     "id": 110,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Halsbränna 1",
     "description": "Man kan lindra halsbränna genom att tugga långsamt på en rå potatisskiva."
   },
   "111": {
     "id": 111,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Halsbränna 2",
     "description": "Halsbränna kan man bli av med genom att tugga i sig en halv kaffekopp havregryn med en tesked. skölj med lite vatten om det blir för torrt. Havregrynen neutraliserar magsyran och det känns snart bättre!"
   },
   "112": {
     "id": 112,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Halsbränna 3",
     "description": "Halsbränna kan lindras genom att äta ett par teskedar rårörda lingon eller lingonsylt."
   },
   "113": {
     "id": 113,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hasselbackspotatis",
     "description": "Hasselbackspotatis går både snabbare och enklare att skära om man lägger potatisen i en träslev så att kanten tar i så man inte kan skära igenom potatisen, eller bredvid skärbrädan så att kanten på den hindrar kniven."
   },
   "114": {
     "id": 114,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hoppig kardemumma",
     "description": "Kardemummakärnorna hoppar lätt ur morteln när man stöter dem. Detta råder man bot på genom att stöta dem tillsammans med ett par sockerbitar."
   },
   "115": {
     "id": 115,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Hosta 1",
     "description": "Ett gammalt spanskt husmorsknep är att vid hosta ställa en gul lök som man har skurit ett par gånger på nattduksbordet, eller nära huvudet, under natten. Hela rummet luktar lök dagen därpå, men något i löken gör att man slutar hosta."
   },
   "116": {
     "id": 116,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Hosta 2",
     "description": "Om man har hosta, kan man ta en kålrot, och gräva en krater på ena sidan av den. Tryck små hål med en potatissticka eller tandpetare på undersidan och sila sirap igenom den. Detta tar ca ett dygn. Drick den genomsilade sirapen några gånger per dag."
   },
   "117": {
     "id": 117,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Havregrynsgröt",
     "description": "Om man vill undvika att havregrynsgröten ska bränna fast i kastrullen kan man lägga tre enkronor på spisplattan under kastrullen när man kokar gröten. Detta fungerar ju förstås bara på traditionella spiplattor."
   },
   "118": {
     "id": 118,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Hicka 1",
     "description": "Hicka botas snabbast genom att man, medan man håller för näsan, dricker minst 10 små klunkar vatten, eller så många man klarar utan att svimma. Vid riktigt svåra fall kan man göra detta 2-3 gånger i sträck, men hämta andan snabbt emellan. Det räcker om man tar små klunkar av vattnet."
   },
   "119": {
     "id": 119,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Hicka 2",
     "description": "Om man har hicka kan man prova att ta ganska mycket vatten i munnen, böja sig så långt ner man kan (så att huvudet är upp-och-ner), och snabbt svälja vattnet i små klunkar. Vänta sedan några sekunder innan man vänder upp huvudet igen."
   },
   "120": {
     "id": 120,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Hicka 3",
     "description": "Att 1-2 matskedar lingonsylt eller rårörda lingon kan hjälpa mot hicka."
   },
   "121": {
     "id": 121,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Huvudvärk 1",
     "description": "Dunkande huvudvärk kan man bota genom att ta en lime, dela den i två delar, och massera pannan och tinningarna med limehalvorna."
   },
   "122": {
     "id": 122,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Huvudvärk 2",
     "description": "Blanda 1 tsk vinäger, 1 tsk socker och 1 tsk ättika i ett glas och rör om i en minut. Drick upp blandningen och efter fem minuter är smärtan borta!"
   },
   "123": {
     "id": 123,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Huvudvärk 3",
     "description": "Snabbare lindring med värktablett mot huvudvärk, får man om man sväljer ner tabletten tillsammans med hett kaffe, som snabbar på effekten av tabletten."
   },
   "124": {
     "id": 124,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hyvla mjuk ost",
     "description": "Om osten man ska hyvla är så mjuk så att den veckar sig och går sönder kan man vika en bit smörpapper över skåran på osthyveln innan man hyvlar."
   },
   "125": {
     "id": 125,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Hålla katter borta",
     "description": "Om man vill hålla sin katt borta från duschen, handfatet, trappuppgången eller rabatten kan man droppa lite tabascosås på de aktuella platserna."
   },
   "126": {
     "id": 126,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Hålla ugnen ren",
     "description": "Täck botten av ugnen med aluminuimfolie och låt den ligga där så ramlar all smuts och fett ner på folien istället för på botten av ugnen. Sen behöver man bara byta folie då och då och man slipper skrubba inuti ugnen, och den håller sig så gott som ny!"
   },
   "127": {
     "id": 127,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Hållbar frukt",
     "description": "Om man undviker att blanda äpplen och bananer i fruktskålen så håller frukterna sig längre!"
   },
   "128": {
     "id": 128,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Hår & hud",
     "description": "Kokosfett är rena mirakelkuren för håret och huden. Ett paket kokosfett kostar inte många kronor i matvaruaffären, men räcker länge. Dessutom luktar det ingenting speciellt. Ta 40-50 g kokosfett och smält det i en skål eller mugg i micron, låt svalna eftersom det blir väldigt hett annars och man riskerar att bränna sig! Gegga in det flytande fettet i håret och täck med plastfolie. Låt det sitta i någon timme och skölj sedan ur med varmt vatten. Använd det återstående fettet som hudlotion efter duschen. Både hår och hud blir underbart mjuka!"
   },
   "129": {
     "id": 129,
-    "categories": ["hobby", "kitchen"],
+    "categories": [
+      "hobby",
+      "kitchen"
+    ],
     "title": "Hälla med tratt",
     "description": "När man ska hälla något i en flaska med hjälp av en tratt rinner det ner snabbare om man sätter en tändsticka mellan tratten och flaskhalsen så det inte sluter för tätt. Se upp bara så att inte tändstickan ramlar ner i flaskan."
   },
   "130": {
     "id": 130,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Hänga kläder",
     "description": "Om man ska hänga kläder på tork på till exempel balkongen eller där det blåser mycket kan man undvika att galgarna blåser ner genom att använda dubbla galgar och vända krokarna åt varsitt håll runt linan eller kroken."
   },
   "131": {
     "id": 131,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Illaluktande blöjhink",
     "description": "Lägg en bit grillkol i blöjhinken så drar kolen åt sig lukten. Det måste vara grillkol och ej brikett."
   },
   "132": {
     "id": 132,
-    "categories": ["clothes", "cleaning"],
+    "categories": [
+      "clothes",
+      "cleaning"
+    ],
     "title": "Illaluktande kläder",
     "description": "Om man har kläder som luktar illa, av till exempel svett eller cigarettrök, som sitter i även efter textil, så går det oftast bort om man använder ättika. Blöt kläderna med ättika, ca en deciliter ättika och fem l vatten per plagg, och tvätta sedan kläderna direkt i tvättmaskinen innan ättikan har hunnit torka. Detta fungerar bra även med färgade kläder eftersom ättikan inte bleker plaggen."
   },
   "133": {
     "id": 133,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Illaluktande kylskåp",
     "description": "Om kylskåpet luktar illa kan man lägga kaffebönor i en ren nylonstrumpa och knyta ihop den. Lägg strumpan i kylskåpet så försvinner lukten."
   },
   "134": {
     "id": 134,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Illaluktande skor 1",
     "description": "Om skorna har börjat lukta illa kan man frysa in skorna i några timmar och sedan låta dem tina och torka med tidningspapper i."
   },
   "135": {
     "id": 135,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Illaluktande skor 2",
     "description": "Lägg bikarbonat i skorna över natten, och borsta sedan ur väl."
   },
   "136": {
     "id": 136,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Illaluktande skor 3",
     "description": "Pröva att låta skorna stå med kaffebönor i över natten. Bönorna suger åt sig den dåliga lukten."
   },
   "137": {
     "id": 137,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Illamående",
     "description": "Om man mår illa brukar det hjälpa att suga lite på en isglass, till exempel en piggelin."
   },
   "138": {
     "id": 138,
-    "categories": ["bathroom", "cleaning"],
+    "categories": [
+      "bathroom",
+      "cleaning"
+    ],
     "title": "Imma på badrumsspegeln",
     "description": "Om man vill kunna kliva ur duschen till en spegel fri från imma ska man putsa spegeln med diskmedel eller raklödder. Detta är väldigt praktiskt för till exempel män som vill raka sig efter duschen. Spegeln blir inte helt immfri, men imman lägger sig på ytan av spegeln och förvinner mycket fortare."
   },
   "139": {
     "id": 139,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Jeans med passform",
     "description": "För att den snygga passformen ska sätta sig ordentligt i jeansen ska man inte tvätta dem för ofta. Lägg dem istället i frysen över natten så förvinner bakterier och eventuell dålig lukt."
   },
   "140": {
     "id": 140,
-    "categories": ["christmas"],
+    "categories": [
+      "christmas"
+    ],
     "title": "Juldoft i hemmet 1",
     "description": "Detta fungerar bara på spisar med plattor:\nSätt på en spisplatta och låt den bli riktigt varm. Stäng av den och strö lite kanel på den redan varma plattan, och vips luktar hela huset kanel!"
   },
   "141": {
     "id": 141,
-    "categories": ["christmas"],
+    "categories": [
+      "christmas"
+    ],
     "title": "Juldoft i hemmet 2",
     "description": "För att sprida snabb juldoft i hemmet kan man koka upp några deciliter vatten med några citronskivor, apelsinskivor och kanel, antingen stång eller malen. Låt koka en liten stund till önskad effekt har uppnåtts."
   },
   "142": {
     "id": 142,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Kaffefläckar",
     "description": "Ta bort färska fläckar med kallt vatten. Vita plagg med torkade fläckar skall doppas i kokande vatten, medan kulörta plagg penslas med äggula blandat med ljummet vatten."
   },
   "143": {
     "id": 143,
-    "categories": ["cleaning", "kitchen", "bathroom"],
+    "categories": [
+      "cleaning",
+      "kitchen",
+      "bathroom"
+    ],
     "title": "Kalkborttagning 1",
     "description": "Man får enkelt och miljövänligt bort kalkavlagringar från diskbänk, badkar och liknande ytor genom att gnida in ytan med en halv citron. Vänta några minuter och torka sedan rent med en trasa. Det både doftar fräscht och blir skinande rent!"
   },
   "144": {
     "id": 144,
-    "categories": ["cleaning", "bathroom"],
+    "categories": [
+      "cleaning",
+      "bathroom"
+    ],
     "title": "Kalkfläckar i badkaret",
     "description": "Fläckar efter rinnande vatten i badkar eller på kakel får man enkelt bort genom att gnida en citronhalva över ytan och sedan skölja bort."
   },
   "145": {
     "id": 145,
-    "categories": ["cleaning", "bathroom"],
+    "categories": [
+      "cleaning",
+      "bathroom"
+    ],
     "title": "Kalk i toaletten",
     "description": "Kalk i toaletten eller annan badrumsinredning av porslin kan man få bort med hjälp av coca cola. Häll colan över beläggningarna och låt stå i 60 minuter innan du gnuggar bort kalken med en borste."
   },
   "146": {
     "id": 146,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Katter i rabatten",
     "description": "Vill man ha bort katter som springer i rabatterna kan man ta helt vanlig ättika och blanda med vatten i en sprayflaska. Spraya där katterna brukar gå och upprepa med 2-3 veckors mellanrum. Katter avskyr nämligen ättika."
   },
   "147": {
     "id": 147,
-    "categories": ["animals", "cleaning"],
+    "categories": [
+      "animals",
+      "cleaning"
+    ],
     "title": "Katt/Hundhår",
     "description": "Man får enkelt bort djurhår från kläder eller möbler om man drar över ytan med en diskhandske eller en lätt fuktad trasa."
   },
   "148": {
     "id": 148,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Katt som klöser",
     "description": "Om man har problem med att katten klöser på möbler och dylikt kan man fukta en trasa med ättika och torka under, på eller bakom de utsatta ställena så tappar katten snabbt intresset. Tänk dock på att ättika är blekande så var försiktig med textilier och vissa målade ytor!"
   },
   "149": {
     "id": 149,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Katten i soffan",
     "description": "Om man vill vänja av katten från att vara i soffan, sängen eller andra möbler, kan man rulla ut aluminiumfolie i dessa. Katter brukar nämligen inte gilla att gå på detta."
   },
   "150": {
     "id": 150,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Kladdfri smulpaj",
     "description": "Det blir mindre kladdigt att baka smulpaj om man använder fryst smör eller margarin som man river grovt på rivjärn när man ska arbeta ihop degen."
   },
   "151": {
     "id": 151,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Kladdiga burgare",
     "description": "Om man har hamburgerkalas hemma kan man lägga hamburgarna i vanliga kaffefilter vid servering så kladdar och rinner det mindre! Vid barnkalas kan det även vara roligt att dekorera filtren innan!"
   },
   "152": {
     "id": 152,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Klippt klo i pulpan",
     "description": "Om man klipper klorna på hunden eller katten och råkar klippa i pulpan så att det börjar blöda, så stoppar man snabbt blödningen genom att doppa klon i potatismjöl!"
   },
   "153": {
     "id": 153,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Klistermärken 1",
     "description": "Klistermärken kan man enkelt få bort från de flesta ytor genom att blåsa med hårtorken på de tills klistret på baksidan smälter. Då lossnar de nästan av sig självt."
   },
   "154": {
     "id": 154,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Klistermärken 2",
     "description": "Klister från hårda material, från till exempel prislappar eller etiketter, kan man få bort genom att först gnugga med olivolja och sedan tvätta rent med diskmedel. Detta fungerar även efter gamla klistermärken."
   },
   "155": {
     "id": 155,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Klister på kläderna",
     "description": "Pysslande barn kan ofta få klister på kläderna, vilket kan vara svårt att få bort. Men gnider man in klisterfläckarna med lite matolja precis före textil så går det enkelt!"
   },
   "156": {
     "id": 156,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Kokt ägg?",
     "description": "Om man brukar spara på kokta ägg som har blivit över och inte är säker på om ägget är kokt eller rått, så kan man ta reda på det genom att snurra på ägget på en plan yta. Om ägget är rått snurrar det väldigt långsamt och svajigt, om det däremot är kokt snurrar det snabbt och smidigt!"
   },
   "157": {
     "id": 157,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Krispiga rädisor",
     "description": "Rädisor håller sig mycket fräschare och krispigare om man förvarar de i en skål med vatten i kylskåpet."
   },
   "158": {
     "id": 158,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Kristallklara fönster",
     "description": "Om man avslutar fönsterputsningen med en ättika- och vattenblandning så får man kristallglans på fönstrena. 1-2 korkar ättika per liter vatten brukar vara lagom."
   },
   "159": {
     "id": 159,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Kristallkronan",
     "description": "För att undvika en massa kladd på mattor eller golv när man ska göra rent kristallkronan kan man hänga ett paraply upp-och-ner under kronan. När man sedan sprayar kristallerna med kristallrengöringsmedel faller överflödig spray direkt ner i paraplyet!"
   },
   "160": {
     "id": 160,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Krita på väggen",
     "description": "Gnugga försiktigt på kritstrecket med vanlig (vit) tandkräm, och torka sedan av med en våt trasa. Se till så att tapeten eller väggfärgen tål väta först!"
   },
   "161": {
     "id": 161,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Kromdetaljer",
     "description": "Detaljer i krom kan man putsa rena och blanka med en bit fuktad aluminiumfolie!"
   },
   "162": {
     "id": 162,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Krukväxtnäring",
     "description": "När man kokar potatis kan man spara potatisvattnet och låta det svalna. Spä ut det med ytterligare lite kallt vatten och vattna krukväxterna med det."
   },
   "163": {
     "id": 163,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Kur mot baksmälla 1",
     "description": "En riktigt bra kur mot baksmälla är att blanda 1 äggula, 2 tsk snabbkaffepulver, 1 msk olivolja och saften av en citron. Håll för näsan och klunka, och efter ungefär en kvart mår man som man lever igen!"
   },
   "164": {
     "id": 164,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Kur mot baksmälla 2",
     "description": "För att slippa baksmälla efter en utekväll ska man dricka lite vispgrädde det sista man gör innan man går och lägger sig."
   },
   "165": {
     "id": 165,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Kur mot torrt hår",
     "description": "Om håret är torrt och risigt kan man ta en halv kopp vanlig majonnäs och gnugga in i torrt och otvättat hår. Täck håret med en plastpåse eller linda plastfolie runt och låt sitta i ungefär 15 minuter. Skölj ur med rikligt med vatten och tvätta sedan håret med ditt vanliga schampo tills alla rester är borta."
   },
   "166": {
     "id": 166,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Kylda drycker",
     "description": "Om man vill kyla en dryck och inte har tillgång till kylskåp kan man vira en uppblött handduk runt burken eller flaskan och sedan ställa den i drag, gärna korsdrag. Efter en halvtimme är drycken kall och god."
   },
   "167": {
     "id": 167,
-    "categories": ["clothes", "cleaning"],
+    "categories": [
+      "clothes",
+      "cleaning"
+    ],
     "title": "Kåda på kläder",
     "description": "Smörj in kåd-fläcken med lite margarin och tvätta sedan som vanligt."
   },
   "168": {
     "id": 168,
-    "categories": ["cleaning", "body"],
+    "categories": [
+      "cleaning",
+      "body"
+    ],
     "title": "Kåda på händerna",
     "description": "Gnid in kådan med lite smör, torka av, och kådan är borta!"
   },
   "169": {
     "id": 169,
-    "categories": ["hobby", "cleaning"],
+    "categories": [
+      "hobby",
+      "cleaning"
+    ],
     "title": "Ljusstumpar",
     "description": "Ljusstumpar som har brunnit ända ner i ljusstaken går enkelt att få upp med hjälp av en vinkorksskruv."
   },
   "170": {
     "id": 170,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Luddfri fönsterpolering",
     "description": "Torka av och polera fönstren med ihopknycklat tidningspapper när man tvättat dem, så blir de kristallklara och rena utan en massa små luddbitar eller ränder!"
   },
   "171": {
     "id": 171,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Luftigare bullar",
     "description": "Om man tillsätter ett par teskedar bakpulver när man gör vetedeg så blir bullarna luftigare!"
   },
   "172": {
     "id": 172,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Luktande matlådor",
     "description": "Om man har matlådor i plast som har tagit åt sig lukt kan man låta de stå en stund med hett vatten och en matsked kaffepulver i. Diska efter som vanligt och lukten är borta!"
   },
   "173": {
     "id": 173,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Lättskalade ägg",
     "description": "De kokta äggen blir enklare att skala om man kokar dem i saltat vatten, och sedan börjar skala äggen från botten, från den bredaste delen!"
   },
   "174": {
     "id": 174,
-    "categories": ["food", "body"],
+    "categories": [
+      "food",
+      "body"
+    ],
     "title": "Löklukt på händerna",
     "description": "För att få bort löklukten från händerna när man har skurit lök kan man antingen ta kniven man skurit löken med, hålla i knivbladet med händerna samtidigt som man sköljer med kallt vatten, eller så kan man gnugga händerna mot en diskbänk i stål medan man tvättar dem."
   },
   "175": {
     "id": 175,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Maginfluensa",
     "description": "Om man vill undvika att bli smittad när någon i ens närhet insjuknar i maginfluensa ska man så tidigt som mäjligt svälja 5-10 hela vitpepparkorn med lite vatten."
   },
   "176": {
     "id": 176,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Magsjuka 1",
     "description": "Har man oturen att bli magsjuk hjälper det att dricka avslagen coca cola."
   },
   "177": {
     "id": 177,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Magsjuka 2",
     "description": "Mot magsjuka och kräkningar hjälper det att dricka lite blåbärssoppa. Det lugnar magen, man slutar kräkas, och soppan innehåller c-vitaminer och antioxidanter."
   },
   "178": {
     "id": 178,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Magsjuka och små barn",
     "description": "Om ens barn har blivit drabbad av svår magsjuka fungerar det att riva ett äpple o låta det stå framme tills det har blivit brunt, och sedan matar man barnet med det. Det bruna äpplet neutraliserar magsyran samtidigt som barnet får i sig snabba kolhydrater och får energi direkt."
   },
   "179": {
     "id": 179,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Magsmärtor",
     "description": "Vid tillfälliga magsmärtor kan man dricka varmt vatten med lite socker i. Lindrar snabbt och säkert, samt hjälper vid matsmältningen."
   },
   "180": {
     "id": 180,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Maska på strumpbyxan",
     "description": "När man bär strumbyxor är det alltid bra att ha en flaska ofärgat nagellack i handväskan. Har olyckan varit framme så kan man bara pensla lite på ändarna av maskan så blir den åtminstone inte större!"
   },
   "181": {
     "id": 181,
-    "categories": ["outdoors"],
+    "categories": [
+      "outdoors"
+    ],
     "title": "Mer mossa",
     "description": "Om man vill ha vacker mossa på stenar och liknande material i trädgården kan man pensla yoghurt på stenen eller cementen. Då sprider sig mossan fortare."
   },
   "182": {
     "id": 182,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Mildare lök",
     "description": "Om man har hackat lök till sallader och dylikt, blir den mildare för både mage och andedräkt om man låter den ligga i vatten i tio minuter efter att man har hackat den och innan den används."
   },
   "183": {
     "id": 183,
-    "categories": ["food", "outdoors"],
+    "categories": [
+      "food",
+      "outdoors"
+    ],
     "title": "Morotsflugor",
     "description": "Om man, när man planterar morötter, sätter varannan rad med lök så håller sig morotsflugorna borta!"
   },
   "184": {
     "id": 184,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Myggbett 1",
     "description": "Myggbett lindras bäst genom att gnida en halv lök mot utslaget. Man kan även prova att gnida bettet med en tvålbit för att lindra klådan."
   },
   "185": {
     "id": 185,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Myggbett 2",
     "description": "Om man får ett myggbett och inte har någon lindring till hands kan man göra ett kryss på bettet med nageln och sedan smörja in det med lite saliv."
   },
   "186": {
     "id": 186,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Mogna tomater",
     "description": "Om man odlar tomater själv och de inte hunnit bli röda, så kan man linda in dem en och en i en bit toalettpapper och lägga dem tätt ihop i en glasburk. Låt burken stå mörkt, i exempelvis skafferiet, så mognar de och blir röda i alla fall!"
   },
   "187": {
     "id": 187,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Muggringar på bord",
     "description": "Om man har råkat ställa en varm kopp på ett mörkt träbord är det lätt att det bildas vita ringar från koppen. För att få bort dessa tar man ett helt vanligt utskriftspapper, lägger det på fläcken och stryker lite på det."
   },
   "188": {
     "id": 188,
-    "categories": ["vermin"],
+    "categories": [
+      "vermin"
+    ],
     "title": "Myror 1",
     "description": "Ett knep mot myror inne är att strö ut malen kanel över trösklar och kanter. Myrorna skyr lukten och det är både enkelt, billigt och ofarligt för barn och husdjur!"
   },
   "189": {
     "id": 189,
-    "categories": ["vermin"],
+    "categories": [
+      "vermin"
+    ],
     "title": "Myror 2",
     "description": "Häll ut light-saft längs myrvägen, nära deras väg in till huset, kanske utanför tröskeln? Myrorna dricker saften men kan inte göra sig av med det artificiella sötningsmedlet som finns i light-saften, så de dör snart och efter ett par dagar finns inte en enda myra kvar."
   },
   "190": {
     "id": 190,
-    "categories": ["vermin"],
+    "categories": [
+      "vermin"
+    ],
     "title": "Myror 3",
     "description": "Mot myror kan man använda pudersocker blandat med bakpulver som lockbete. Detta blir inte så populärt i längden, så myrorna äter och försvinner sedan."
   },
   "191": {
     "id": 191,
-    "categories": ["cleaning", "bathroom"],
+    "categories": [
+      "cleaning",
+      "bathroom"
+    ],
     "title": "Mögligt duschdraperi",
     "description": "Om man drar längs underkanten av ett duschdraperi med ett papper eller en bomullstuss indränkt i matolja så förhindrar man mögelbildning och draperiet håller sig fint och rent."
   },
   "192": {
     "id": 192,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Mögliga kläder",
     "description": "Om man har glömt fuktiga kläder någonstans så de har börjat mögla, så kan man lägga de i en balja med vatten och hälla på en liter filmjölk. Efter ett dygn kan man tvätta kläderna som vanligt och mögelfläckarna är borta."
   },
   "193": {
     "id": 193,
-    "categories": ["hobby", "clothes"],
+    "categories": [
+      "hobby",
+      "clothes"
+    ],
     "title": "Mönsterpapper",
     "description": "Om man målar egna mönster och får slut på vanligt mönsterpapper eller ska sy mindre saker, så går det utmärkt att använda tidningspapper istället. Det är både starkare oc bättre för miljön. Var dock försiktig vid användning av ljusa tyger på grund av eventuell trycksvärta."
   },
   "194": {
     "id": 194,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Mördarsniglar 1",
     "description": "Nötter och nötskal som man har malt ner till en röra och placerat ut i strängar kan stoppa mördarsniglarna. Man kan också pröva med kastanjer eftersom mördarsniglarna inte tål detta."
   },
   "195": {
     "id": 195,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Mördarsniglar 2",
     "description": "Mördarsniglarna är inga kaffeälskare och krälar åt ett annat håll om man sprider ut kaffesump runt kanterna i hela trädgården."
   },
   "196": {
     "id": 196,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Mördarsniglar 3",
     "description": "Uteväxter i kruka kan man skydda mot mördarsniglar genom att dra koppartejp runt krukans kant."
   },
   "197": {
     "id": 197,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Mördarsniglar 4",
     "description": "Sniglar dras till starka dofter, och är särdeles förtjusta i öl. Om man gräver ner en skål med öl så att bara lite av kanten sticker upp, kryper sniglarna ner och drunknar."
   },
   "198": {
     "id": 198,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Nariga läppar",
     "description": "Smörj in nariga och trasiga läppar med honung! Vill man få bort det hårda kan man efter 5 minuter gnugga lite försiktigt på läpparna med en mjuk tandborste."
   },
   "199": {
     "id": 199,
-    "categories": ["plants"],
+    "categories": [
+      "plants"
+    ],
     "title": "Nejlikor",
     "description": "Om man ställer nejlikor i sockerdricka istället för vatten så håller de sig mycket längre."
   },
   "200": {
     "id": 200,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Noppor",
     "description": "Noppor på tyget i kläder och möbler går att få bort genom att raka textilierna med en vanlig engångsrakhyvel. Se dock till att hyveln är vass och att tyget är ordentligt sträckt, och var försiktig så att inte för mycket följer med!"
   },
   "201": {
     "id": 201,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Nya målarpenslar",
     "description": "Nya penslar släpper ofta borst i målarfärgen. Kamma penseln först med en fintandad kam så undviker man detta."
   },
   "202": {
     "id": 202,
-    "categories": ["furniture"],
+    "categories": [
+      "furniture"
+    ],
     "title": "Ny skinnsoffa",
     "description": "Med sadeltvål från hästsportaffären blir skinnsoffan nästan som ny! Blöt en svamp med sparsamt med vatten, det ska inte rinna men man ska kunna arbeta upp ett löddder, skrubba soffan med sadeltvål och tvätta sedan av den med vatten. Efterpolera soffan med en ren handduk."
   },
   "203": {
     "id": 203,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Nyttigare köttbullar",
     "description": "Köttbullarna blir både perfekt runda och får fin färg, och blir nyttigare om man istället för att steka dem, kokar dem med en buljongtärning och lite soja i vattnet!"
   },
   "204": {
     "id": 204,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Nytvättad doft",
     "description": "Om man plötsligt ska få gäster och inte hunnit skura kan man blöta en handduk eller annat tygstycke i lite vatten med sköljmedel i. Häng sedan upp på elementet så sprider sig en nytvättad doft i huset eller lägenheten!"
   },
   "205": {
     "id": 205,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Nötallergi",
     "description": "För nötallergiker kan man pröva att rosta havregryn i ugnen med lite salt som ett alternativ till nötter som snacks."
   },
   "206": {
     "id": 206,
-    "categories": ["outdoors"],
+    "categories": [
+      "outdoors"
+    ],
     "title": "Ogräsfritt",
     "description": "Vill man slippa ogräs i rabatten de närmsta 3 åren på ett miljövänligt sätt, kan man lägga ut gamla dagstidningar som ett täcke i rabatten. Ovanpå tidningarna lägger man täckbark i ett tjockt lager. Tidningarna kommer att försvinna av sig själva och man behåller dessutom fukten i rabatten en varm sommar!"
   },
   "207": {
     "id": 207,
-    "categories": ["cleaning", "body"],
+    "categories": [
+      "cleaning",
+      "body"
+    ],
     "title": "Oljiga händer 1",
     "description": "Om man har reparerat sin cykel eller något annat och fått smutsiga och oljiga händer, får man rena och fina fingrar igen snabbt och effektivt genom att tvätta sina händer i lite matolja först, eftersom olja löser upp olja. Avsluta med vanlig handtvål."
   },
   "208": {
     "id": 208,
-    "categories": ["cleaning", "body"],
+    "categories": [
+      "cleaning",
+      "body"
+    ],
     "title": "Oljiga händer 2",
     "description": "Om man har fått olja på händerna efter till exempel en garagevistelse, kan man skrubba händerna med vanligt tvättmedel för kläder, och sedan tvätta händerna med tvål som vanligt."
   },
   "209": {
     "id": 209,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Omogen avokado 1",
     "description": "Om avokadon är hård och omogen , så kan man få den att mogna mycket snabbare genom att lägga den tillsammans med tomater."
   },
   "210": {
     "id": 210,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Omogen avokado 2",
     "description": "Avokadon mognar snabbare om man lindar in den i tidningspapper!"
   },
   "211": {
     "id": 211,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Omogen avokado 3",
     "description": "Avokadon blir snabbare mogen om man lägger den i en papperspåse tillsammans med ett äpple."
   },
   "212": {
     "id": 212,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i halsen 1",
     "description": "Om man har ont i halsen kan man lösa upp ungefär 1 msk salt i ett halvt glas ljummet vatten och gurgla med. Förkylningsbakterierna trivs nämligen inte i den miljön."
   },
   "213": {
     "id": 213,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i halsen 2",
     "description": "Om man har ont i halsen, är förkyld eller har feber, kan man tugga på och svälja en liten bit skalad färsk ingefära några gånger per dag för snabbare tillfrisknande."
   },
   "214": {
     "id": 214,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i halsen 3",
     "description": "Om man har ont i halsen kan man hacka 1-2 cm färsk ingefära och 2-3 vitlöksklyftor grovt. Lägg i en kastrull med 2 stora koppar vatten och häll i flytande honung och citronsaft. Låt koka i 10 min och drick sedan. Upprepa ett par gånger tills halsen känns bättre."
   },
   "215": {
     "id": 215,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i öronen 1",
     "description": "Om man brukar få ont i öronen när man är förkyld brukar det hjälpa att stoppa en bit lök i öronen en stund."
   },
   "216": {
     "id": 216,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i öronen 2",
     "description": "Om man har ont i öronen, och början till öroninflammation, kan man ta vanligt hushållssalt i en liten bit bomullstyg. Knyt till så att det blir ett litet knyte, eller vira tråd runt och knyt så att inget salt kan läcka ut. Stoppa in påsen i innerörat och håll på plats tills värken försvinner!"
   },
   "217": {
     "id": 217,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i öronen 3",
     "description": "Om man har ont i öronen kan man prova att dela en rå lök och hålla den mot det värkande örat i minst 5 minuter. Löken både lindrar smärtan och har en antibiotisk effekt!"
   },
   "218": {
     "id": 218,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i öronen 4",
     "description": "Vid öronvärk eller öroninflammation kan man lägga lite olivolja i en tesked tillsammans med hackad lök och värma upp oljan genom att elda under skeden. Droppa sedan några drppar av oljan i örat, efter att den svalnat, och stoppa in en bomullstuss, så läker det snabbare."
   },
   "219": {
     "id": 219,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Ont i öronen 5",
     "description": "Öroninflammation brukar försvinna på några timmar om droppar 3-5 droppar löksaft i örat."
   },
   "220": {
     "id": 220,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Ost som möglar",
     "description": "Om man har problem med ost som möglar fort kan man pröva att förvara den i en plastburk med tättslutande lock tillsammans med ett par sockerbitar, då håller den längre."
   },
   "221": {
     "id": 221,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Ovanpå Köksskåpen",
     "description": "Det blir ganska snabbt flottigt ovanpå köksskåpen om de inte går ända upp till taket. Om man då rullar ut plastfolie ovanpå skåpen blir det lättare att grovstäd & rengöringa köket. Då är det bara att ta bort plastfolien, torka av överflödigt damm och fett och sedan lägga ut ny plast."
   },
   "222": {
     "id": 222,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Pastavattnet kokar över",
     "description": "När man kokar spaghetti eller potatis är det lätt att vattnet kokar över. Men genom att hälla en liten skvätt olja i vattnet när man kokar kan man markant minska bubblorna och därmed risken för att det kokar över."
   },
   "223": {
     "id": 223,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Pirog- eller smördeg",
     "description": "Om man har en pastamaskin kan man även använda denna till att snabbt och enkelt kavla ut pirog- eller smördeg."
   },
   "224": {
     "id": 224,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Potatis som gror",
     "description": "Om man har potatis hemma så börjar den efter ett tag att gro, men om man lägger ett äpple i potatispåsen så förhindrar man detta."
   },
   "225": {
     "id": 225,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Pressveck",
     "description": "För att få riktigt skarpa pressveck när man stryker finbyxor kan man lägga en bit folie mellan tyget och strykjärnet."
   },
   "226": {
     "id": 226,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Prislappar 1",
     "description": "Klistriga prislappar kan ibland vara svåra att få bort, men sätter man lite margarin på lappen och låter verka nån timme så lossnar den snyggt och lätt sedan."
   },
   "227": {
     "id": 227,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Prislappar 2",
     "description": "När man köper nya fina glas sitter det oftast prislappar i botten eller under foten, droppar man då några droppar bensin (av samma märke som aceton) på lappen och väntar en stund så är det sedan lätt att ta bort dom."
   },
   "228": {
     "id": 228,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Putsa koppar",
     "description": "Koppar- och mässingsföremål kan man hålla blanka och fina genom att putsa dem med en blandning av ättika och salt."
   },
   "229": {
     "id": 229,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Putsa silver 1",
     "description": "För att göra rent silver utan giftiga silverputsningsmedel så tar man aluminiumfolie och lägger på botten av en bunke med så flat botten som möjligt, häller i två matskedar bordssalt och vanligt hett vatten. När man sedan lägger i silvret och det nuddar folien så försvinner smutsen utan att man behöver gnugga och borsta."
   },
   "230": {
     "id": 230,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Putsa silver 2",
     "description": "Silver som blivit mörkt kan man putsa med ketchup eller tandkräm, då behövs inga speciella starka putsningsmedel."
   },
   "231": {
     "id": 231,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Putsa silver 3",
     "description": "Koka silvret i vatten med en skvätt ättika i, så blir det blankt igen utan starka rengöringsmedel!"
   },
   "232": {
     "id": 232,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Pälsdetaljer",
     "description": "Detaljer eller hela plagg av konstgjord päls kan rengöras genom att man sprayar på vanligt torrschampo som man sedan borstar ur."
   },
   "233": {
     "id": 233,
-    "categories": ["outdoors"],
+    "categories": [
+      "outdoors"
+    ],
     "title": "Rabarber",
     "description": "För att driva upp rabarberplantor snabbare kan man ge dem både värme och ljus samtidigt som plantan är skyddad, genom att lägga en glasskiva på några stenar över jorden ovanpå plantan."
   },
   "234": {
     "id": 234,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rena besticklådor",
     "description": "När man dammsuger i köket kan man göra till en vana att även dammsuga besticklådorna, genom att trä en ren nylonstrumpa över röret på dammsugaren. Smutsen från lådn fastnar i strumpan och smutsen från dammsugaren sprids inte till bestick och redskap."
   },
   "235": {
     "id": 235,
-    "categories": ["cleaning", "kitchen", "bathroom"],
+    "categories": [
+      "cleaning",
+      "kitchen",
+      "bathroom"
+    ],
     "title": "Rena fogar 1",
     "description": "Smutsiga fogar kan man göra rent genom att blöta dem med ättika, låta dra i 10 minuter, och sedan skrubba med en rotborste."
   },
   "236": {
     "id": 236,
-    "categories": ["cleaning", "kitchen", "bathroom"],
+    "categories": [
+      "cleaning",
+      "kitchen",
+      "bathroom"
+    ],
     "title": "Rena fogar 2",
     "description": "Om man har fått mögel i skarvarna mellan kaklet i bad- eller duschrummet så kan man spruta på vitvinsvinäger med en blomspruta så försvinner det lätt och kommer inte tillbaka på länge."
   },
   "237": {
     "id": 237,
-    "categories": ["cleaning", "kitchen", "bathroom"],
+    "categories": [
+      "cleaning",
+      "kitchen",
+      "bathroom"
+    ],
     "title": "Rena fogar 3",
     "description": "Rena fogar i duschen får man om man blandar ihop en pasta av ättika, bikarbonat och potatismjöl. Duscha fogarna med hett vatten, smeta in pastan i fogarna, och låt stå i några timmar (gärna över en natt). Tvätta sedan och skrubba med till exempel en gammal tandborste så blir fogarna som nya igen!"
   },
   "238": {
     "id": 238,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rena kastruller",
     "description": "Om man häller ättika och vatten i kastruller eller andra rostfria kärl och låter det stå en stund innan man diskar så blir de blanka och rena."
   },
   "239": {
     "id": 239,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Rena persienner",
     "description": "Persienner går snabbt att damma om man tar på sig ett par gamla stickade vantar och drar fingrarna mellan persiennerna. Behöver man våttorka persiennerna kan man bara blöta vantarna och göra på samma sätt!"
   },
   "240": {
     "id": 240,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Rena ventiler",
     "description": "Ventilerna blir enkla att komma åt om man lindar en disktrasa runt en vanlig matkniv och doppar den i vatten och såpa. Detta fungerar även för rengöring av andra trånga utrymmen."
   },
   "241": {
     "id": 241,
-    "categories": ["cleaning", "jewelry"],
+    "categories": [
+      "cleaning",
+      "jewelry"
+    ],
     "title": "Rengöra smycken",
     "description": "Rengör dina smycken och andra ädelmetaller genom att klä insidan av en skål med aluminiumfolie. Fyll den klädda skålen med varmt vatten och häll i lite bakpulver. Låt sedan smyckena ligga i skålen ett tag och de får tillbaka sin glans och lyster igen."
   },
   "242": {
     "id": 242,
-    "categories": ["cleaning", "bathroom"],
+    "categories": [
+      "cleaning",
+      "bathroom"
+    ],
     "title": "Rent badkar 1",
     "description": "Om man vill att badkaret ska bli rent och fläckfritt, kan man ta bort fläckar med en ituskuren citron. Om man först doppar citronen i salt eller varm ättika blir rengöringen ännu mer effektiv."
   },
   "243": {
     "id": 243,
-    "categories": ["cleaning", "bathroom"],
+    "categories": [
+      "cleaning",
+      "bathroom"
+    ],
     "title": "Rent badkar 2",
     "description": "Om badkaret har gulnat kan man smörja in det med grön såpa. Låt den sitta kvar några timmar och skölj av med vatten så blir badkaret skinande vitt!"
   },
   "244": {
     "id": 244,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rent grillgaller 1",
     "description": "Om man bor i ett hus med trädgård kan man efter grillningen lägga gallret i gräset över natten, fukten och morgondaggen löser upp smutsen så gallret är enkelt att torka av dagen efter!"
   },
   "245": {
     "id": 245,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rent grillgaller 2",
     "description": "Diska grillgallret med Coca Cola så löses smutsen upp lättare än med diskmedel och vatten."
   },
   "246": {
     "id": 246,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rent grillgaller 3",
     "description": "Grillgallret gnuggas enkelt rent med lite ihoskrynklad aluminiumfolie i varmt vatten!"
   },
   "247": {
     "id": 247,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rent grillgaller/ugnsplåt",
     "description": "Gnid in gallret eller plåten med brunsåpa och lägg i folie. Låt verka över natten och skölj sedan av."
   },
   "248": {
     "id": 248,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Ren kaffebryggare",
     "description": "Börjar kaffet smaka dåligt kan det vara dags för en rengöring av kaffebryggaren. Blanda 1 del ättika med 4 delar vatten och kör genom bryggaren, utan kaffe i förstås, så blir den ren och fin. Kör en extra omgång efteråt med bara vatten innan man brygger kaffet."
   },
   "249": {
     "id": 249,
-    "categories": ["cleaning", "hobby"],
+    "categories": [
+      "cleaning",
+      "hobby"
+    ],
     "title": "Rengöra whiteboard",
     "description": "En whiteboardtavla kan man göra rent med vanligt kaffe (bryggt, ej pulver) istället för med starka rengöringsmedel. Den blir lika ren, och dessutom lämnar kaffet en skyddande hinna på tavlan som gör att den håller sig ren längre!"
   },
   "250": {
     "id": 250,
-    "categories": ["cleaning", "hobby"],
+    "categories": [
+      "cleaning",
+      "hobby"
+    ],
     "title": "Repor i trägolv",
     "description": "Repor eller mindre skador i trägolv går snabbt att dölja om man drar en osaltad jordnöt över skadan."
   },
   "251": {
     "id": 251,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Rester av havregrynsgröt",
     "description": "Blir det havregrynsgröt över efter frukosten kan man blanda ner ett ägg, lite socker och ett par skedar vetemjöl så har man smet till nyttiga och goda frukostplättar!"
   },
   "252": {
     "id": 252,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Rinnande glasstrutar",
     "description": "Om man trycker en lite skumgodis i botten på glasstruten när man gör hemmagjorda glasstrutar så undviker man att glassen rinner ut ur botten av struten när den smälter, och barnen får en liten överraskning när de har ätit upp!"
   },
   "253": {
     "id": 253,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rostfria vitvaror 1",
     "description": "Man får lätt fingeravtryck på sina rostfria vitvaror. Dessa får man bort enkelt genom gnida på dem med vanligt hushållspapper doppat i lite mineralvatten."
   },
   "254": {
     "id": 254,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rostfria vitvaror 2",
     "description": "Om man putsar rostfria fläktar eller kylskåp med matolja, blir de blanka och inte flammiga!"
   },
   "255": {
     "id": 255,
-    "categories": ["plants"],
+    "categories": [
+      "plants"
+    ],
     "title": "Rosor som håller 1",
     "description": "För att få rosor att hålla längre ska man ställa dem så svalt som möjligt på nätterna. Allra bäst är att lägga dem i badkaret täckta med kallt vatten över nätterna. Lägg i så fall en tyngd över stjälkarna så de inte flyter upp."
   },
   "256": {
     "id": 256,
-    "categories": ["plants"],
+    "categories": [
+      "plants"
+    ],
     "title": "Rosor som håller 2",
     "description": "Om rosorna i vasen börjat nicka med huvudet kan man linda lite folie runt blommans hals för att stadga den uppåt, skära ett nytt snitt i stjälken och ställa den i kokhett vatten en stund. Efter ett tag står blomman upp igen, och det håller sig länge! Se dock till att skydda själva blomman från vattenångan med silkespapper eller liknande."
   },
   "257": {
     "id": 257,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rostfläckar 1",
     "description": "Har man fått rostfläckar på diskbänken eller runt kranen, kan man gnugga fläckarna med en lökhalva så försvinner de."
   },
   "258": {
     "id": 258,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rostfläckar 2",
     "description": "Rostfläckar kan tas bort med koncentrerad vinsyra eller citronsyra. Annars kan man blöta fläcken, hälla på citronsaft, stryka med varmt strykjärn och sedan tvätta."
   },
   "259": {
     "id": 259,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Rostiga metallföremål",
     "description": "Dessa kan man lägga i cola över natten så försvinner rosten."
   },
   "260": {
     "id": 260,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Rullader",
     "description": "Både miljövänligare och billigare blir det om man använder okokt spaghetti istället för tandpetare när man gör rullader och baconinlindade biffar."
   },
   "261": {
     "id": 261,
-    "categories": ["vermin", "outdoors", "animals"],
+    "categories": [
+      "vermin",
+      "outdoors",
+      "animals"
+    ],
     "title": "Rådjur",
     "description": "Om man har problem med att rådjur och andra djur äter på växterna under vintern kan man under sommartid vattna dem med vatten blandat med vitlök. På så sätt blir växternas skott inte så goda för djuren."
   },
   "262": {
     "id": 262,
-    "categories": ["vermin", "animals"],
+    "categories": [
+      "vermin",
+      "animals"
+    ],
     "title": "Råttor",
     "description": "Har man fått möss eller råttor i källaren eller på vinden kan man strö ut vitlökspulver, det tycker inte råttorna om."
   },
   "263": {
     "id": 263,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Rödvinsfläckar",
     "description": "Både torra och blöta rödvinsfläckar kan man koka bort. Dutta fläcken i en kastrull med kokande vatten så ser man fläcken lösas upp nästan direkt! Använd inte salt eftersom det istället tränger in i fibrerna och stadgar fläcken."
   },
   "264": {
     "id": 264,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Sega bullar",
     "description": "Om man tinar bröd i micron blir de lätt sega och hårda om de får svalna i rumstemperatur. Kyl snabbt ner brödet eller bullarna i frysen istället så blir de mycket bättre."
   },
   "265": {
     "id": 265,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Sista osten",
     "description": "När osten börjar ta slut och blir så där tråkig och hård i kanterna kan man riva den eller bryta den i småbitar och förvara i frysen. På så vis finns det alltid färdigriven ost hemma till gratänger och annan matlagning, man slipper äta ost med tråkiga kanter, och man behöver inte slänga mat!"
   },
   "266": {
     "id": 266,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Självsprickor",
     "description": "Självsprickor kan vara svåra att bli av med, men prova att lägga superlim på sprickan nästa gång så läker det snabbare. Var dock försiktig så att inga andra kroppsdelar limmas fast oavsiktligt!"
   },
   "267": {
     "id": 267,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Skallighet",
     "description": "Ett gammalt knep för att råda bot på ett begynnande håravfall är att göra en dekokt på björkblad som man baddar hårbotten med morgon och kväll. På våren och försommaren när de FÖRSTA björkbladen kommer ska man gå ut och samla en mängd blad. Man avgör själv hur mycket man ska samla ihop beroende på hur stark dekokt man vill ha och hur mycket man vill göra, men lagom är ungefär 1 l björkblad till 1 l vatten. Koka upp vattnet och häll i bladen. Låt stå och koka i 2-3 minuter, sila bort bladen. Låt svalna och häll upp på flaskor, gärna med spraymunstycke för lättare applicering!"
   },
   "268": {
     "id": 268,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Skiva champinjoner",
     "description": "Skiva färska champinjoner gör man snabbt och lätt med en vanlig äggskärare, och skivorna blir dessutom jämntjocka och fina!"
   },
   "269": {
     "id": 269,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Skoskav",
     "description": "Om man får skav av sina skor kan man lägga dem i ugnen i 70 graders värme i ca 7 minuter. Sätt dem på fötterna omedelbart efteråt så formas skorna efter dina fötter!"
   },
   "270": {
     "id": 270,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Skrovliga armbågar",
     "description": "Skrovliga armbågar blir mjuka och fina om man delar en citron och sitter med en armbåge i varje halva i 15 minuter. Smörj efteråt med olja eller en rik kräm."
   },
   "271": {
     "id": 271,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Skrynkliga kläder",
     "description": "Om kläderna är mycket skrynkliga kan man fukta dem med vatten i en sprayflaska, lägga dem i en påse i kylen en stund och sedan stryka dem med ett ångstrykjärn. Då går det enkelt att få plaggen släta och snygga!"
   },
   "272": {
     "id": 272,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Skrynklig paprika",
     "description": "När paprikan börjar bli lite skrynklig kan man lägga den i en skål kallt vatten i kylen så blir den snart fräsch igen!"
   },
   "273": {
     "id": 273,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Spara ölen",
     "description": "Vill man spara en halvtom ölflaska, eller ett mousserande vin, utan att den blir avslagen ska man försöka förvara den upp-och-ner. Då stiger kolsyran uppåt och bevaras längre."
   },
   "274": {
     "id": 274,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Skuren sås",
     "description": "Om såsen skär sig för att den råkat bli för fet, kan några droppar kallt vatten göra underverk."
   },
   "275": {
     "id": 275,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Skärbrädan",
     "description": "Rengör skärbrädan med handsprit då och då för att få bort bakterier som annars lagras. Tvätta ordentligt med vatten och låt torka efteråt."
   },
   "276": {
     "id": 276,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Slemhosta",
     "description": "Prova att dricka kolsyrat vatten vid slemhosta istället för hostmedecin. Kolsyrat vatten är också slemlösande och smakar så mycket bättre!"
   },
   "277": {
     "id": 277,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Slö sax",
     "description": "Ett snabbt knep mot en slö sax om man inte har en vässare, är att klippa några klipp med saxen i fin stålull av typen Svinto, saxen blir direkt vass och skarp igen!"
   },
   "278": {
     "id": 278,
-    "categories": ["textile"],
+    "categories": [
+      "textile"
+    ],
     "title": "Slätt linne",
     "description": "Om man inte har en mangel att tillgå, så ska man stryka linnet medan det fortfarande är lite fuktigt efter textil. Är linnet torrt kan man fukta det med vatten i en sprayflaska och lägga det i en plastpåse att par timmar innan man stryker det."
   },
   "279": {
     "id": 279,
-    "categories": ["vermin"],
+    "categories": [
+      "vermin"
+    ],
     "title": "Silverfiskar",
     "description": "Silverfiskar kan man hålla på avstånd genom att stryka ut aromatiska oljor längs med lister, kanter eller glipor."
   },
   "280": {
     "id": 280,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Siraps-slatten",
     "description": "Man får lättare ut det sista ur sirapsflaskan om man spolar utsidan med varmvatten en stund, alternativt värmer flaskan i micron i några sekunder. Sirapen blir då mer lättflytande."
   },
   "281": {
     "id": 281,
-    "categories": ["textile"],
+    "categories": [
+      "textile"
+    ],
     "title": "Skrynkliga gardiner",
     "description": "Om man har skrynkliga gardiner eller dukar hemma, så kan man bara hänga de som vanligt eller lägga på bordet och sedan spraya dem med en vanlig vattenspruta med ljummet vatten. Låt lufttorka, och sedan blir de raka och fina igen!"
   },
   "282": {
     "id": 282,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Slokande kryddor",
     "description": "Om man har dill eller persilja i knippe som slokar, kan man ge den en sista chans genom att ställa den i varm vatten, ca 45-50 grader, en stund, så blir den som ny. Den måste dock användas samma dag, för sedan börjar den sloka igen och efter det är den förstörd."
   },
   "283": {
     "id": 283,
-    "categories": ["furniture", "hobby"],
+    "categories": [
+      "furniture",
+      "hobby"
+    ],
     "title": "Smutsigt piano",
     "description": "Smuts på pianotangenter slipas skonsamt bort med hjälp av tandkräm."
   },
   "284": {
     "id": 284,
-    "categories": ["indoors", "cleaning"],
+    "categories": [
+      "indoors",
+      "cleaning"
+    ],
     "title": "Svettig madrass",
     "description": "När man sover så svettas man lite lite hela tiden, så därför bör madrassen rengöras med jämna mellanrum. Fukten i madrassen kan man suga upp med hjälp av bikarbonat. Häll bikarbonat på madrassen och låt det ligga i 15-30 minuter så att all fukt sugs upp. Dammsug eller borsta av madrassen och gör likadant på andra sidan."
   },
   "285": {
     "id": 285,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig diskho",
     "description": "En smutsig diskho får man enkelt ren och glänsande genom att diska den med bakpulver och lite vatten, låt bakpulvret stå och bubbla en liten stund innan sköljning så löses avlagringar upp!"
   },
   "286": {
     "id": 286,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Smutsig kaffekanna",
     "description": "Kaffekannan i kaffebryggaren kan vara svår att få ren när kaffet har bränts fast. Lite pulvertvättmedel och vatten som får stå en stund i kannan avhjälper enkelt detta problem, och kannan blir i skick som ny igen!"
   },
   "287": {
     "id": 287,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Smutsig kinamatta",
     "description": "En smutsig kinamatta kan man få ren genom att gnugga den med en halva av ett kålhuvud."
   },
   "288": {
     "id": 288,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig micro 1",
     "description": "Placerar man en liten skål med vatten och citronskivor i micron och kör på 700 watt i en minut så luktar den gott sedan, och den blir enkel att torka ur tack vare ångan från vattnet."
   },
   "289": {
     "id": 289,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig micro 2",
     "description": "Lägg en halv citron i micron och kör på full effekt i ca 1 minut. Vänta en stund och torka sedan ur."
   },
   "290": {
     "id": 290,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Smutsig skjortkrage",
     "description": "Om skjortkragen är riktigt smutsig kan man stryka på en blandning av bikarbonat och vinäger på kragen och sedan tvätta som vanligt."
   },
   "291": {
     "id": 291,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Smutsig skål",
     "description": "Om man har en skål med fasttorkad smuts som man ska diska blir det enklare om man fyller den med vatten och kör i micron på full effekt i två minuter. Ångan gör så att smutsen och fettet löser upp sig, men tänk på att skålen är jättevarm när man ska ta ut den!"
   },
   "292": {
     "id": 292,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Smutsig tekanna",
     "description": "En tekanna med beläggningar blir skinande ren om man kokar upp lättmjölk och slår i kannan, och sedan låter det stå tills det svalnat."
   },
   "293": {
     "id": 293,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Små-sår",
     "description": "Om man lägger grodblad på öppna små sår förkortas läkningstiden!"
   },
   "294": {
     "id": 294,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Smördeg",
     "description": "Om man vill undvika att smördegen kletar fast i kaveln när man ska kavla ut den kan man lägga kaveln i frysen en liten stund innan man ska använda den."
   },
   "295": {
     "id": 295,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Smalt ljus",
     "description": "Om ljuset är för smalt för ljusstaken kan man stoppa det i en knäckform och sedan sätta det i ljusstaken."
   },
   "296": {
     "id": 296,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Sotfläckar",
     "description": "Sotfläckar kan tas bort med alkaliskt rengöringsmedel med PH 9-12."
   },
   "297": {
     "id": 297,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Sotig kaminlucka",
     "description": "En sotig lucka på braskaminen blir enkelt ren och klar igen om man putsar den med lite fuktigt hushållspapper doppat i sot från kaminen!"
   },
   "298": {
     "id": 298,
-    "categories": ["outdoors"],
+    "categories": [
+      "outdoors"
+    ],
     "title": "Snöskottning",
     "description": "Att skotta snö kan vara tungt, speciellt om snön är våt. Om man smörjer skyffeln med skidvalla eller änden på ett stearinljus så glider den lättare!"
   },
   "299": {
     "id": 299,
-    "categories": ["textile"],
+    "categories": [
+      "textile"
+    ],
     "title": "Sträcka lakan",
     "description": "Sträcka lakanen kan man göra utan hjälp om man klämmer fast ena änden av lakanet i lådan på en stadig byrå, alterntivt i en dörröppning."
   },
   "300": {
     "id": 300,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Snabb smulpaj",
     "description": "Passa på att göra en stor sats av smulpajsdeg nästa gång, och frys in i tennisbollsstorlek med plastfolie runt, så är det bara att riva med ett rivjärn över frukten eller bären nästa gång man ska göra paj."
   },
   "301": {
     "id": 301,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Snabb pizza",
     "description": "Om man brukar göra egen pizza hemma kan det vara en bra idé att göra en dubbel sats och frysa in en pizzabotten. På så vis behöver man bara göra deg varannan gång."
   },
   "302": {
     "id": 302,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Sockerkakan",
     "description": "Går lättare att stjälpa upp om man sätter formen på en fuktig handduk direkt när man tar ut den ur ugnen."
   },
   "303": {
     "id": 303,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Sorkar 1",
     "description": "Om man har problem med sorkar i trädgården kan man prova att stampa ner snön runt träd och buskar i trädgården. Hårt packad snö gör det svårare för sorkarna att ta sig fram, eftersom de brukar gräva gångar under snön när det blir varmare. Man kan också linda in stammarna i plast eller väv."
   },
   "304": {
     "id": 304,
-    "categories": ["vermin", "outdoors"],
+    "categories": [
+      "vermin",
+      "outdoors"
+    ],
     "title": "Sorkar 2",
     "description": "Om man har problem med sorkar i trädgården kan man prova att dränka en trasa i ättika, och stoppa ner trasan i sorkarnas hål."
   },
   "305": {
     "id": 305,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Smutsig keps/hatt",
     "description": "En smutsig keps eller hatt tappar lätt formen om man tvättar dem i tvättmaskinen. Lägg dem istället i diskmaskinen och tvätta dem där! Diskmaskinsmedlet löser fett och smuts, och maskinen låter passformen vara lika fin som innan!"
   },
   "306": {
     "id": 306,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig termos 1",
     "description": "Lägg en tuss stålull och lite varmt vatten i en smutsig termos och skaka runt. Häll ut och skölj, så är termosen ren igen."
   },
   "307": {
     "id": 307,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig termos 2",
     "description": "Fyll termosen med vatten och lägg i en diskmaskinstablett. Låt stå över natten och skölj noggrant."
   },
   "308": {
     "id": 308,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Smutsig termos 3",
     "description": "För hårt nedsmutsade termosar kan man prova följande: Häll kokande vatten över lite bakpulver i termosen. Var noga med att hälla försiktigt eftersom eftersom bakpulvret börjar bubbla lite och kan svämma över. Låt stå över natten och skölj ordentligt på morgonen så är termosen sedan skinande ren!"
   },
   "309": {
     "id": 309,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Spillt på mattan",
     "description": "Om man har spillt något på mattan så ska man hälla på ganska mycket potatismjöl på det spillda, och låta det torka in. Dammsug sedan upp mjölet och fläcken är borta!"
   },
   "310": {
     "id": 310,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Spillt rödvin",
     "description": "Salt i all ära, men har man spillt rödvin är det mer effektivt att antingen hälla på vitt vin över fläcken, eller att strö potatismjöl över vinet och låta torka upp, så försvinner den. Fläcken får dock inte vara intorkad för dessa tips."
   },
   "311": {
     "id": 311,
-    "categories": ["cleaning", "clothes", "textile"],
+    "categories": [
+      "cleaning",
+      "clothes",
+      "textile"
+    ],
     "title": "Stearin",
     "description": "Om man har fått stearin på dukar eller kläder, så får man bort det genom att lägga på ett kaffefilter eller en bit hushållspapper och stryka på det med strykjärnet. Detta kan man behöva göra flera gånger med nytt papper varje gång tills hela fläcken är borta."
   },
   "312": {
     "id": 312,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Stearinljus",
     "description": "Levande ljus ska man lägga i frysen ett par timmar före användning. Då brinner de både långsammare och jämnare."
   },
   "313": {
     "id": 313,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Stickor",
     "description": "En sticka i fingret kan vara svår att få bort, men om man sätter fingret i en fingerborg, eller annan passande liten form, fylld med olja, så kan man ganska snart klämma ut stickan."
   },
   "314": {
     "id": 314,
-    "categories": ["cleaning", "clothes", "textile"],
+    "categories": [
+      "cleaning",
+      "clothes",
+      "textile"
+    ],
     "title": "Strykjärnsfläckar",
     "description": "Bruna fläckar från ett strykjärn ska genast gnidas med en ren tygtrasa som doppats i ättika."
   },
   "315": {
     "id": 315,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Solbränna 1",
     "description": "Om man har bränt sig i solen och inte har någon after-sun lotion kan man badda det brända med ättika för att lindra svedan."
   },
   "316": {
     "id": 316,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Solbränna 2",
     "description": "Om man har bränt sig i solen kan man lindra svedan genom att göra ett omslag av filmjölk och lägga på det brända området."
   },
   "317": {
     "id": 317,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Spara champagnen",
     "description": "Om man har en halvdrucken flaska champagne eller mousserande utan skruvkork kan man stoppa en tesked av silver eller rostfritt stål i flaskhalsen för att behålla bubblet."
   },
   "318": {
     "id": 318,
-    "categories": ["kitchen", "bathroom"],
+    "categories": [
+      "kitchen",
+      "bathroom"
+    ],
     "title": "Stopp i rören",
     "description": "För att bli av med stopp i rören tar man en fjärdedels kopp bakpulver, och 50 ml vinäger. Blanda det med kokande vatten och häll i avloppet."
   },
   "319": {
     "id": 319,
-    "categories": ["cleaning", "clothes", "textile"],
+    "categories": [
+      "cleaning",
+      "clothes",
+      "textile"
+    ],
     "title": "Svedda fläckar",
     "description": "Svedda fläckar på kläder och textilier kan gå att få bort genom att blanda till en gröt av salt och vatten och låta den ligga på fläcken i upp till 5 timmar."
   },
   "320": {
     "id": 320,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Svettfläckar 1",
     "description": "Svettfläckar under armarna på kläder ska gå bort om man blöter området med en blandning av bikarbonat och vinäger, och sedan tvättar som vanligt."
   },
   "321": {
     "id": 321,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Svettfläckar 2",
     "description": "Svettfläckar kan man doppa i kokande vatten eller tvätta med utspädd ättika eller ättikssprit. Detta tar även bort lukten som kan sitta kvar."
   },
   "322": {
     "id": 322,
-    "categories": ["body", "clothes"],
+    "categories": [
+      "body",
+      "clothes"
+    ],
     "title": "Svett i armhålorna",
     "description": "Om man lider av svett i armhålorna, men ändå vill ha på sig den där speciella toppen eller skjortan, kan man dölja fuktigheten genom att fästa trosskydd på insidan av plagget vid armhålorna."
   },
   "323": {
     "id": 323,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Svårstoppat näsblod",
     "description": "En appläsare har hört att man kan mildra eller till och med stoppa ett svårstoppat näsblod genom att kyla handlederna med tex. iskallt vatten. Vi har ej haft möjlighet att testa detta tips än."
   },
   "324": {
     "id": 324,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Svårt att sova",
     "description": "Om man har svårt att somna kan det hjälpa att placera en lagom stor kudde mellan låren/benen."
   },
   "325": {
     "id": 325,
-    "categories": ["cleaning", "clothes", "textile"],
+    "categories": [
+      "cleaning",
+      "clothes",
+      "textile"
+    ],
     "title": "Sylt och bärfläckar",
     "description": "Ett snabbt och miljövänligt sätt att få bort fläckar från bär och sylt är att doppa fläcken i kokande mjölk i minst 10 minuter. Upprepa vid behov. Detta fungerar på allt från blåbär till jordgubbar!"
   },
   "326": {
     "id": 326,
-    "categories": ["cleaning", "outdoors"],
+    "categories": [
+      "cleaning",
+      "outdoors"
+    ],
     "title": "Ta bort bilstripes",
     "description": "Vill man ta bort en stripe från bilen utan att förstöra lacken ska man först täcka alla plastdetaljer med maskeringstejp. Sedan gnider man på stripen med en bit trassel fuktad i nagellacksremover eller aceton, och sedan går det enkelt att skrapa bort den med en mjuk stekspade i plast. Tvätta efteråt med vatten och såpa. Denna metod är mycket enklare än att stå och slita med värmepistol."
   },
   "327": {
     "id": 327,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Tandvärk",
     "description": "Om man har tandvärk kan man bedöva tandköttet och lindra den värkande tanden, genom att lägga en hel nejlika mot tandköttet vid den aktuella tanden."
   },
   "328": {
     "id": 328,
-    "categories": ["cleaning", "furniture"],
+    "categories": [
+      "cleaning",
+      "furniture"
+    ],
     "title": "Teakmöbler",
     "description": "Om man har fått fuktfläckar på sina teakmöbler kan man ta en fuktig trasa, doppa den i lite aska och sedan smörja fläckarna med den."
   },
   "329": {
     "id": 329,
-    "categories": ["cleaning", "clothes", "textile"],
+    "categories": [
+      "cleaning",
+      "clothes",
+      "textile"
+    ],
     "title": "Tomatfläckar",
     "description": "Tomatfläckar som inte har gått bort i tvätten går bort av sig självt om man hänger ut plagget i solen."
   },
   "330": {
     "id": 330,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Torra bullar",
     "description": "Om bullarna börjar kännas torra och tråkiga kan man pensla dem med lite mjölk eller vatten och ställa dem i varm ugn en liten stund så känns de som nybakta igen!"
   },
   "331": {
     "id": 331,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Torra gummistövlar",
     "description": "När man använder gummistövlar blir man lätt fuktig om fötterna. Då kan man lägga i en dambinda som sula, och man håller sig torr om fötterna eftersom den absorberar fukten. Sulan håller sig även på plats i stöveln eftersom det finns lim på baksidan. Efter några användningar kastar man den gamla och lägger i en ny."
   },
   "332": {
     "id": 332,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Torra händer/fötter",
     "description": "Blanda ihop en klick honung med 1 tsk mandelolja. Smörj in händer och fötter och ta på ett par tunna bomullsvantar och sockor. Låt torka in, ha gärna på blandningen innan sänggåendet och sov med det. Skölj, så är händerna och fötterna mjuka och lena. Fötterna kan dock behöva upprepas ett par nätter om de är mycket torra."
   },
   "333": {
     "id": 333,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Torra händer 2",
     "description": "Gnugga händerna en stund med en halv tesked vanligt salt och några droppar vatten. Skölj, och händerna är lena och mjuka igen! Var dock försiktig om det finns något sår på händerna eftersom saltet då kan svida lite."
   },
   "334": {
     "id": 334,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Torr citronhalva",
     "description": "Om man bara behöver saften från en halv citron eller en klyfta när man lagar mat eller bakar, kan man istället för att skära upp citronen sticka ett par hål i skalet med en tandpetare och klämma ut saften. På så vis håller den sig mycket längre utan att skrumpna."
   },
   "335": {
     "id": 335,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Torrschampoo för brunetter",
     "description": "Blanda en del kakao, en del bakpulver, en del barnpuder och en del kanel. Lägg blandningen i till exempel en sockerströare och använd som torrschampoo om du är brunett!"
   },
   "336": {
     "id": 336,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Tovig päls",
     "description": "Tovor i hundens eller kattens päls går enklare att reda ut med hjälp av en strumpsticka eller en stoppnål. Håll i tovan nära hårbotten, och för in stickan eller nålen flera gånger och dra utåt för att reda ut den innan borstning. Se dock till att hunden eller katten står stilla så att inga olyckor sker!"
   },
   "337": {
     "id": 337,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Trasig ögonskugga",
     "description": "Det finns sätt att rädda en ögonskugga man har tappat i golvet så att den har gått i tusen bitar! Droppa i lite ren sprit som till exempel vodka i skuggan och platta till den med fingrarna till en fin kaka igen. Låt torka över natten och nästa dag är skuggan nästan som ny igen!"
   },
   "338": {
     "id": 338,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Trasiga strumpbyxor",
     "description": "Trasiga strumpbyxor kan man återanvända genom att klippa benen i ca 6-7 cm lång bitar och rulla ihop dem. De blir då till jättebra hårsnoddar!"
   },
   "339": {
     "id": 339,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Trög champagnekork",
     "description": "Om champagne- eller Mousserande vinkorken är svår att få upp går det mycket enklare om man använder en lätt fuktad disktrasa att greppa den med!"
   },
   "340": {
     "id": 340,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Tuschfläckar",
     "description": "Svåra fläckar på golv eller väggar av till exempel tusch, kan man få bort med lite Vademecum munvatten på en bomullstuss. Detta fungerar även om man har råkat använda fel sorts penna på en whiteboardtavla."
   },
   "341": {
     "id": 341,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Tuggummi",
     "description": "Tuggummi är enklare att få bort från kläder om man fryser in plagget först så att tuggummit stelnar."
   },
   "342": {
     "id": 342,
-    "categories": ["cleaning", "body"],
+    "categories": [
+      "cleaning",
+      "body"
+    ],
     "title": "Tuggummi i håret",
     "description": "Om man har fått tuggummi i håret ska man smeta in hela tuggummibiten med jordnötssmör, och sedan försiktigt dra bort det ur håret. Kamma sedan bort eventuella rester. Låter riktigt knasigt, men fungerar faktiskt, även om det blir lite kladdigt!"
   },
   "343": {
     "id": 343,
-    "categories": ["cleaning", "clothes"],
+    "categories": [
+      "cleaning",
+      "clothes"
+    ],
     "title": "Tvätta baskern",
     "description": "För att en basker ska hålla formen efter textil kan man låta den torka efter att man trätt upp den på en papptallrik av lämplig storlek."
   },
   "344": {
     "id": 344,
-    "categories": ["textile"],
+    "categories": [
+      "textile"
+    ],
     "title": "Underlakan",
     "description": "Om man vill få underlakanet att hålla sig på plats kan man spänna fast det med gamla hängslen på madrassens undersida!"
   },
   "345": {
     "id": 345,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Uppiggande bad",
     "description": "Häller man en kopp äppelcidervinäger i badvattnet blir hela kroppen pigg och man känner sig som en ny människa. Ett enkelt tips för att må bättre, speciellt under de mörka månaderna!"
   },
   "346": {
     "id": 346,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Urinvägsinfektion 1",
     "description": "Vid en lättare urinvägsinfektion kan det hjälpa att dricka pressad citronsaft eller tranbärsjuice. Citronsaften kan blandas med lite vatten och eventuellt lite socker eller sötningsmedel och isbitar så smakar det riktigt gott!"
   },
   "347": {
     "id": 347,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Urinvägsinfektion 2",
     "description": "Vid en envis urinvägsinfektion kan man prova att dricka hett vatten med pressade vitlöksklyftor i. Det smakar pyton men det hjälper!"
   },
   "348": {
     "id": 348,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Utslag och sveda",
     "description": "Att ha en Aloe Vera-planta hemma i fönstret är bra till mycket! Vid utslag och sveda, insektsbett, torr hud, självsprickor och kanske hundens känsliga trampdynor kan man finna lindring genom att smörja med gelen som finns i växten. Bryt bara av en liten bit av plantan och kläm ut vätskan som finns i en kanal i mitten. Aloe Vera-plantan växer ut ganska så fort igen, men för att inte stympa hela växten kan det vara bra att spara biten i en liten plastpåse eller tättslutande burk så man kan använda samma bit flera gånger."
   },
   "349": {
     "id": 349,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Vacker pasta",
     "description": "Vacker gul färg på pastan utan att den tar smak får man genom att koka den med lite mild curry i vattnet. Använder man mycket curry när man kokar äggnudlar får de ibland en häftig illröd nyans, som kan vara roligt till olika arrangemang!"
   },
   "350": {
     "id": 350,
-    "categories": ["sickness", "body"],
+    "categories": [
+      "sickness",
+      "body"
+    ],
     "title": "Vagel i ögat",
     "description": "Brygg lite te, svart eller grönt spelar ingen roll, och låt svalna. Häll upp i ett glas eller liknande och skölj ögat med den kalla vätskan genom att blinka ordentligt i den. Upprepa behandlingen om vageln inte försvinner efter första gången. Detta kan göras både morgon och kväll tills vageln är borta!"
   },
   "351": {
     "id": 351,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Vattnet kokar över",
     "description": "För att slippa att vattnet i kastrullen kokar över kan man lägga ett bestick i trä eller metall tvärs över kastrullen istället för ett lock!"
   },
   "352": {
     "id": 352,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "Varmare skor",
     "description": "Om man fryser om fötterna i sina skor, och har tillgång till halm, får man varma och sköna fötter om man tillverkar en sula av detta att lägga i skorna."
   },
   "353": {
     "id": 353,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Vidbränd kastrull 1",
     "description": "Fastbrända rester i en kastrull får man enkelt bort genom att koka upp vatten med maskindiskpulver."
   },
   "354": {
     "id": 354,
-    "categories": ["cleaning", "kitchen"],
+    "categories": [
+      "cleaning",
+      "kitchen"
+    ],
     "title": "Vidbränd kastrull 2",
     "description": "Häll 2-3 cm Coca Cola i kastrullen och låt det koka upp ordentligt på spisen. Gnugga sedan litegrann med en diskborste och allt löses upp på nolltid!"
   },
   "355": {
     "id": 355,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Vidbränd mat",
     "description": "Skulle man råka bränna vid maten så märks den brända smaken mindre om man tillsätter en tesked brännvin."
   },
   "356": {
     "id": 356,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Vidbränd mjölk",
     "description": "Om man har råkat bränna vid mjölk i botten av kastrullen går det enklare att få bort genom att diska den med strösocker. Då behöver man inte alls gnugga lika mycket som med diskmedel."
   },
   "357": {
     "id": 357,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Vinslattar",
     "description": "Rödvinsslatten som blir kvar efter lördagskvällen kan man ta tillvara på genom att frysa in vinet som isbitar att ha i frysen. När man sedan kokar sås och vill piffa upp den lite så är det praktiskt att ha små isbitar tillhands. Detta fungerar även med överbliven grädde, eller när man har kokat fond. Och det praktiska formatet gör det sedan smidigt att dosera! Har man mycket vätska är det enklast att använda sådana där ispåsar i plast som finns i matvaruaffärerna."
   },
   "358": {
     "id": 358,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Vintertvätta mattan",
     "description": "Ett effektivt sätt att rengöra mattor när det är snö ute är att först kyla mattan ute en stund, och sedan lägga mattan i snön ett tag med luggen neråt. Borsta sedan av snön med en borste och mattan är ren och fräsch igen."
   },
   "359": {
     "id": 359,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Vitare tänder",
     "description": "Vitare tänder till en liten kostnad får man om man borstar dem med bikarbonat en gång i månaden. Var dock noga med att inte göra detta för ofta då det i så fall kan slita på emalj och tandkött!"
   },
   "360": {
     "id": 360,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Vitlökspressen",
     "description": "Det är lättare att få bort vitlöken ur vitlökspressen när man är klar om man pressar löken med det hårda skalet kvar!"
   },
   "361": {
     "id": 361,
-    "categories": ["outdoors"],
+    "categories": [
+      "outdoors"
+    ],
     "title": "Vårplantering",
     "description": "Ett bra tips inför vårens plantering är att redan tidigt på vintern börja spara på tomma mjölkpaket. Man kan sedan dela på paketen och använda underdelen som kruka att driva upp växterna i. Eftersom de är fyrkantiga är de lätta att rada upp bredvid varandra på en bricka eller ett bord, och de är också lätta att riva av när växterna ska planteras ut. Det är dessutom miljövänligt eftersom mjölkpaketen återvänds, och ekonomiskt eftersom man slipper köpa plastkrukor! Ett alternativ till mjölkpaket kan även vara ituklippta läskburkar."
   },
   "362": {
     "id": 362,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Väldoftande dammsugare",
     "description": "För att slippa dålig lukt från dammsugaren kan man suga in en bomullstuss som man har sprayat med en god parfym eller rengöringsmedel, alternativt en liten hög med pulvertvättmedel, i dammsugaren."
   },
   "363": {
     "id": 363,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Väldoftande bil",
     "description": "Om man inte vill ha doftgranar och liknande hängande i vindrutan, kan man istället lägga en trasa indränkt i sköljmedel under sätet. Det sprider en mild, ren doft i bilen."
   },
   "364": {
     "id": 364,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Vässa kajalpennan",
     "description": "En kajalpenna blir enklare att vässa skarp om man lägger pennan i frysen en liten stund innan man vässar."
   },
   "365": {
     "id": 365,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Äggskal i bunken",
     "description": "När man knäcker ägg i en bunke är det lätt hänt att en skalbit åker med ner. Om man använder skalhalvan till att fiska upp bitarna så glider de inte undan som de gör när man försöker få fatt på de med fingrarna."
   },
   "366": {
     "id": 366,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Ägg som spricker",
     "description": "Om man lägger en tesked av silver i det kokande äggvattnet, så drar den åt sig bubblorna och risken för att äggen spricker minskar."
   },
   "367": {
     "id": 367,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Äggvitor",
     "description": "Ska man vispa äggvita går det lättare och skummet blir fastare om man tillsätter en liten nypa salt."
   },
   "368": {
     "id": 368,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Överbliven äggvita",
     "description": "Denna kan man låta torka på ett fat. När den har stelnat kan man lossa den i bitar eller göra till pulver. Det hemgjorda äggpulvret kan sedan vispas efter att det lagts i vatten, en struken tesked är ungefär lika mycket som en äggvita."
   },
   "369": {
     "id": 369,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "Överstrykningspenna",
     "description": "Fläckar från de flesta överstrykningpennor får man enkelt bort med ättiksprit."
   },
   "370": {
     "id": 370,
-    "categories": ["kitchen"],
+    "categories": [
+      "kitchen"
+    ],
     "title": "Lock som sitter fast",
     "description": "Är det svårt att få loss ett skruvlock på en burk kan man föra in spetsen av en mindre kniv mellan burk och lock underifrån och vicka/skruva lite på kniven tills det klickar till. Sedan går det enkelt att skruva av locket."
   },
   "371": {
     "id": 371,
-    "categories": ["bathroom", "cleaning"],
+    "categories": [
+      "bathroom",
+      "cleaning"
+    ],
     "title": "Kalk på duschväggar",
     "description": "Duschväggar i glas med kalkbeläggningar kan vara svåra att få rena. Använd lite fönsterputs eller rengöringsspray direkt på glaset och gnugga sedan överallt med lite ihopskrynklat bakplåtspapper så lossnar det enkelt. Skölj bara av med duschen sedan så är väggarna rena och glansiga."
   },
   "372": {
     "id": 372,
-    "categories": ["kitchen", "bathroom", "cleaning"],
+    "categories": [
+      "kitchen",
+      "bathroom",
+      "cleaning"
+    ],
     "title": "Hemgjord propplösare",
     "description": "När vattnet rinner trögt i diskho eller handfat kan man göra en egen propplösare genom att hälla ner bikarbonat i silen och sedan lite ättika. Låt det bubbla ett tag och skölj sedan med ljummet vatten. Upprepa vid behov."
   },
   "373": {
     "id": 373,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Blänkande diskbänk och ho",
     "description": "Dela en citron på mitten och häll diskmedel på snittytan. Gnugga sedan hon och diskbänken med citronhalvan med diskmedel på och skölj efteråt för en blänkande diskho."
   },
   "374": {
     "id": 374,
-    "categories": ["food", "cleaning"],
+    "categories": [
+      "food",
+      "cleaning"
+    ],
     "title": "Spillt ägg",
     "description": "Spiller man ut rått ägg kan det vara svårt att torka upp. Häll grovsalt över ägget innan ni först eventuellt sopar ihop och sedan torkar med en vanlig disktrasa så får ni med allt på en gång."
   },
   "375": {
     "id": 375,
-    "categories": ["hobby", "cleaning", "body"],
+    "categories": [
+      "hobby",
+      "cleaning",
+      "body"
+    ],
     "title": "Färgfläckar på händerna",
     "description": "Har man målat eller pysslat och fått vattenbaserad färg på händerna kan det vara svårt att få bort allt med vanlig tvål. Tvätta händerna i raklödder istället så går de flesta fläckarna bort i ett nafs."
   },
   "376": {
     "id": 376,
-    "categories": ["hobby", "cleaning", "body"],
+    "categories": [
+      "hobby",
+      "cleaning",
+      "body"
+    ],
     "title": "Färgfläckar på händerna 2",
     "description": "Har man målat med oljebaserade färger och har fått färgfläckar på händerna kan det vara svårt att få bort fläckarna med bara tvål. Ta lite rapsolja eller liknande olja som används vid matlagning och använd som tvål för att lösa upp färgen. Tvätta sedan händerna med diskmedel för att få bort oljan. Smörj sedan in händerna efteråt då de blir torra av diskmedel."
   },
   "377": {
     "id": 377,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Bränd botten på kastrullen",
     "description": "Har ni en kastrull som blivit missfärgad på undersidan kan det gå att få bort genom att dela en potatis på hälften och doppa snittytan i vanligt finsalt. Sköljs kastrullens undersida och gnugga sedan med potatisen tills det bruna försvinner."
   },
   "378": {
     "id": 378,
-    "categories": ["hobby", "cleaning"],
+    "categories": [
+      "hobby",
+      "cleaning"
+    ],
     "title": "Smutsigt strykjärn",
     "description": "Har man råkat få brända fläckar på strykjärnets sula går det att få bort om man häller lite finsalt på ett bakplåtspapper och sedan stryker på saltet på medelvärme med cirkulära rörelser.Det är då det brända fastnar i saltet. Är järnet mycket smutsigt kan man behöva upprepa detta med rent salt."
   },
   "379": {
     "id": 379,
-    "categories": ["jewelry", "cleaning"],
+    "categories": [
+      "jewelry",
+      "cleaning"
+    ],
     "title": "Smutsiga silversmycken",
     "description": "Spruta rakskum i en skål, stoppa ner smyckena där och täck ordentlig med skummet. Skrubba lite med en ren tandborste och torka torrt med en frottéhandduk för glänsande rena silversmycken."
   },
   "380": {
     "id": 380,
-    "categories": ["kitchen", "cleaning"],
+    "categories": [
+      "kitchen",
+      "cleaning"
+    ],
     "title": "Matta bestick",
     "description": "Lägg besticken i en matlåda eller liknande och täck med varmt vatten. Pressa i en halv citron i vattnet och låt sedan ligga i 10-15 minuter. Putsa sedan med en kökshandduk så blir de glänsande och fina igen."
   },
   "381": {
     "id": 381,
-    "categories": ["clothes", "cleaning"],
+    "categories": [
+      "clothes",
+      "cleaning"
+    ],
     "title": "Smutsiga skosulor",
     "description": "Vita skosulor som blivit dassiga blir vita och fina igen om man tar en liten skål med finsalt, pressar över lite citron och blandar till en pasta. Använd en tandborste för att gnugga in blandningen på sulorna och torka sedan rent."
   },
   "382": {
     "id": 382,
-    "categories": ["hobby", "elektronics"],
+    "categories": [
+      "hobby",
+      "elektronics"
+    ],
     "title": "Mobilhållare i bilens baksäte",
     "description": "Behöver man snabbt en stänk- och petsäker mobilhållare till barnen i baksätet (eller om flera ska titta på samma film) kan man lyfta bort nackstödet på framsätet, placera en stor ziplockpåse med öppningen åt sidan så att överkanten ligger över hålen där nackstödet ska ner igen. Gör ett par små hål i påsen där nackstödets pinnar ska igenom och sätt tillbaka stödet på plats med påsen emellan. Sätt på valfri film, stäng påsens blixtlås i sidan och njut av en lugn bilresa."
   },
   "383": {
     "id": 383,
-    "categories": ["kitchen", "food"],
+    "categories": [
+      "kitchen",
+      "food"
+    ],
     "title": "Bakplåtspapper som glider",
     "description": "När man ska klä en form med bakplåtspapper är det ibland svårt att få det att ligga på plats. Häll lite vatten i formens botten innan ni lägger dit pappret och tryck sedan fast det i botten så ligger det kvar."
   },
   "384": {
     "id": 384,
-    "categories": ["kitchen", "food"],
+    "categories": [
+      "kitchen",
+      "food"
+    ],
     "title": "Bakplåtspapper som glider 2",
     "description": "När man ska klä en form som inte är anpassad för bakplåtspapper är det ibland svårt att få det att stanna i formen. Knyckla ihop pappret och gör det till en liten boll. Räta sedan ut bakplåtspappret igen och placera det i formen."
   },
   "385": {
     "id": 385,
-    "categories": ["kitchen", "food"],
+    "categories": [
+      "kitchen",
+      "food"
+    ],
     "title": "Vacuumpacka mat/frukt",
     "description": "Har man ingen vacuumpackare i köket kan man ändå vacuumförpacka icke flytande livsmedel (exempelvis fruktbitar och likande) om man lägger de i en ziplockpåse och för ner ett sugrör i ena sidan av öppningen. Stäng fram till sugröret och sug ut luften med sugröret och dra ut röret ur påsen snabbt medan ni stänger den sista lilla biten."
   },
   "386": {
     "id": 386,
-    "categories": ["hobby"],
+    "categories": [
+      "hobby"
+    ],
     "title": "För lite omslagspapper",
     "description": "Ska ni slå in en present och har för lite omslagspapper för att det ska räcka runtom hela presenten? Testa att lägga gåvan på diagonalen istället och slå in, då täcker pappret mer av ytan."
   },
   "387": {
     "id": 387,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Kylande sommarsnacks för mindre barn",
     "description": "Varma sommardagar eller för att lindra exempelvis tandsprickning kan man göra kylande snacks genom att klicka ut små slantar av fruktpure (hemgjord eller från klämmisar) på en plåt och frysa en stund. Lossa med en stekspade eller osthyvel, lägg i en skål och servera. Nyttigt och gott!"
   },
   "388": {
     "id": 388,
-    "categories": ["bathroom", "cleaning"],
+    "categories": [
+      "bathroom",
+      "cleaning"
+    ],
     "title": "God doft i badrummet",
     "description": "En fiffig doftspridare till badrummet kan man göra själv med hjälp av en binda och eterisk olja. Dutta väldoftande olja på bindan och fäst den sedan med hjälp av klistret på undersidan någonstans där den inte syns, exempelvis bakom toalettstolen eller under tvättstället."
   },
   "389": {
     "id": 389,
-    "categories": ["clothes"],
+    "categories": [
+      "clothes"
+    ],
     "title": "För små skor",
     "description": "Nya skor som är lite trånga kan gå att töja ut genom att lägga en ziplockpåse i varje sko, fylla påsen med vatten, stänga igen den och placera skor med påse i frysen. Vatten expanderar nämligen när det fryser och kan därmed hjälpa till att töja ut skorna."
   },
   "390": {
     "id": 390,
-    "categories": ["indoors", "textile"],
+    "categories": [
+      "indoors",
+      "textile"
+    ],
     "title": "Perfekta veck på gardinen",
     "description": "För jämna veck på en gardin med öljetter kan man mellan varannan öljett (där tyget hänger framför stången) placera en tom toalettrulle. Då kommer gardinen hänga med exakta jämna veck."
   },
   "391": {
     "id": 391,
-    "categories": ["sickness"],
+    "categories": [
+      "sickness"
+    ],
     "title": "Plåster som passar",
     "description": "För perfekt passform på ett plåster runt fingret kan man klippa ett jack från mitten av vardera kortsida (där limmet sitter) fram till mittdelen av plåstret. Placera sedan varje \"snibb\" så att plåstret sitter bekvämt runt fingret."
   },
   "392": {
     "id": 392,
-    "categories": ["clothes", "cleaning"],
+    "categories": [
+      "clothes",
+      "cleaning"
+    ],
     "title": "Svettig kepslinning",
     "description": "För att hålla kepsens linning fräsch även under varma sommardagar eller under idrottandekan man fästa ett trosskydd på insidan ovanför skärmen."
   },
   "393": {
     "id": 393,
-    "categories": ["jewelry"],
+    "categories": [
+      "jewelry"
+    ],
     "title": "Resa med smycken",
     "description": "Kedjor och armband kan lätt trassla ihop sig i resväskan eller necessären. Detta undviker man om man genom att klippa av ett sugrör i lämplig längd, träi kedjans ena ände genom sugröret och knäppa den på utsidan."
   },
   "394": {
     "id": 394,
-    "categories": ["hobby", "indoors", "outdoors"],
+    "categories": [
+      "hobby",
+      "indoors",
+      "outdoors"
+    ],
     "title": "Tända ljuslyktor",
     "description": "Ska man tända ljuslyktor där det är svårt att nå med en vanlig tändare och saknar en braständare kan man använda sig av okokt spaghetti. Tänd eld på änden av spaghettin och använd för att tända ljuslyktorna."
   },
   "395": {
     "id": 395,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Dela körsbärstomater",
     "description": "Ska man dela många körsbärstomater går det i ett nafs om man lägger dem mellan två lock (typ sådana som är till matlådor), håller handen på det översta locket och skär mellan locken."
   },
   "396": {
     "id": 396,
-    "categories": ["cleaning"],
+    "categories": [
+      "cleaning"
+    ],
     "title": "Otympliga kartonger till återvinningen",
     "description": "Har man renoverat eller byggt ihop möbler kan kartongerna vara otympliga att hantera efteråt. Sommartid kan man spruta lite vatten på dem med vattenslangen, sedan går de enkelt att vika eller rulla ihop för att forsla iväg."
   },
   "397": {
     "id": 397,
-    "categories": ["body"],
+    "categories": [
+      "body"
+    ],
     "title": "Peeling för hårbottnen",
     "description": "Blanda rumstempererat kokosfett med strösocker. När du duschar kan du massera in det ordentligt i hårbottnen i ca 5 minuter. Det tar bort döda hudceller och stimulerar blodflödet. Schamponera efteråt och se till att få bort alla rester från peelingen. Hårbottnen får sig en rejäl uppfräschning. Peelingen fungerar även för kroppen."
   },
   "398": {
     "id": 398,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Snabb pizzadeg",
     "description": "Om du vill göra hemgjord pizzadeg men inte har tid att vänta på jästiden kan du göra följande: Ta 140 gram vetemjöl, 0,5 tsk salt och 0,75 tsk bakpulver. Häll i 130 gram naturell yoghurt och två msk olja i mjölblandningen och rör ihop till en deg. Är degen för torr kan du blanda i mer olja, är den istället för lös kan du kompensera med mjöl. Degen ska kännas smidig. Låt den sedan vila under duk/plastfolie i ca 10 min, sen är den redo att användas."
   },
   "399": {
     "id": 399,
-    "categories": ["jewelry"],
+    "categories": [
+      "jewelry"
+    ],
     "title": "Nickelallergi",
     "description": "Har du fina örhängen du inte kan använda på grund av allergi så kan du ta ett transparent nagellack och applicera det på de delar av örhänget som har kontakt örat. När det torkat kan du använda örhängena som vanligt."
   },
   "400": {
     "id": 400,
-    "categories": ["animals"],
+    "categories": [
+      "animals"
+    ],
     "title": "Svårklippta smådjursklor",
     "description": "Om det är svårt att hålla kaniner eller marsvin stilla under kloklippning så kan du göra en kanin/marsvinsburrito. Placera djuret på ett badlakan på golvet, stort nog för att djuret får plats på badlakanets bredd, vira handduken sedan in djuret som en burrito i handduken. Då blir det lite enklare att ta fram en tass i taget och klippa."
   },
   "401": {
     "id": 401,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Citronjuice",
     "description": "Istället för att skära upp en hel citron för lite citronjuice kan du göra ett litet hål och pressa ut så mycket juice du behöver."
   },
   "402": {
     "id": 402,
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "title": "Citrusjuice och zest",
     "description": "För att alltid ha citron- eller limejuice hemma kan du pressa citrusfrukterna och hälla i iskubsformar/påsar och frysa in. Du kan även före du pressar juicen riva bort skalet från citrusfrukterna och frysa in även zesten."
   },
   "403": {
     "id": 403,
-    "categories": ["food", "outdoors"],
+    "categories": [
+      "food",
+      "outdoors"
+    ],
     "title": "Non-stick grillgaller",
     "description": "För att slippa att maten fastnar på grillgallret när man grillar kan man dela en potatis och gnida gallret med snittytan innan man börjar grilla."
   },
   "404": {
     "id": 404,
-    "categories": ["outdoors", "vermin"],
+    "categories": [
+      "outdoors",
+      "vermin"
+    ],
     "title": "Myggfritt",
     "description": "För att få bort mygg och getingar från uteplatsen kan man klä ett djupt fat eller en liten skål med folie och sedan hälla kaffepulver i och tända på så att det ryker. Fungerar med både nytt kaffe och kaffesump."
   },
   "405": {
     "id": 405,
-    "categories": ["clothes", "cleaning"],
+    "categories": [
+      "clothes",
+      "cleaning"
+    ],
     "title": "Fräscha kläder",
     "description": "Istället för att ta dina kläder till kemtvätt kan du spraya kläderna med vodka. Spraya främst där det blir mycket svett och låt vädra så blir kläderna fräscha igen."
   }
