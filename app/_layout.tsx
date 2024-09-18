@@ -12,6 +12,8 @@ import { getRandomInt } from '@/helpers/helpers';
 import { arr } from '@/locales/splash-text';
 import { Alert, Platform } from 'react-native';
 import Purchases from 'react-native-purchases';
+import { LikesProvider } from '@/components/Providers/LikesProvider';
+import { ViewsProvider } from '@/components/Providers/ViewsProvider';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -65,14 +67,14 @@ export default function RootLayout() {
   const item = arr.find((item) => item.id === randomInt);
 
   return appIsReady ? (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack >
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="item-content" options={{ headerBackTitle: "Back", headerTitle: "" }} />
-        <Stack.Screen name="+not-found" />
-
-      </Stack>
-    </ThemeProvider>
+    <LikesProvider>
+      <ViewsProvider>
+        <Stack>
+          <Stack.Screen name="(tabs)" />
+          <Stack.Screen name="item-content" />
+        </Stack>
+      </ViewsProvider>
+    </LikesProvider>
 
   ) : (
     <Splash appIsReady={appIsReady} text={item?.text} />
