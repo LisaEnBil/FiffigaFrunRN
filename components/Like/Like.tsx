@@ -40,7 +40,7 @@ export const Like: React.FC<LikeProps> = ({ item, size }) => {
   };
 
   return (
-    <Pressable style={likeStyles.likeContainer} onPress={addItemToList}>
+    <Pressable style={likeStyles.likeContainer} onPressIn={addItemToList}>
       <MaterialIcons name={icon} size={size} color="#e39d9c" />
     </Pressable>
   );

@@ -14,27 +14,32 @@ interface LikesState {
 
 const initialState: LikesState = {
   likes: {},
-  dispatch: () => null, // No-op function
+  dispatch: () => null,
 };
 
 export const LikesContext = createContext<LikesState>(initialState);
 
-export const reducer = (state: any, action: any) => {
+export const reducer = (state: LikesState, action: any) => {
   const { type, payload } = action;
 
   let likes = state.likes;
+  let newLikes;
+
+  console.log("payload", payload)
 
   switch (type) {
     case 'initialize':
       return { ...state, likes: payload.likes };
     case 'add':
-      likes = { ...state.likes, [payload.itemTitle]: true };
-      AsyncStorage.setItem('likes', JSON.stringify(likes));
-      return { ...state, likes };
+      newLikes = { ...state.likes, [payload.itemTitle]: true };
+      AsyncStorage.setItem('likes', JSON.stringify(newLikes));
+      console.log("Added like for:", payload.itemTitle, "New state:", newLikes);
+      return { ...state, likes: newLikes };
     case 'remove':
-      likes = { ...state.likes, [payload.itemTitle]: false };
-      AsyncStorage.setItem('likes', JSON.stringify(likes));
-      return { ...state, likes };
+      newLikes = { ...state.likes, [payload.itemTitle]: false };
+      AsyncStorage.setItem('likes', JSON.stringify(newLikes));
+      console.log("Removed like for:", payload.itemTitle, "New state:", newLikes);
+      return { ...state, likes: newLikes };
     default:
       return state;
   }
