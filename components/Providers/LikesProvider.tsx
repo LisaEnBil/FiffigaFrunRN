@@ -33,12 +33,10 @@ export const reducer = (state: LikesState, action: any) => {
     case 'add':
       newLikes = { ...state.likes, [payload.itemTitle]: true };
       AsyncStorage.setItem('likes', JSON.stringify(newLikes));
-      console.log("Added like for:", payload.itemTitle, "New state:", newLikes);
       return { ...state, likes: newLikes };
     case 'remove':
       newLikes = { ...state.likes, [payload.itemTitle]: false };
       AsyncStorage.setItem('likes', JSON.stringify(newLikes));
-      console.log("Removed like for:", payload.itemTitle, "New state:", newLikes);
       return { ...state, likes: newLikes };
     default:
       return state;
