@@ -3,10 +3,19 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { ReactNode, useEffect, useReducer } from 'react';
 
 interface ViewsProviderProps {
-  children: ReactNode;
+  children: any;
 }
 
-export const reducer = (state: any, action: any) => {
+interface State {
+  views: number
+};
+
+interface ActionType {
+  payload: Record<string, any>,
+  type: string
+}
+
+export const reducer = (state: State, action: ActionType) => {
   const { type, payload } = action;
 
   switch (type) {

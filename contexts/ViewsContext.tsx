@@ -8,5 +8,5 @@ export interface ViewsState {
 }
 
 
-export const ViewsContext = createContext<ViewsState>({ views: 0, dispatch: () => null });
+export const ViewsContext = createContext<any>({});
 
