@@ -5,7 +5,6 @@ import {
   Text,
   View,
 } from 'react-native';
-import { BackButton } from '../components/Buttons/BackButton';
 import { Like } from '../components/Like/Like';
 import { useCallback, useContext, useEffect, useState } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
@@ -13,6 +12,7 @@ import { Item } from '@/types/global-types';
 import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
 import { ThemedView } from '@/components/ThemedView';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
+import { app, } from '@/helpers/translations';
 
 export default function ItemContent() {
   const router = useRouter();
@@ -50,7 +50,15 @@ export default function ItemContent() {
 
   return (
     <View style={{ flex: 1, backgroundColor: '#97B1A6', }}>
-      <Stack.Screen options={{ headerStyle: { backgroundColor: '#97B1A6' }, headerShadowVisible: false, headerTitle: "" }} />
+      <Stack.Screen options={
+        {
+          headerStyle: {
+            backgroundColor: '#97B1A6'
+          },
+          headerShadowVisible: false,
+          headerTitle: "",
+          headerBackTitle: app.buttons.back
+        }} />
       <ThemedView style={itemContentStyles.container}>
         <View style={itemContentStyles.container}>
           {views >= 6 &&
