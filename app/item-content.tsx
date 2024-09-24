@@ -49,8 +49,8 @@ export default function ItemContent() {
   }, [createItem, addView]);
 
   return (
-    <>
-      <Stack.Screen options={{ title: title[0] }} />
+    <View style={{ flex: 1, backgroundColor: '#97B1A6', }}>
+      <Stack.Screen options={{ headerStyle: { backgroundColor: '#97B1A6' }, headerShadowVisible: false, headerTitle: "" }} />
       <ThemedView style={itemContentStyles.container}>
         <View style={itemContentStyles.container}>
           {views >= 6 &&
@@ -66,7 +66,7 @@ export default function ItemContent() {
           </View>
         </View>
       </ThemedView>
-    </>
+    </View>
   );
 };
 
