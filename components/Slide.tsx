@@ -45,7 +45,7 @@ export const Slide: React.FC<SlideProps> = ({ slide, scrollX, index }) => {
 
   return (
     <View>
-      <Link href={{ pathname: '/', params: { name: 'Bacon' } }}>
+      <Link href={{ pathname: '/item-content', params: slide }} >
 
         <Animated.View
           key={index}
