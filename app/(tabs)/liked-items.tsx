@@ -13,41 +13,51 @@ import { emailStyles } from './styles/email.styles';
 
 export default function LikedItems() {
   const data = useGetLikedItems();
-  const [userIsSubscribed, setUserIsSubscribed] = useState(false);
+  // const [userIsSubscribed, setUserIsSubscribed] = useState(true);
 
-  const isSubscribed = async () => {
-    const paywallResult = await RevenueCatUI.presentPaywallIfNeeded({
-      requiredEntitlementIdentifier: 'pro',
-    });
+  // const isSubscribed = async () => {
+  //   const paywallResult = await RevenueCatUI.presentPaywallIfNeeded({
+  //     requiredEntitlementIdentifier: 'pro',
+  //   });
 
-    switch (paywallResult) {
-      case PAYWALL_RESULT.NOT_PRESENTED:
-        return true;
-      case PAYWALL_RESULT.ERROR:
-      case PAYWALL_RESULT.CANCELLED:
-        return false;
-      case PAYWALL_RESULT.PURCHASED:
-      case PAYWALL_RESULT.RESTORED:
-        return true;
-      default:
-        return false;
-    }
-  };
+  //   switch (paywallResult) {
+  //     case PAYWALL_RESULT.NOT_PRESENTED:
+  //       return true;
+  //     case PAYWALL_RESULT.ERROR:
+  //     case PAYWALL_RESULT.CANCELLED:
+  //       return false;
+  //     case PAYWALL_RESULT.PURCHASED:
+  //     case PAYWALL_RESULT.RESTORED:
+  //       return true;
+  //     default:
+  //       return false;
+  //   }
+  // };
 
-  useEffect(() => {
-    const proAction = async () => {
-      if (await isSubscribed()) {
-        Alert.alert('User has acces');
-        setUserIsSubscribed(true);
-      }
-    };
+  // useEffect(() => {
+  //   const proAction = async () => {
+  //     if (await isSubscribed()) {
+  //       Alert.alert('User has acces');
+  //       setUserIsSubscribed(true);
+  //     }
+  //   };
 
-    proAction();
-  }, []);
+  //   proAction();
+  // }, []);
 
   return (
     <SafeAreaView style={emailStyles.safeAreaStyle}>
-      {userIsSubscribed ? (
+      <View style={likedItemsStyles.list}>
+        {data.length != 0 ? (
+          <List data={data} />
+        ) : (
+          <View style={{ width: '90%' }}>
+            <TextBox text={app.favourites.emptyList} />
+            <SvgComponent />
+          </View>
+        )}
+      </View>
+      {/* {userIsSubscribed ? (
         <View style={likedItemsStyles.list}>
           {data.length != 0 ? (
             <List data={data} />
@@ -62,7 +72,7 @@ export default function LikedItems() {
         <View style={likedItemsStyles.list}>
           <TextBox text={app.favourites.noSubscription} />
         </View>
-      )}
+      )} */}
     </SafeAreaView>
   );
 };
