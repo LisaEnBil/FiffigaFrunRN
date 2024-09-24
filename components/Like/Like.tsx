@@ -11,17 +11,12 @@ interface LikeProps {
 }
 
 export const Like: React.FC<LikeProps> = ({ item, size }) => {
-  const context = useContext(LikesContext);
-
-  if (!context) {
-    throw new Error('Like must be used within a LikesProvider');
-  }
-
-  const { likes, dispatch } = context;
+  const { likes, dispatch } = useContext(LikesContext);
 
   const icon = likes[item.title] ? 'favorite' : 'favorite-outline';
 
   const addItemToList = async () => {
+
     if (likes[item.title]) {
       dispatch({
         type: 'remove',
@@ -40,7 +35,7 @@ export const Like: React.FC<LikeProps> = ({ item, size }) => {
   };
 
   return (
-    <Pressable style={likeStyles.likeContainer} onPressIn={addItemToList}>
+    <Pressable style={likeStyles.likeContainer} onPress={addItemToList}>
       <MaterialIcons name={icon} size={size} color="#e39d9c" />
     </Pressable>
   );
