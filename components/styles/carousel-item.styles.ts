@@ -38,5 +38,6 @@ export const carouselStyles = StyleSheet.create({
   contentContainer: {
     paddingHorizontal: paddingHorizontal,
     marginBottom: 10,
+    marginTop: 10
   },
 });
