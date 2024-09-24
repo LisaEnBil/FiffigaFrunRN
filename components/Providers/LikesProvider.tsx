@@ -1,56 +1,47 @@
-import { LikedItem } from '@/types/global-types';
-import React, { createContext, ReactNode, useEffect, useReducer } from 'react';
+import React, { useEffect, useReducer } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-
+import { LikesContext } from '@/contexts/LikesContext';
 
 interface LikesProviderProps {
-  children: ReactNode;
+  children: any;
 }
 
-interface LikesState {
-  likes: Record<string, LikedItem>;
-  dispatch: React.Dispatch<any>;
-}
-
-const initialState: LikesState = {
-  likes: {},
-  dispatch: () => null,
+interface State {
+  likes: {}
 };
 
-export const LikesContext = createContext<LikesState>(initialState);
+interface ActionType {
+  payload: Record<string, any>,
+  type: string
+}
 
-export const reducer = (state: LikesState, action: any) => {
+
+const reducer = (state: State, action: ActionType) => {
   const { type, payload } = action;
 
   let likes = state.likes;
-  let newLikes;
-
-  console.log("payload", payload)
 
   switch (type) {
     case 'initialize':
       return { ...state, likes: payload.likes };
     case 'add':
-      newLikes = { ...state.likes, [payload.itemTitle]: true };
-      AsyncStorage.setItem('likes', JSON.stringify(newLikes));
-      return { ...state, likes: newLikes };
+      likes = { ...state.likes, [payload.itemTitle]: true };
+      AsyncStorage.setItem('likes', JSON.stringify(likes));
+      return { ...state, likes };
     case 'remove':
-      newLikes = { ...state.likes, [payload.itemTitle]: false };
-      AsyncStorage.setItem('likes', JSON.stringify(newLikes));
-      return { ...state, likes: newLikes };
+      likes = { ...state.likes, [payload.itemTitle]: false };
+      AsyncStorage.setItem('likes', JSON.stringify(likes));
+      return { ...state, likes };
     default:
       return state;
   }
 };
 
-
-
 export const LikesProvider: React.FC<LikesProviderProps> = ({ children }) => {
-  //const [state, dispatch] = useReducer(reducer, { likes: {} });
 
-  const [state, dispatch] = useReducer(reducer, initialState);
-
-  console.log("state", state)
+  const [state, dispatch] = useReducer(reducer, {
+    likes: {}
+  });
 
   useEffect(() => {
     const loadLikes = async () => {
@@ -67,7 +58,7 @@ export const LikesProvider: React.FC<LikesProviderProps> = ({ children }) => {
     };
 
     loadLikes();
-  }, []);
+  }, [dispatch]);
 
   return (
     <LikesContext.Provider value={{ likes: state.likes, dispatch }}>
