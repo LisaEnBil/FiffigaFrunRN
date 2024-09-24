@@ -4,6 +4,7 @@ import { TabBarIcon } from '@/components/navigation/TabBarIcon';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { HeaderButton } from '@/components/Buttons/HeaderButton';
+import { app } from '@/helpers/translations';
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
@@ -11,13 +12,20 @@ export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
+        tabBarActiveTintColor: '#ffffff',
+        tabBarInactiveTintColor: '#b4c4cb',
+        tabBarStyle: { backgroundColor: '#698996' },
+        tabBarHideOnKeyboard: true,
         headerShown: false,
+        headerTitleStyle: {
+          color: '#FFFFFF',
+          fontFamily: 'Comfortaa_700Bold',
+        },
       }}>
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Home',
+          title: app.navbar.home,
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'home' : 'home-outline'} color={color} />
           ),
@@ -26,7 +34,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="list-view"
         options={{
-          title: 'All tips',
+          title: app.navbar.tips,
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'list' : 'list-outline'} color={color} />
           ),
@@ -35,7 +43,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="liked-items"
         options={{
-          title: 'Favorites',
+          title: app.navbar.favourites,
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'heart' : 'heart-outline'} color={color} />
           ),
@@ -44,7 +52,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="email"
         options={{
-          title: 'Email',
+          title: app.navbar.email,
           tabBarIcon: ({ color, focused }) => (
             <TabBarIcon name={focused ? 'mail' : 'mail-outline'} color={color} />
           ),
