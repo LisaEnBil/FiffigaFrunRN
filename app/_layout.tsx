@@ -70,7 +70,9 @@ export default function RootLayout() {
     <LikesProvider>
       <ViewsProvider>
         <Stack>
-          <Stack.Screen name="(tabs)" />
+          <Stack.Screen name="(tabs)" options={() => ({
+            headerShown: false,
+          })} />
           <Stack.Screen name="item-content" />
         </Stack>
       </ViewsProvider>
