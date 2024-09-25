@@ -18,7 +18,6 @@ import { ViewsProvider } from '@/components/Providers/ViewsProvider';
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
-  const colorScheme = useColorScheme();
   const [appIsReady, setAppIsReady] = useState(false);
   const [loaded] = useFonts({
     SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
@@ -26,12 +25,6 @@ export default function RootLayout() {
     Comfortaa_400Regular,
     Comfortaa_300Light,
   });
-
-  // useEffect(() => {
-  //   if (loaded) {
-  //     SplashScreen.hideAsync();
-  //   }
-  // }, [loaded]);
 
   useEffect(() => {
     if (Platform.OS === 'ios') {
