@@ -1,12 +1,12 @@
 import { Dimensions, StyleSheet } from 'react-native';
 
 const windowWidth = Dimensions.get('screen').width;
+const cardWidth = (90 / 100) * windowWidth;
 
 export const listStyles = StyleSheet.create({
   sectionHeader: {
     minHeight: 30,
     backgroundColor: '#97B1A6',
-    paddingTop: '2%',
     marginBottom: 5,
     elevation: 0,
   },
@@ -17,6 +17,6 @@ export const listStyles = StyleSheet.create({
   },
   contentContainer: {
     width: windowWidth,
-    paddingHorizontal: '5%',
+    paddingHorizontal: cardWidth,
   },
 });
