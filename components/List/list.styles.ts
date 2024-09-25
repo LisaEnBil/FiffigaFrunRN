@@ -7,6 +7,7 @@ export const listStyles = StyleSheet.create({
     minHeight: 30,
     backgroundColor: '#97B1A6',
     paddingTop: '2%',
+    marginBottom: 5,
     elevation: 0,
   },
   sectionHeaderText: {
