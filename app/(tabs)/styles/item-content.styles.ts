@@ -38,4 +38,13 @@ export const itemContentStyles = StyleSheet.create({
     justifyContent: 'flex-end',
     width: '100%',
   },
+  blurContainer: {
+    flex: 1,
+    padding: 20,
+    margin: 16,
+    textAlign: 'center',
+    justifyContent: 'center',
+    overflow: 'hidden',
+    borderRadius: 20,
+  },
 });

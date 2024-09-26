@@ -13,6 +13,8 @@ import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-rout
 import { ThemedView } from '@/components/ThemedView';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 import { app, } from '@/helpers/translations';
+import { BlurView } from 'expo-blur';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 export default function ItemContent() {
   const router = useRouter();
@@ -49,22 +51,24 @@ export default function ItemContent() {
   }, [createItem, addView]);
 
   return (
-    <View style={{ flex: 1, backgroundColor: '#97B1A6', }}>
-      <Stack.Screen options={
-        {
-          headerStyle: {
-            backgroundColor: '#97B1A6'
-          },
-          headerShadowVisible: false,
-          headerTitle: "",
-          headerBackTitle: app.buttons.back
-        }} />
-      <ThemedView style={itemContentStyles.container}>
+    <SafeAreaProvider>
+      <View style={{ flex: 1, backgroundColor: '#97B1A6' }}>
+        <Stack.Screen options={
+          {
+            headerStyle: {
+              backgroundColor: '#97B1A6'
+            },
+            headerShadowVisible: false,
+            headerTitle: "",
+            headerBackTitle: app.buttons.back
+          }} />
         <View style={itemContentStyles.container}>
+
           {views >= 6 &&
-            <View>
-              <Text style={itemContentStyles.title}>Placeholder for Max views</Text>
-            </View>
+
+            <BlurView intensity={100} style={itemContentStyles.blurContainer}>
+              <Text style={itemContentStyles.text}>"HELLO!!!!!</Text>
+            </BlurView>
 
           }
           <LikesContainer item={item} />
@@ -73,10 +77,12 @@ export default function ItemContent() {
             <Text style={itemContentStyles.text}>{description}</Text>
           </View>
         </View>
-      </ThemedView>
-    </View>
+      </View>
+    </SafeAreaProvider>
   );
 };
+
+
 
 export const SafeArea = StyleSheet.create({
   Android: {

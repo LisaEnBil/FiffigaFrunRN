@@ -15,6 +15,7 @@ import Purchases from 'react-native-purchases';
 import { LikesProvider } from '@/components/Providers/LikesProvider';
 import { ViewsProvider } from '@/components/Providers/ViewsProvider';
 
+Purchases.setLogLevel(Purchases.LOG_LEVEL.VERBOSE);
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
