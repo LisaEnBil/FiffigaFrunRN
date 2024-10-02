@@ -10,11 +10,10 @@ import { useCallback, useContext, useEffect, useState } from 'react';
 import { ViewsContext, ViewsState } from '@/contexts/ViewsContext';
 import { Item } from '@/types/global-types';
 import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
-import { ThemedView } from '@/components/ThemedView';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 import { app, } from '@/helpers/translations';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { BlurView } from 'expo-blur';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 export default function ItemContent() {
   const router = useRouter();
@@ -51,7 +50,7 @@ export default function ItemContent() {
   }, [createItem, addView]);
 
   return (
-    <SafeAreaProvider>
+    <SafeAreaView style={{ flex: 1, backgroundColor: '#97B1A6' }}>
       <View style={{ flex: 1, backgroundColor: '#97B1A6' }}>
         <Stack.Screen options={
           {
@@ -63,22 +62,19 @@ export default function ItemContent() {
             headerBackTitle: app.buttons.back
           }} />
         <View style={itemContentStyles.container}>
-
-          {views >= 6 &&
-
-            <BlurView intensity={100} style={itemContentStyles.blurContainer}>
-              <Text style={itemContentStyles.text}>"HELLO!!!!!</Text>
-            </BlurView>
-
-          }
           <LikesContainer item={item} />
           <View style={itemContentStyles.content}>
             <Text style={itemContentStyles.title}>{title}</Text>
             <Text style={itemContentStyles.text}>{description}</Text>
           </View>
         </View>
+        {views >= 6 &&
+          <BlurView intensity={50} style={itemContentStyles.blurContainer}>
+            <Text style={itemContentStyles.text}>"HELLO!!!!!</Text>
+          </BlurView>
+        }
       </View>
-    </SafeAreaProvider>
+    </SafeAreaView>
   );
 };
 

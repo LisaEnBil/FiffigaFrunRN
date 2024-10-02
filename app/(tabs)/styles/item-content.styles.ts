@@ -1,25 +1,35 @@
-import { StyleSheet } from 'react-native';
+import { Dimensions, StyleSheet } from 'react-native';
+
+
+const windowWidth = Dimensions.get('screen').width;
+const windowHeight = Dimensions.get('screen').height;
+const marginHorizontal = (5 / 100) * windowWidth;
+const likesContainerPaddingTop = (2.5 / 100) * windowWidth;
+const likesContainerWidth = (95 / 100) * windowWidth;
+
 
 export const itemContentStyles = StyleSheet.create({
   container: {
     backgroundColor: '#2d4e53',
-    marginHorizontal: '5%',
+    marginHorizontal: marginHorizontal,
     borderRadius: 5,
     alignItems: 'center',
-    marginTop: '5%',
     justifyContent: 'center',
     shadowColor: '#171717',
     shadowOffset: { width: 2, height: 4 },
     shadowOpacity: 0.2,
     shadowRadius: 3,
     elevation: 5,
+    position: 'relative',
+
   },
   content: {
-    marginHorizontal: '5%',
+    marginHorizontal: marginHorizontal,
+    position: 'relative',
+    zIndex: 2,
   },
   title: {
-    paddingTop: 5,
-    marginBottom: '5%',
+    marginBottom: 10,
     color: '#FFFCF5',
     fontSize: 24,
     fontFamily: 'Comfortaa_400Regular',
@@ -29,22 +39,23 @@ export const itemContentStyles = StyleSheet.create({
     color: '#FFFCF5',
     fontFamily: 'Comfortaa_400Regular',
     lineHeight: 26,
-    marginBottom: '10%',
+    marginBottom: 10,
   },
   likeContainer: {
-    paddingRight: '3%',
-    paddingTop: '3%',
+    paddingRight: marginHorizontal,
+    paddingTop: likesContainerPaddingTop,
     flexDirection: 'row',
     justifyContent: 'flex-end',
-    width: '100%',
+    width: likesContainerWidth,
   },
   blurContainer: {
-    flex: 1,
-    padding: 20,
-    margin: 16,
-    textAlign: 'center',
-    justifyContent: 'center',
+    position: 'absolute',
+    top: 150,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    borderRadius: 5, // Match the container's borderRadius
     overflow: 'hidden',
-    borderRadius: 20,
+    zIndex: 1,
   },
 });
