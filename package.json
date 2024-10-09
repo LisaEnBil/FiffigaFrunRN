@@ -39,6 +39,7 @@
     "react-native": "^0.75.1",
     "react-native-big-list": "^1.6.1",
     "react-native-gesture-handler": "~2.16.1",
+    "react-native-google-mobile-ads": "^14.2.3",
     "react-native-purchases": "^7.27.1",
     "react-native-purchases-ui": "^7.27.1",
     "react-native-reanimated": "~3.10.1",
