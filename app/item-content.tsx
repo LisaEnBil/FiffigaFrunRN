@@ -1,4 +1,5 @@
 import {
+  Button,
   Platform,
   StatusBar,
   StyleSheet,
@@ -12,10 +13,11 @@ import { Item } from '@/types/global-types';
 import { Stack, useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
 import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 import { app, } from '@/helpers/translations';
-import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { BlurView } from 'expo-blur';
+import { RewardBanner } from '@/components/RewardBanner';
 
-export default function ItemContent() {
+export default async function ItemContent() {
   const router = useRouter();
   const navigation = useNavigation();
 
@@ -49,6 +51,7 @@ export default function ItemContent() {
     addView();
   }, [createItem, addView]);
 
+
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: '#97B1A6' }}>
       <View style={{ flex: 1, backgroundColor: '#97B1A6' }}>
@@ -71,6 +74,8 @@ export default function ItemContent() {
         {views >= 6 &&
           <BlurView intensity={50} style={itemContentStyles.blurContainer}>
             <Text style={itemContentStyles.text}>"HELLO!!!!!</Text>
+            <RewardBanner />
+            {/* <Button title="" onPress={() => RewardBanner}></Button> */}
           </BlurView>
         }
       </View>
