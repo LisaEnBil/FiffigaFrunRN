@@ -14,6 +14,7 @@ import { Alert, Platform } from 'react-native';
 import Purchases from 'react-native-purchases';
 import { LikesProvider } from '@/components/Providers/LikesProvider';
 import { ViewsProvider } from '@/components/Providers/ViewsProvider';
+import { app } from '@/helpers/translations';
 
 Purchases.setLogLevel(Purchases.LOG_LEVEL.VERBOSE);
 SplashScreen.preventAutoHideAsync();
@@ -67,7 +68,15 @@ export default function RootLayout() {
           <Stack.Screen name="(tabs)" options={() => ({
             headerShown: false,
           })} />
-          <Stack.Screen name="item-content" />
+          <Stack.Screen name="item-content" options={
+            {
+              headerStyle: {
+                backgroundColor: '#97B1A6'
+              },
+              headerShadowVisible: false,
+              headerTitle: "",
+              headerBackTitle: app.buttons.back
+            }} />
         </Stack>
       </ViewsProvider>
     </LikesProvider>

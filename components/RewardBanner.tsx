@@ -9,7 +9,7 @@ const rewarded = RewardedAd.createForAdRequest(adUnitId, {
     keywords: ['fashion', 'clothing'],
 });
 
-export function RewardBanner() {
+function RewardBanner() {
     const [loaded, setLoaded] = useState(false);
     const { views, dispatch } = useContext<ViewsState>(ViewsContext);
 
@@ -49,3 +49,5 @@ export function RewardBanner() {
         />
     );
 }
+
+export default RewardBanner
