@@ -15,7 +15,7 @@ import { itemContentStyles } from './(tabs)/styles/item-content.styles';
 import { app, } from '@/helpers/translations';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { BlurView } from 'expo-blur';
-import { RewardBanner } from '@/components/RewardBanner';
+import RewardBanner from '@/components/RewardBanner';
 
 export default async function ItemContent() {
   const router = useRouter();
